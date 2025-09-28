@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ants_diet",
+    "title": "Ant Diet",
+    "summary": "Ants rely on a wide range of foods to fuel their colonies, from sweet liquids to protein-rich meals. Their feeding is guided by both instinct and chemical signals, allowing them to detect nutritious sources and communicate their locations to other colony members. Different species have evolved unique strategies to acquire and process food, from foraging individually or in teams to cultivating fungus gardens. Ants’ diets support not only their energy needs but also the production of pheromones, enzymes, and other chemicals that keep the colony healthy and coordinated.",
+    "parentTopic": "ants",
+    "subtopics": [
+      { "id": "diet_sugars", "order": 1 },
+      { "id": "diet_protein", "order": 2 },
+      { "id": "diet_fungi", "order": 3 },
+      { "id": "diet_special", "order": 4 }
+    ],
+    "factsheets": [{ "id": "ants_diet_overview", "order": 1 }],
+    "questions": [
+      { "id": "how_do_ants_find_food", "order": 1 },
+      { "id": "why_do_ants_farm_fungi", "order": 2 }
+    ]
+  },
+  {
+    "id": "ants_habitat",
+    "title": "Ant Habitat",
+    "summary": "Ants live in colonies underground, in trees, and sometimes inside human structures.",
+    "parentTopic": "ants",
+    "subtopics": [],
+    "factsheets": [{ "id": "ants_habitat", "order": 1 }],
+    "questions": [{ "id": "where_do_ants_build_nests", "order": 1 }]
+  },
+  {
+    "id": "ants_formic_acid",
+    "title": "Formic Acid",
+    "summary": "Formic acid is a chemical produced by ants for defense.",
+    "parentTopic": "ants",
+    "subtopics": [],
+    "factsheets": [{ "id": "ants_formic_acid", "order": 1 }],
+    "questions": [{ "id": "what_is_formic_acid", "order": 1 }]
+  },
+  {
+    "id": "ants_cuticular_hydrocarbons",
+    "title": "Cuticular Hydrocarbons",
+    "summary": "Ants use cuticular hydrocarbons to communicate and identify colony members.",
+    "parentTopic": "ants",
+    "subtopics": [],
+    "factsheets": [{ "id": "ants_cuticular_hydrocarbons", "order": 1 }],
+    "questions": [{ "id": "how_do_ants_recognize_each_other", "order": 1 }]
+  },
+  {
+    "id": "diet_sugars",
+    "title": "Sugars and Nectar",
+    "summary": "Many ants feed on sugary substances like nectar, honeydew produced by aphids, and other plant secretions.",
+    "parentTopic": "ants_diet",
+    "subtopics": [],
+    "factsheets": [],
+    "questions": []
+  },
+  {
+    "id": "diet_protein",
+    "title": "Protein Sources",
+    "summary": "Ants also consume protein sources such as insects, small invertebrates, and scavenged food.",
+    "parentTopic": "ants_diet",
+    "subtopics": [],
+    "factsheets": [],
+    "questions": []
+  },
+  {
+    "id": "diet_fungi",
+    "title": "Fungi Farming",
+    "summary": "Some ant species, like leafcutter ants, cultivate fungi in their nests as a primary food source.",
+    "parentTopic": "ants_diet",
+    "subtopics": [],
+    "factsheets": [],
+    "questions": []
+  },
+  {
+    "id": "diet_special",
+    "title": "Specialized Diets",
+    "summary": "Certain ant species have highly specialized diets, such as feeding exclusively on seeds or living insects.",
+    "parentTopic": "ants_diet",
+    "subtopics": [],
+    "factsheets": [],
+    "questions": []
+  },
+  {
+    "id": "ants_social_structure",
+    "title": "Social Structure",
+    "summary": "Ant colonies are organized into sophisticated social hierarchies with distinct castes including queens, workers, and soldiers, each with specialized roles and responsibilities.",
+    "parentTopic": "ants",
+    "subtopics": [],
+    "factsheets": [],
+    "questions": []
+  },
+  {
+    "id": "ants_reproduction",
+    "title": "Reproduction",
+    "summary": "Ant reproduction involves complex mating flights, colony founding by queens, and the development of different castes through environmental and genetic factors.",
+    "parentTopic": "ants",
+    "subtopics": [],
+    "factsheets": [],
+    "questions": []
+  },
+  {
+    "id": "painting_styles",
+    "title": "Painting Styles",
+    "summary": "Overview of common styles such as realism, impressionism, abstract, and more.",
+    "parentTopic": "painting",
+    "subtopics": [],
+    "factsheets": [],
+    "questions": []
+  },
+  {
+    "id": "painting_materials",
+    "title": "Painting Materials",
+    "summary": "Common materials and tools: paints, solvents, brushes, surfaces, and mediums.",
+    "parentTopic": "painting",
+    "subtopics": [],
+    "factsheets": [],
+    "questions": []
+  },
+  {
+    "id": "painting_purposes",
+    "title": "Purposes of Painting",
+    "summary": "Reasons people paint: expression, documentation, decoration, ritual, and communication.",
+    "parentTopic": "painting",
+    "subtopics": [],
+    "factsheets": [],
+    "questions": []
+  },
+  {
+    "id": "pigments",
+    "title": "Pigments",
+    "summary": "Pigments are the colored particles in paint that absorb and reflect light to produce visible colors. They can come from natural minerals, plants, or synthetic chemical compounds. Throughout history, pigments like ultramarine, ochre, and vermilion have been highly valued for their beauty and rarity. Modern pigments are often engineered for stability, brightness, and resistance to fading, making them essential to both artistic expression and the longevity of paintings.",
+    "parentTopic": "painting",
+    "subtopics": [{ "id": "carmine", "order": 1 }],
+    "factsheets": [
+      {
+        "id": "pigments_general",
+        "order": 1
+      }
+    ],
+    "questions": [
+      "why_pigments_expensive",
+      "which_pigments_toxic",
+      "which_pigments_from_insects"
+    ]
+  },
+  {
+    "id": "binders_and_solvents",
+    "title": "Binders & Solvents",
+    "summary": "Binders form the paint film; solvents adjust viscosity and evaporate during drying.",
+    "parentTopic": "painting",
+    "subtopics": [],
+    "factsheets": [],
+    "questions": []
+  },
+  {
+    "id": "conservation_chemistry",
+    "title": "Conservation Chemistry",
+    "summary": "Analytical methods and treatments used to preserve and restore paintings.",
+    "parentTopic": "painting",
+    "subtopics": [],
+    "factsheets": [],
+    "questions": []
+  },
+  {
+    "id": "degradation_pathways",
+    "title": "Degradation Pathways",
+    "summary": "How paints age: oxidation, hydrolysis, photodegradation, and mechanical failure.",
+    "parentTopic": "painting",
+    "subtopics": [],
+    "factsheets": [],
+    "questions": []
+  },
+  {
+    "id": "carmine",
+    "title": "Carmine",
+    "summary": "Carmine is a deep red pigment derived from cochineal insects native to Central and South America. It is made by harvesting, drying, and processing the insects to extract carminic acid. Historically prized for its vivid color, carmine was used in paintings, manuscripts, textiles, and royal decorations. Today, it is also used in cosmetics, food coloring, and art supplies. Its unique biological source and lasting hue make it an important example of the connection between art, culture, and chemistry.",
+    "parentTopic": "pigments",
+    "subtopics": [],
+    "factsheets": [
+      {
+        "id": "carmine_general",
+        "order": 1
+      },
+      { "id": "carmine_ethics", "order": 2 }
+    ],
+    "questions": [
+      "why_carmine_dominated",
+      "what_makes_carmine_bright",
+      "how_synthetic_carmine_made"
+    ]
+  }
+]

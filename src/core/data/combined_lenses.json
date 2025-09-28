@@ -1,0 +1,93 @@
+[
+  {
+    "id": "chemistry_8yearold_combined",
+    "name": "Chemistry for Kids",
+    "requiresSequence": ["chemistry", "8_year_old"],
+    "rules": {
+      "ants": {
+        "overrides": {
+          "summary": "Ants use chemicals like tiny invisible tools to live and work together. Some chemicals protect them from bugs and germs, some help them find food or warn their friends about danger, and some tell other ants who belongs in their nest. These invisible “ant signals” help them cooperate and stay safe as a team.",
+          "factsheets": ["chemistry_of_ants_kids"],
+          "questions": [
+            "how_do_ants_use_chemical_signals",
+            "what_chemicals_do_ants_produce",
+            "why_is_formic_acid_effective"
+          ]
+        },
+        "filter": {
+          "excludeSubtopics": ["ants_habitat", "ants_reproduction"]
+        },
+        "augment": {
+          "factsheets": ["pheromone_communication_kids"]
+        }
+      },
+      "ants_diet": {
+        "overrides": {
+          "summary": "Ants have tiny chemical superpowers that help them eat and stay healthy. They can “smell” which foods are good using special sensors, and their bodies have little helpers called enzymes that break down sugars, proteins, and fats so they can use the energy. This means ants can turn lots of different foods into fuel to run, build, and take care of their colony.",
+          "factsheets": ["ants_diet_chemistry_kids"],
+          "questions": [
+            "how_do_ants_construct_buildings",
+            "what_engineering_principles_do_ants_use"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "engineering_8yearold_combined",
+    "name": "Engineering for Kids",
+    "requiresSequence": ["engineering", "8_year_old"],
+    "rules": {
+      "ants": {
+        "overrides": {
+          "summary": "Ants are tiny builders! They dig tunnels, make rooms for babies, and even build bridges with their own bodies so other ants can cross. Their homes have air tunnels to keep the nest comfy, just like how buildings use vents.",
+          "factsheets": ["ants_architecture_kids"],
+          "questions": [
+            "how_do_ants_construct_buildings",
+            "what_engineering_principles_do_ants_use"
+          ]
+        },
+        "filter": {
+          "excludeQuestions": ["how_do_ants_find_food"]
+        }
+      }
+      
+    }
+  },
+  {
+    "id": "chemistry_agriculture_combined",
+    "name": "Chemistry x Agriculture",
+    "requiresSequence": ["chemistry", "agriculture"],
+    "rules": {
+      "ants": {
+        "overrides": {
+          "summary": "From a chemistry and agricultural perspective, ants are tiny agricultural chemists. They use chemicals to grow and protect their crops, manage their livestock, and control pests. Leaf-cutter ants apply antimicrobial compounds to keep their fungus gardens healthy, while other ants use pheromones to herd aphids and regulate honeydew production. Chemicals also help ants preserve seeds, detect spoiled food, and coordinate farming tasks, showing that their advanced agricultural systems rely on a sophisticated chemical toolkit.",
+          "factsheets": [],
+          "questions": [
+          "how_do_ants_practice_agriculture",
+          "what_crops_do_ants_cultivate",
+          "how_do_ants_manage_livestock"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "chemistry_agriculture__8yearoldcombined",
+    "name": "Chemistry x Agriculture x 8-year-old",
+    "requiresSequence": ["chemistry", "agriculture", "8_year_old"],
+    "rules": {
+      "ants": {
+        "overrides": {
+          "summary": "Ants are tiny farmers who use special chemicals to help them grow food and take care of their homes. Leaf-cutter ants use natural medicines to keep their fungus gardens healthy. Some ants herd little bugs called aphids to get sweet honeydew, and chemicals help them know which plants and seeds are good to eat or store. Their farm is like a mini science lab, where chemicals help them work together and keep everything running smoothly.",
+          "factsheets": [],
+          "questions": [
+          "how_do_ants_practice_agriculture",
+          "what_crops_do_ants_cultivate",
+          "how_do_ants_manage_livestock"
+          ]
+        }
+      }
+    }
+  }
+]

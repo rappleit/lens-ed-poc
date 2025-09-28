@@ -1,0 +1,40 @@
+[
+    {
+      "id": "ants",
+      "title": "Ants",
+      "summary": "Ants are social insects belonging to the family Formicidae, known for living in highly organized colonies with specialized roles such as queens, workers, and soldiers. With more than 15,000 species worldwide, they thrive in nearly every ecosystem, where they play vital roles as decomposers, seed dispersers, and ecological engineers. Their success stems from cooperative behavior, complex communication, and the ability to build both underground and above-ground nests.",
+      "subtopics": [
+        {"id": "ants_social_structure", "order": 1},
+        {"id": "ants_reproduction", "order": 2},
+        {"id": "ants_diet", "order": 3},
+        {"id": "ants_habitat", "order": 4}
+      ],
+      "factsheets": [
+        {"id": "ants_general", "order": 1}
+      ],
+      "questions": [
+        {"id": "why_do_ants_build_colonies", "order": 1},
+        {"id": "how_do_ants_find_food", "order": 2},
+        {"id": "where_do_ants_build_nests", "order": 3}
+      ]
+    },
+    {
+      "id": "painting",
+      "title": "Painting",
+      "summary": "Painting is the art of creating images, patterns, or expressions by applying colors to surfaces such as canvas, paper, walls, or wood. It is a form of visual storytelling and personal expression that has been practiced for thousands of years across cultures. Paintings can be realistic, abstract, or imaginative, and artists use a variety of materials, tools, and techniques to achieve different effects. Beyond its aesthetic value, painting serves as a means of communication, cultural documentation, and emotional expression.",
+      "subtopics": [
+        {"id": "painting_styles", "order": 1},
+        {"id": "painting_materials", "order": 2},
+        {"id": "painting_purposes", "order": 3}
+      ],
+      "factsheets": [
+        {"id": "painting_general", "order": 1}
+      ],
+      "questions": [
+        {"id": "how_do_paintings_last", "order": 1},
+        {"id": "what_materials_make_paint", "order": 2},
+        {"id": "why_do_colors_fade", "order": 3}
+      ]
+    }
+  ]
+  
