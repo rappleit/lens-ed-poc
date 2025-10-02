@@ -17,6 +17,43 @@
     ]
   },
   {
+    "id": "tiger_populations",
+    "title": "Tiger Populations",
+    
+    "summary": "Tigers once roamed much of Asia, from Turkey to the eastern coast of Russia and down into Indonesia. Over the last century, their range and numbers have declined sharply. Today, wild tigers are found only in small, fragmented habitats, with fewer than 4,000 left worldwide. Different subspecies live in different regions, each adapted to its own environment, but all face similar threats from poaching and habitat loss.",
+    "parentTopic": "malayan_tiger",
+    "subtopics": [
+    ],
+    "factsheets": [{ "id": "tiger_populations_general", "order": 1 }],
+    "questions": [
+      { "id": "tiger_populations_q1", "order": 1 },
+      { "id": "tiger_populations_q2", "order": 2 },
+      { "id": "tiger_populations_q3", "order": 3 },
+      { "id": "tiger_populations_q4", "order": 4 },
+      { "id": "tiger_populations_q5", "order": 5 }
+    ]
+  },
+  {
+    "id": "malayan_tiger_conservation",
+    "title": "Malayan Tiger Conservation",
+    "partner": {
+      "name": "Mandai Singapore Zoo",
+      "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1LKmX5NoHJJcQGf14Vbnn_UN9YQ3dOK-eTQ&s",
+      "url": "https://www.mandai.com/singapore-zoo"
+    },
+    "summary": "The Malayan tiger is critically endangered, with fewer than 200 left in the wild. Conservation focuses on protecting forests, stopping poaching, and reducing human-wildlife conflict. Patrols, research, and wildlife corridors help safeguard tigers, while public awareness encourages support for their survival.",
+    "parentTopic": "malayan_tiger",
+    "subtopics": [
+      
+    ],
+    "factsheets": [
+      { "id": "malayan_tiger_conservation_habitat", "order": 1 },
+      { "id": "malayan_tiger_conservation_anti_poaching", "order": 2 },
+      { "id": "malayan_tiger_conservation_awareness", "order": 3 }
+    ],
+    "questions": []
+  },
+  {
     "id": "ants_habitat",
     "title": "Ant Habitat",
     "summary": "Ants live in colonies underground, in trees, and sometimes inside human structures.",

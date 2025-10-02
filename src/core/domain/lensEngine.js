@@ -16,6 +16,7 @@ export function applyLens(topic, lens) {
       if (topicRules.overrides.questions) {
         topic.questions = topicRules.overrides.questions.map((id, index) => ({ id, order: index + 1 }));
       }
+      if (topicRules.overrides.title) topic.title = topicRules.overrides.title;
     }
   
     // Apply filtering (remove excluded subtopics and questions)

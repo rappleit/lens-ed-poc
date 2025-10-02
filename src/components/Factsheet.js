@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect, useRef } from "react";
 import { getFactsheetsByIds } from "../core/domain/contentService";
 import ReactMarkdown from "react-markdown";
 
@@ -55,6 +55,9 @@ const Factsheet = ({ factsheets }) => {
                     )}
                   </div>
                 )}
+                {contentBlock.type === "instagram" && (
+                  <InstagramEmbed url={contentBlock.data.url} />
+                )}
                 {contentBlock.type === "video" && (
                   <div className="my-4">
                     <div className="bg-gray-50 rounded-lg p-4 border border-gray-200">
@@ -83,3 +86,55 @@ const Factsheet = ({ factsheets }) => {
 };
 
 export default Factsheet;
+
+// Lightweight Instagram embed that shows caption, no comment box, no background
+function InstagramEmbed({ url }) {
+  const containerRef = useRef(null);
+
+  useEffect(() => {
+    // Ensure script is loaded once
+    const ensureScript = () => new Promise((resolve) => {
+      if (window.instgrm && window.instgrm.Embeds) {
+        resolve();
+        return;
+      }
+      let script = document.getElementById('ig-embed-script');
+      if (!script) {
+        script = document.createElement('script');
+        script.id = 'ig-embed-script';
+        script.src = 'https://www.instagram.com/embed.js';
+        script.async = true;
+        script.onload = () => resolve();
+        document.body.appendChild(script);
+      } else {
+        script.onload = () => resolve();
+      }
+    });
+
+    const renderEmbed = async () => {
+      if (!containerRef.current) return;
+      // Clear previous content (if any re-renders)
+      containerRef.current.innerHTML = '';
+      const blockquote = document.createElement('blockquote');
+      blockquote.className = 'instagram-media';
+      blockquote.setAttribute('data-instgrm-permalink', url);
+      blockquote.setAttribute('data-instgrm-captioned', '');
+      blockquote.style.margin = '0';
+      blockquote.style.maxWidth = '100%';
+      containerRef.current.appendChild(blockquote);
+
+      await ensureScript();
+      if (window.instgrm && window.instgrm.Embeds) {
+        try { window.instgrm.Embeds.process(); } catch (_) {}
+      }
+    };
+
+    renderEmbed();
+  }, [url]);
+
+  return (
+    <div className="my-4">
+      <div className="max-w-[66%]" ref={containerRef} />
+    </div>
+  );
+}

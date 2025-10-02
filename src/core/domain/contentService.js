@@ -1,9 +1,20 @@
 import { topics, subtopics, factsheets, questions, lenses, combinedLenses } from './collection';
 import { applyLenses } from './lensEngine';
 
+// Normalize any user-provided content key (URL param, search input) to canonical id
+function normalizeContentId(input) {
+  if (typeof input !== 'string') return input;
+  try {
+    return decodeURIComponent(input).trim().toLowerCase().replace(/\s+/g, '_');
+  } catch (_) {
+    return input.trim().toLowerCase().replace(/\s+/g, '_');
+  }
+}
+
 // Get a topic by ID and apply selected lenses
 export function getTopic(topicId, lensIds = []) {
-  const topic = topics.find(t => t.id === topicId);
+  const id = normalizeContentId(topicId);
+  const topic = topics.find(t => t.id === id);
   if (!topic) return null;
 
   const activeLenses = lenses.filter(l => lensIds.includes(l.id));
@@ -12,7 +23,8 @@ export function getTopic(topicId, lensIds = []) {
 
 // Get a subtopic by ID and apply selected lenses
 export function getSubtopic(subtopicId, lensIds = []) {
-  const subtopic = subtopics.find(s => s.id === subtopicId);
+  const id = normalizeContentId(subtopicId);
+  const subtopic = subtopics.find(s => s.id === id);
   if (!subtopic) return null;
 
   const activeLenses = lenses.filter(l => lensIds.includes(l.id));
@@ -21,15 +33,16 @@ export function getSubtopic(subtopicId, lensIds = []) {
 
 // Get content (topic or subtopic) by ID
 export function getContent(contentId, lensIds = []) {
+  const id = normalizeContentId(contentId);
   // Try to find as topic first
-  let content = topics.find(t => t.id === contentId);
+  let content = topics.find(t => t.id === id);
   if (content) {
     const activeLenses = lenses.filter(l => lensIds.includes(l.id));
     return { ...applyLenses({ ...content }, activeLenses), type: 'topic' };
   }
   
   // Try to find as subtopic
-  content = subtopics.find(s => s.id === contentId);
+  content = subtopics.find(s => s.id === id);
   if (content) {
     const activeLenses = lenses.filter(l => lensIds.includes(l.id));
     return { ...applyLenses({ ...content }, activeLenses), type: 'subtopic' };
@@ -42,8 +55,8 @@ export function getContent(contentId, lensIds = []) {
 export function getAllLenses() {
   return lenses.map(lens => ({
     ...lens,
-    title: formatLensTitle(lens.id),
-    description: getDescriptionForLens(lens.id),
+    title: lens.name,
+    description: getLensDescription(lens),
     lensType: lens.type || 'perspective'
   }));
 }
@@ -66,36 +79,16 @@ export function getLensesForContent(contentId) {
     })
     .map(lens => ({
       ...lens,
-      title: formatLensTitle(lens.id),
-      description: getDescriptionForLens(lens.id),
+      title: lens.name,
+      description: getLensDescription(lens),
       lensType: lens.type || 'perspective'
     }));
 }
 
-// Format lens title for display
-function formatLensTitle(lensId) {
-  const titleMap = {
-    'medical_doctor': 'Medical Doctor',
-    '8_year_old': '8 Year Old',
-    'chemistry': 'Chemistry',
-    'engineering': 'Engineering',
-    'agriculture': 'Agriculture'
-  };
-  return titleMap[lensId] || lensId.charAt(0).toUpperCase() + lensId.slice(1);
-}
-
-// Get description for a lens (this could be enhanced with actual descriptions from data)
-function getDescriptionForLens(lensId) {
-  const descriptions = {
-    chemistry: 'Focus on chemical composition and reactions.',
-    engineering: 'Focus on architecture, construction, and infrastructure systems.',
-    agriculture: 'Focus on farming practices, crop cultivation, and livestock management.',
-    medical_doctor: 'Study ants as a medical professional seeking to learn from their healthcare innovations.',
-    '8_year_old': 'Discover through the eyes of a curious and excited 8-year-old child.',
-    biology: 'Focus on biological systems and organisms.',
-    'systems-theory': 'Focus on system-level behaviors and patterns.'
-  };
-  return descriptions[lensId] || `Explore through the ${lensId} perspective.`;
+// Helpers for lens presentation
+function getLensDescription(lens) {
+  if (lens && lens.description) return lens.description;
+  return `Explore through the ${lens.name} perspective.`;
 }
 
 // Get subtopic details by IDs

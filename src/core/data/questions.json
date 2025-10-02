@@ -242,6 +242,51 @@
       "Synthetic carmine is made using laboratory-produced red pigments that mimic the color of natural carmine.",
       "These modern pigments provide the same vivid red without using insects, offering an ethical and consistent alternative."
     ]
+  },
+  {
+    "id": "where_do_malayan_tigers_live",
+    "question": "Where do Malayan tigers live?",
+    "answers": ["They inhabit dense tropical forests of the Malay Peninsula, often near rivers and swampy areas."]
+  },
+  {
+    "id": "what_do_malayan_tigers_eat",
+    "question": "What do Malayan tigers eat?",
+    "answers": ["They primarily hunt deer and wild boar, but may also eat smaller mammals and birds."]
+  },
+  {
+    "id": "why_are_malayan_tigers_endangered",
+    "question": "Why are Malayan tigers critically endangered?",
+    "answers": ["Due to habitat loss from deforestation, human encroachment, and poaching."]
+  },
+  {
+    "id": "how_do_malayan_tigers_communicate",
+    "question": "How do Malayan tigers communicate?",
+    "answers": ["Through scent marking, vocalizations like roars and growls, and visual signals to mark territory and warn rivals."]
+  },
+
+    {
+    "id": "tiger_populations_q1",
+    "question": "How many tigers are left in the wild today?",
+    "answers": ["Fewer than 4,000 tigers remain in the wild."]
+  },
+  {
+    "id": "tiger_populations_q2",
+    "question": "Which tiger subspecies has the largest population?",
+    "answers": ["The Bengal tiger, found in India, Nepal, Bhutan, and Bangladesh."]
+  },
+  {
+    "id": "tiger_populations_q3",
+    "question": "What caused the extinction of the Caspian, Javan, and Bali tigers?",
+    "answers": ["Hunting and habitat destruction led to their extinction in the 20th century."]
+  },
+  {
+    "id": "tiger_populations_q4",
+    "question": "How much of their historic range do tigers still occupy?",
+    "answers": ["Tigers now live in only about 5% of their historic range."]
+  },
+  {
+    "id": "tiger_populations_q5",
+    "question": "What is being done to increase tiger numbers worldwide?",
+    "answers": ["Conservation programs like the Global Tiger Recovery Program focus on protecting habitats, reducing poaching, and supporting local communities."]
   }
-  
 ]

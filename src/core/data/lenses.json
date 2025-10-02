@@ -1,6 +1,7 @@
 [
   {
     "id": "chemistry",
+    "name": "Chemistry",
     "type": "perspective",
     "rules": {
       "ants": {
@@ -81,6 +82,7 @@
   },
   {
     "id": "engineering",
+    "name": "Engineering",
     "type": "perspective",
     "rules": {
       "ants": {
@@ -98,6 +100,9 @@
           ]
         }
       },
+      "tiger_populations": {},
+      "malayan_tiger_conservation": {},
+
       "ants_habitat": {},
       "ants_formic_acid": {},
       "ants_cuticular_hydrocarbons": {},
@@ -117,6 +122,7 @@
   },
   {
     "id": "agriculture",
+    "name": "Agriculture",
     "type": "perspective",
     "rules": {
       "ants": {
@@ -137,42 +143,9 @@
           ]
         }
       },
-      "ants_habitat": {},
-      "ants_formic_acid": {},
-      "ants_cuticular_hydrocarbons": {},
-      "diet_sugars": {},
-      "diet_protein": {},
-      "diet_fungi": {},
-      "diet_special": {},
-      "ants_social_structure": {},
-      "ants_reproduction": {},
-      "painting_styles": {},
-      "painting_materials": {},
-      "painting_purposes": {},
-      "binders_and_solvents": {},
-      "conservation_chemistry": {},
-      "degradation_pathways": {}
-    }
-    },
-  {
-    "id": "economic",
-    "type": "perspective",
-    "rules": {
-      "pigments": {
-        "overrides": {
-          "summary": "Pigments are not only sources of color but also objects of trade, wealth, and status. Rare pigments like ultramarine, made from lapis lazuli, were once more valuable than gold and reserved for the most important parts of paintings, such as the robes of saints. The scarcity of minerals, the difficulty of extraction, and the control of trade routes turned pigments into commodities that shaped global economies and cultural exchange. Today, synthetic pigments have democratized access to color, reducing costs while creating new markets in art, industry, cosmetics, and design.",
-          "factsheets": ["pigments_economics"],
-          "questions": []
-        },
-        "filter": {
-          "excludeSubtopics": []
-        },
-        "augment": {
-          "subtopics": [],
-          "factsheets": []
-        }
-      },
-      "carmine": {},
+      "malayan_tiger": {},
+      "tiger_populations": {},
+      "malayan_tiger_conservation": {},
       "ants_habitat": {},
       "ants_formic_acid": {},
       "ants_cuticular_hydrocarbons": {},
@@ -191,7 +164,47 @@
     }
   },
   {
+    "id": "economic",
+    "name": "Economic",
+    "type": "perspective",
+    "rules": {
+      "pigments": {
+        "overrides": {
+          "summary": "Pigments are not only sources of color but also objects of trade, wealth, and status. Rare pigments like ultramarine, made from lapis lazuli, were once more valuable than gold and reserved for the most important parts of paintings, such as the robes of saints. The scarcity of minerals, the difficulty of extraction, and the control of trade routes turned pigments into commodities that shaped global economies and cultural exchange. Today, synthetic pigments have democratized access to color, reducing costs while creating new markets in art, industry, cosmetics, and design.",
+          "factsheets": ["pigments_economics"],
+          "questions": []
+        },
+        "filter": {
+          "excludeSubtopics": []
+        },
+        "augment": {
+          "subtopics": [],
+          "factsheets": []
+        }
+      },
+      "malayan_tiger_conservation": {},
+      "carmine": {},
+      "ants_habitat": {},
+      "ants_formic_acid": {},
+      "ants_cuticular_hydrocarbons": {},
+      "diet_sugars": {},
+      "diet_protein": {},
+      "diet_fungi": {},
+      "diet_special": {},
+      "ants_social_structure": {},
+      "ants_reproduction": {},
+      "painting_styles": {},
+      "painting_materials": {},
+      "painting_purposes": {},
+      "binders_and_solvents": {},
+      "conservation_chemistry": {},
+      "degradation_pathways": {},
+      "malayan_tiger": {}
+    }
+  },
+  {
     "id": "history",
+    "name": "History",
     "type": "perspective",
     "rules": {
       "carmine": {
@@ -208,6 +221,10 @@
           "factsheets": []
         }
       },
+      "malayan_tiger": {},
+      "tiger_populations": {},
+      "malayan_tiger_conservation": {},
+
       "painting": {},
       "ants_habitat": {},
       "ants_formic_acid": {},
@@ -228,9 +245,12 @@
   },
   {
     "id": "technological",
+    "name": "Technological",
     "type": "perspective",
     "rules": {
       "painting": {},
+      "malayan_tiger_conservation": {},
+
       "ants_habitat": {},
       "ants_formic_acid": {},
       "ants_cuticular_hydrocarbons": {},
@@ -250,6 +270,7 @@
   },
   {
     "id": "8_year_old",
+    "name": "8 Year Old",
     "type": "role",
     "rules": {
       "ants": {
@@ -264,6 +285,15 @@
           "factsheets": ["ants_diet_overview_kids"]
         }
       },
+      "malayan_tiger": {
+        "overrides": {
+          "summary": "The Malayan tiger is a very special kind of tiger that lives in the jungles of the Malay Peninsula. It’s a bit smaller than other tigers, but very strong and fast, which helps it sneak through the forest and catch its food. Malayan tigers like to live alone and eat animals like deer and wild pigs. These tigers are very important because they help keep the jungle healthy. But there aren’t many left — people cutting down forests, hunting, and getting too close to their homes has made it hard for them to survive. That’s why people are working hard to protect them, so future kids can see these amazing animals in the wild!",
+          "factsheets": ["malayan_tiger_general_kids"]
+        }
+      },
+      "malayan_tiger_conservation": {},
+
+      "tiger_populations": {},
       "carmine": {},
       "pigments": {},
       "painting": {},
@@ -282,6 +312,28 @@
       "binders_and_solvents": {},
       "conservation_chemistry": {},
       "degradation_pathways": {}
+    }
+  },
+  {
+    "id": "storytelling_mode",
+    "name": "Storytelling Mode",
+    "type": "meta",
+    "rules": {
+      "malayan_tiger": {
+        "overrides": {
+          "title": "Malayan Tiger: A Journey Through the Jungle",
+          "summary": "In the heart of the Malay Peninsula, a young Malayan tiger stretches and pads silently through the dense, green forest. Every day is an adventure as it hunts for deer and wild pigs, swims across rivers, and explores its vast territory. Alone yet powerful, this tiger relies on sharp senses, strong muscles, and clever thinking to survive. But life in the jungle is not easy — humans are cutting down forests, hunters roam nearby, and every step must be taken carefully. Follow the journey of this majestic tiger as it navigates the challenges of the wild, marking its territory, learning to hunt, and playing a vital role in keeping the jungle alive and thriving.",
+          "factsheets": [
+            "malayan_tiger_story_birth",
+            "malayan_tiger_story_learning",
+            "malayan_tiger_story_territory",
+            "malayan_tiger_story_survival",
+            "malayan_tiger_story_threats",
+            "malayan_tiger_story_future"
+
+          ]
+        }
+      }
     }
   }
 ]

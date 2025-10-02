@@ -21,6 +21,7 @@
     {
       "id": "painting",
       "title": "Painting",
+      "titleBgUrl": "https://t4.ftcdn.net/jpg/04/02/30/49/360_F_402304964_lBkApbVhuhBwHuUPmKfJxi2ieO6cbGkD.jpg",
       "summary": "Painting is the art of creating images, patterns, or expressions by applying colors to surfaces such as canvas, paper, walls, or wood. It is a form of visual storytelling and personal expression that has been practiced for thousands of years across cultures. Paintings can be realistic, abstract, or imaginative, and artists use a variety of materials, tools, and techniques to achieve different effects. Beyond its aesthetic value, painting serves as a means of communication, cultural documentation, and emotional expression.",
       "subtopics": [
         {"id": "painting_styles", "order": 1},
@@ -34,6 +35,30 @@
         {"id": "how_do_paintings_last", "order": 1},
         {"id": "what_materials_make_paint", "order": 2},
         {"id": "why_do_colors_fade", "order": 3}
+      ]
+    },
+    {
+      "id": "malayan_tiger",
+      "title": "Malayan Tiger",
+      "titleBgUrl": "https://www.mandai.com/content/dam/mandai/singapore-zoo/animals-zones/tigers/Carousel_220302SZG_E3A8428.jpg.transform/compress/resize1000/img.jpg",
+      "partner": {
+        "name": "Mandai Singapore Zoo",
+        "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1LKmX5NoHJJcQGf14Vbnn_UN9YQ3dOK-eTQ&s",
+        "url": "https://www.mandai.com/singapore-zoo"
+      },
+      "summary": "The Malayan tiger is a critically endangered subspecies of tiger found in the tropical forests of the Malay Peninsula. Smaller than other tiger subspecies, it has a muscular build, distinctive orange coat with black stripes, and remarkable agility that allows it to hunt effectively in dense jungle terrain. Malayan tigers are solitary predators, feeding on deer, wild boar, and other medium-sized mammals, and they play a crucial role in maintaining the balance of their ecosystems. Threats such as habitat loss, poaching, and human-wildlife conflict have drastically reduced their population, making conservation efforts vital to ensure their survival.",
+      "subtopics": [
+        {"id": "tiger_populations", "order": 1},
+        {"id": "malayan_tiger_conservation", "order": 2}
+      ],
+      "factsheets": [
+        {"id": "malayan_tiger_general", "order": 1}
+      ],
+      "questions": [
+        {"id": "where_do_malayan_tigers_live", "order": 1},
+        {"id": "what_do_malayan_tigers_eat", "order": 2},
+        {"id": "why_are_malayan_tigers_endangered", "order": 3},
+        {"id": "how_do_malayan_tigers_communicate", "order": 4}
       ]
     }
   ]

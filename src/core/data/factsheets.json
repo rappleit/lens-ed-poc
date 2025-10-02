@@ -3,7 +3,6 @@
     "id": "ants_general",
     "title": "General Ant Facts",
     "content": [
-    
       {
         "id": "ants_general_img_1",
         "type": "image",
@@ -718,5 +717,583 @@
         "data": "The global spread of carmine shows how a single pigment could connect continents and shape economies. Even after synthetic alternatives were developed, its historical role remains a striking example of how art, trade, and empire were intertwined."
       }
     ]
+  },
+  {
+    "id": "malayan_tiger_general",
+    "title": "About the Malayan Tiger",
+    "content": [
+      {
+        "id": "malayan_tiger_general_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://www.mandai.com/content/dam/mandai/singapore-zoo/animals-zones/tigers/Masthead_220302SZG_E3A8327.jpg.transform/compress/resize1670/img.jpg",
+          "alt": "A Malayan Tiger",
+          "caption": "A Malayan tiger (Panthera tigris jacksoni), native to the Malay Peninsula."
+        }
+      },
+      {
+        "id": "malayan_tiger_general_1",
+        "type": "text",
+        "order": 2,
+        "data": "The Malayan tiger is critically endangered, with fewer than 200 individuals remaining in the wild. It is smaller than the Bengal tiger and is native to the tropical forests of the Malay Peninsula."
+      },
+      {
+        "id": "malayan_tiger_general_2",
+        "type": "text",
+        "order": 3,
+        "data": "These tigers are solitary, territorial predators. Their diet mainly consists of ungulates such as deer and wild boar, but they may also hunt smaller mammals and birds. They rely on stealth and strength to capture prey."
+      },
+      {
+        "id": "malayan_tiger_general_3",
+        "type": "text",
+        "order": 4,
+        "data": "Malayan tigers inhabit dense forests, often near rivers and swampy areas. Habitat loss from deforestation and human encroachment is a major threat to their survival."
+      },
+      {
+        "id": "malayan_tiger_general_4",
+        "type": "text",
+        "order": 5,
+        "data": "Recognized as a distinct subspecies in 2004, Malayan tigers have genetic differences from other tiger populations. Conservation efforts focus on anti-poaching, habitat preservation, and public awareness."
+      },
+      {
+        "id": "malayan_tiger_general_5",
+        "type": "text",
+        "order": 6,
+        "data": "They communicate using scent marking, vocalizations, and visual signals. Roars, growls, and scrapes help establish territory, coordinate mating, and warn rivals."
+      },
+
+      {
+        "id": "malayan_tiger_general_instagram_1",
+        "type": "instagram",
+        "order": 7,
+        "data": {
+          "url": "https://www.instagram.com/p/DMrXIW1PJxJ"
+        }
+      }
+    ]
+  },
+  {
+    "id": "malayan_tiger_general_kids",
+    "title": "Malayan Tiger Facts!",
+    "content": [
+      {
+        "id": "malayan_tiger_general_kids_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://www.mandai.com/content/dam/mandai/singapore-zoo/animals-zones/tigers/Masthead_220302SZG_E3A8327.jpg.transform/compress/resize1670/img.jpg",
+          "alt": "A Malayan Tiger",
+          "caption": "A Malayan tiger (Panthera tigris jacksoni), native to the Malay Peninsula."
+        }
+      },
+      {
+        "id": "malayan_tiger_general_kids_1",
+        "type": "text",
+        "order": 2,
+        "data": "Malayan tigers are very rare, with less than 200 left in the wild. They are smaller than Bengal tigers and live in the hot, green jungles of the Malay Peninsula."
+      },
+      {
+        "id": "malayan_tiger_general_kids_2",
+        "type": "text",
+        "order": 3,
+        "data": "These tigers like to live alone. They eat animals like deer and wild pigs, and sometimes smaller creatures. They are sneaky and strong hunters."
+      },
+      {
+        "id": "malayan_tiger_general_kids_3",
+        "type": "text",
+        "order": 4,
+        "data": "Malayan tigers live in thick forests and sometimes near rivers. Cutting down trees and people moving into their homes makes it hard for them to survive."
+      },
+      {
+        "id": "malayan_tiger_general_kids_4",
+        "type": "text",
+        "order": 5,
+        "data": "Scientists found out in 2004 that Malayan tigers are a special kind of tiger. People help protect them by stopping hunters, saving forests, and teaching everyone about these amazing animals."
+      },
+      {
+        "id": "malayan_tiger_general_kids_5",
+        "type": "text",
+        "order": 6,
+        "data": "Tigers talk to each other in their own way. They leave smells, roar, growl, and scratch the ground to mark where they live and to warn other tigers to stay away."
+      },
+      {
+        "id": "malayan_tiger_general_kids_instagram_1",
+        "type": "instagram",
+        "order": 7,
+        "data": {
+          "url": "https://www.instagram.com/p/DMrXIW1PJxJ"
+        }
+      }
+    ]
+  },
+  {
+    "id": "malayan_tiger_story_birth",
+    "title": "A Tiger is Born",
+    "content": [
+      {
+        "id": "malayan_tiger_story_birth_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvDWlkU8NJmviHAtI1ZQtHIJ-oq_MYO8A9Ng&s",
+          "alt": "Malayan Tiger Cubs",
+          "caption": "Malayan Tiger Cubs"
+        }
+      },
+      {
+        "id": "malayan_tiger_story_birth_1",
+        "type": "text",
+        "order": 2,
+        "data": "In a quiet den deep in the forests of the Malay Peninsula, a Malayan tiger mother gives birth to her cubs. She usually has two to three at a time, though not all will survive the harsh realities of the wild."
+      },
+      {
+        "id": "malayan_tiger_story_birth_2",
+        "type": "text",
+        "order": 3,
+        "data": "At birth, the cubs are blind, weighing just about one kilogram each. They rely entirely on their mother’s warmth and milk to survive the first fragile weeks of life."
+      },
+      {
+        "id": "malayan_tiger_story_birth_3",
+        "type": "text",
+        "order": 4,
+        "data": "The den is carefully chosen in a hidden spot, such as thick vegetation, caves, or hollow logs. The mother rarely leaves during this time, venturing out only to hunt when absolutely necessary."
+      },
+      {
+        "id": "malayan_tiger_story_birth_4",
+        "type": "text",
+        "order": 5,
+        "data": "By the second week, the cubs’ eyes open, revealing their first glimpse of the world. Their striped coats, unique to each individual, begin to help them blend into the forest shadows."
+      },
+      {
+        "id": "malayan_tiger_story_birth_5",
+        "type": "text",
+        "order": 6,
+        "data": "Play becomes an essential part of their early life. Wrestling with siblings and practicing tiny growls are not just fun — they are training exercises for the skills they will need later."
+      },
+      {
+        "id": "malayan_tiger_story_birth_6",
+        "type": "text",
+        "order": 7,
+        "data": "Survival is uncertain. Some cubs may be lost to sickness, starvation, or predators. But those that endure the first few months have a chance to grow into one of the jungle’s top predators."
+      }
+    ]
+  },
+  {
+    "id": "malayan_tiger_story_learning",
+    "title": "Learning to Hunt",
+    "content": [
+      {
+        "id": "malayan_tiger_story_learning_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7EJ5HwCkweROXQ3KOMC8CUMG80Z0g1-dhqw&s",
+          "alt": "Young Malayan Tiger Cubs Hunting",
+          "caption": "Young Malayan Tiger Cubs Hunting"
+        }
+      },
+      {
+        "id": "malayan_tiger_story_learning_1",
+        "type": "text",
+        "order": 2,
+        "data": "By six months of age, Malayan tiger cubs begin to leave the den with their mother. The forest, with its dense trees, rivers, and undergrowth, becomes their classroom."
+      },
+      {
+        "id": "malayan_tiger_story_learning_2",
+        "type": "text",
+        "order": 3,
+        "data": "The cubs learn by watching. Their mother stalks quietly, moving low to the ground with incredible patience, waiting for the right moment to strike prey like deer or wild boar."
+      },
+      {
+        "id": "malayan_tiger_story_learning_3",
+        "type": "text",
+        "order": 4,
+        "data": "Play turns into practice. Cubs pounce on leaves, wrestle with each other, and chase shadows — each activity strengthening their muscles and sharpening their reflexes."
+      },
+      {
+        "id": "malayan_tiger_story_learning_4",
+        "type": "text",
+        "order": 5,
+        "data": "Their diet begins to shift. At first, they continue to nurse, but as they grow teeth, the mother brings back pieces of meat, allowing them to taste what they will one day hunt themselves."
+      },
+      {
+        "id": "malayan_tiger_story_learning_5",
+        "type": "text",
+        "order": 6,
+        "data": "Failures are common. Cubs often miss their targets, startling prey too soon. But each failed attempt is a lesson in silence, patience, and timing."
+      },
+      {
+        "id": "malayan_tiger_story_learning_6",
+        "type": "text",
+        "order": 7,
+        "data": "By the time they reach two years old, the cubs have developed the agility, stealth, and strength needed to survive alone. At this stage, they begin the transition from playful cubs to independent hunters."
+      }
+    ]
+  },
+  {
+    "id": "malayan_tiger_story_territory",
+    "title": "Claiming a Territory",
+    "content": [
+      {
+        "id": "malayan_tiger_story_territory_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10531-024-02799-9/MediaObjects/10531_2024_2799_Fig1_HTML.png?as=webp",
+          "alt": "Wildlife corridors, major roads, and tiger sample locations. Sample locations include old samples donated to this study and new samples collected during field surveys",
+          "caption": "Wildlife corridors, major roads, and tiger sample locations. Sample locations include old samples donated to this study and new samples collected during field surveys"
+        }
+      },
+      {
+        "id": "malayan_tiger_story_territory_1",
+        "type": "text",
+        "order": 2,
+        "data": "As young Malayan tigers grow into independence, the forest is no longer just a playground — it becomes land to be claimed. Each tiger must find a territory to survive."
+      },
+      {
+        "id": "malayan_tiger_story_territory_2",
+        "type": "text",
+        "order": 3,
+        "data": "Males typically require larger territories than females, sometimes stretching over 100 square kilometers. These areas provide the space and prey needed to support their solitary lives."
+      },
+      {
+        "id": "malayan_tiger_story_territory_3",
+        "type": "text",
+        "order": 4,
+        "data": "To mark their territory, Malayan tigers use scent. They spray urine, scratch tree bark, and leave scent markings that tell other tigers, 'This space is taken.'"
+      },
+      {
+        "id": "malayan_tiger_story_territory_4",
+        "type": "text",
+        "order": 5,
+        "data": "Conflicts are dangerous. When two tigers cross paths, they may roar, snarl, or engage in fierce fights to defend their land."
+      },
+      {
+        "id": "malayan_tiger_story_territory_5",
+        "type": "text",
+        "order": 6,
+        "data": "Territory is not just about space — it’s about survival. A healthy area means enough deer, wild boar, and water sources to sustain the tiger."
+      },
+      {
+        "id": "malayan_tiger_story_territory_6",
+        "type": "text",
+        "order": 7,
+        "data": "Losing territory often means starvation, forcing some tigers to wander closer to villages or farms — a dangerous path that leads to conflict with people."
+      }
+    ]
+  },
+  {
+    "id": "malayan_tiger_story_survival",
+    "title": "Survival in the Wild",
+    "content": [
+      {
+        "id": "malayan_tiger_story_survival_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL2dldHR5aW1hZ2VzLTY2NzcyNjY1NC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIxMjAwIn19fQ==",
+          "alt": "A Malayan tiger prowling in the wild",
+          "caption": "A Malayan tiger prowling in the wild"
+        }
+      },
+      {
+        "id": "malayan_tiger_story_survival_1",
+        "type": "text",
+        "order": 2,
+        "data": "Life as a Malayan tiger is never easy. Even as skilled hunters, tigers face constant challenges in their search for food and safety."
+      },
+      {
+        "id": "malayan_tiger_story_survival_2",
+        "type": "text",
+        "order": 3,
+        "data": "Prey animals are alert and fast. Tigers must approach silently, using jungle shadows and patience to get within striking distance."
+      },
+      {
+        "id": "malayan_tiger_story_survival_3",
+        "type": "text",
+        "order": 4,
+        "data": "Hunts often fail — as many as 9 out of 10 attempts end without a catch. A single meal can take days of effort."
+      },
+      {
+        "id": "malayan_tiger_story_survival_4",
+        "type": "text",
+        "order": 5,
+        "data": "Swimming rivers is another skill. Malayan tigers are strong swimmers, sometimes crossing water to pursue prey or reach new hunting grounds."
+      },
+      {
+        "id": "malayan_tiger_story_survival_5",
+        "type": "text",
+        "order": 6,
+        "data": "Every sound matters. The crack of a branch, the call of a bird, or the rustle of leaves can alert a deer and end a hunt."
+      },
+      {
+        "id": "malayan_tiger_story_survival_6",
+        "type": "text",
+        "order": 7,
+        "data": "But when successful, a tiger can take down prey many times its own size, feeding for days and ensuring its survival in the dense rainforest."
+      }
+    ]
+  },
+  {
+    "id": "malayan_tiger_story_threats",
+    "title": "Dangers & Threats",
+    "content": [
+      {
+        "id": "malayan_tiger_story_threats_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx3l4PfA4zstWgxC2uIiK3WGAb6r-O-W8HLg&s",
+          "alt": "Tiger Hunting in Malaya Print, 1911",
+          "caption": "Tiger Hunting in Malaya Print, 1911"
+        }
+      },
+      {
+        "id": "malayan_tiger_story_threats_1",
+        "type": "text",
+        "order": 2,
+        "data": "For Malayan tigers, the greatest danger does not come from nature — it comes from humans."
+      },
+      {
+        "id": "malayan_tiger_story_threats_2",
+        "type": "text",
+        "order": 3,
+        "data": "Deforestation for agriculture and palm oil plantations reduces the forest home they depend on, breaking their territories into smaller, isolated patches."
+      },
+      {
+        "id": "malayan_tiger_story_threats_3",
+        "type": "text",
+        "order": 4,
+        "data": "Poachers hunt tigers for their skins and body parts, which are illegally sold despite international bans."
+      },
+      {
+        "id": "malayan_tiger_story_threats_4",
+        "type": "text",
+        "order": 5,
+        "data": "When prey animals decline due to hunting or habitat loss, tigers may be forced to search for food near villages, leading to dangerous encounters with people."
+      },
+      {
+        "id": "malayan_tiger_story_threats_5",
+        "type": "text",
+        "order": 6,
+        "data": "Every lost tiger weakens the ecosystem, as fewer predators means deer and boar populations grow unchecked, harming the balance of the jungle."
+      },
+      {
+        "id": "malayan_tiger_story_threats_6",
+        "type": "text",
+        "order": 7,
+        "data": "Today, fewer than 150 Malayan tigers are estimated to remain in the wild, making them one of the most endangered tiger subspecies."
+      }
+    ]
+  },
+  {
+    "id": "malayan_tiger_story_future",
+    "title": "Hope for the Future",
+    "content": [
+      {
+        "id": "malayan_tiger_story_future_1",
+        "type": "text",
+        "order": 1,
+        "data": "Despite the dangers, efforts are underway to protect Malayan tigers and give them a chance at survival."
+      },
+      {
+        "id": "malayan_tiger_story_future_2",
+        "type": "text",
+        "order": 2,
+        "data": "Protected areas and national parks across Malaysia provide safe spaces where tigers can roam without the threat of poaching."
+      },
+      {
+        "id": "malayan_tiger_story_future_3",
+        "type": "markdown",
+        "order": 3,
+        "data": "[Conservation](/search/malayan_tiger_conservation) groups are working with local communities to reduce human-wildlife conflict, teaching ways to protect livestock without harming tigers."
+      },
+      {
+        "id": "malayan_tiger_story_future_4",
+        "type": "text",
+        "order": 4,
+        "data": "Anti-poaching patrols are increasing, with rangers monitoring forests and removing snares that could trap tigers or their prey."
+      },
+      {
+        "id": "malayan_tiger_story_future_5",
+        "type": "text",
+        "order": 5,
+        "data": "Scientists track tiger movements using camera traps and GPS collars, gathering vital information to guide conservation strategies."
+      },
+      {
+        "id": "malayan_tiger_story_future_6",
+        "type": "text",
+        "order": 6,
+        "data": "The future of the Malayan tiger depends on people — on laws, protection, and care for the forests. With continued effort, the roar of the tiger may still echo through Malaysia’s jungles for generations to come."
+      }
+    ]
+  },
+  {
+    "id": "tiger_populations_general",
+    "title": "Tiger Populations Around the World",
+    "content": [
+      {
+        "id": "tiger_populations_general_1",
+        "type": "text",
+        "order": 1,
+        "data": "A century ago, tigers lived across much of Asia, with an estimated population of over 100,000 individuals. Today, fewer than 4,000 remain in the wild."
+      },
+      {
+        "id": "tiger_populations_general_2",
+        "type": "text",
+        "order": 2,
+        "data": "The largest remaining population is the Bengal tiger, found in India, Nepal, Bhutan, and Bangladesh. This subspecies makes up over half of all wild tigers today."
+      },
+      {
+        "id": "tiger_populations_general_3",
+        "type": "text",
+        "order": 3,
+        "data": "Other surviving subspecies include the Amur (or Siberian) tiger in Russia and northeastern China, the Indochinese tiger in Southeast Asia, the Malayan tiger in Peninsular Malaysia, and the Sumatran tiger in Indonesia."
+      },
+      {
+        "id": "tiger_populations_general_4",
+        "type": "text",
+        "order": 4,
+        "data": "Three subspecies — the Caspian tiger, the Javan tiger, and the Bali tiger — became extinct in the 20th century due to hunting and habitat destruction."
+      },
+      {
+        "id": "tiger_populations_general_5",
+        "type": "text",
+        "order": 5,
+        "data": "Tigers are now found in only about 5% of their historic range, mostly in protected reserves, national parks, and remote forested areas."
+      },
+      {
+        "id": "tiger_populations_general_6",
+        "type": "text",
+        "order": 6,
+        "data": "Global conservation initiatives such as the Global Tiger Recovery Program aim to double wild tiger numbers by creating safe habitats, reducing poaching, and supporting local communities."
+      },
+      {
+        "id": "tiger_populations_general_img_1",
+        "type": "image",
+        "order": 7,
+        "data": {
+          "url": "https://www.wildcatfamily.com/wp-content/uploads/2018/05/il_570xN.1362847858_8m241.jpg",
+          "alt": "Tigers of the world",
+          "caption": "Tigers of the world"
+        }
+      }
+    ]
+  },
+  {
+    "id": "malayan_tiger_conservation_habitat",
+    "title": "Habitat Protection",
+    "content": [
+      {
+        "id": "malayan_tiger_conservation_habitat_1",
+        "type": "text",
+        "order": 1,
+        "data": "Protecting the forests of the Malay Peninsula is essential for Malayan tiger survival. Healthy forests provide food, shelter, and safe areas to raise cubs."
+      },
+      {
+        "id": "malayan_tiger_conservation_habitat_2",
+        "type": "text",
+        "order": 2,
+        "data": "Conservation areas and national parks limit deforestation and development, giving tigers a secure home where they can hunt and reproduce."
+      },
+      {
+        "id": "malayan_tiger_conservation_habitat_3",
+        "type": "text",
+        "order": 3,
+        "data": "Wildlife corridors connect isolated forest patches, allowing tigers to move safely between territories and maintain genetic diversity."
+      },
+      {
+        "id": "malayan_tiger_conservation_habitat_4",
+        "type": "text",
+        "order": 4,
+        "data": "Reforestation projects restore degraded land, creating new habitats for prey species, which supports a stable tiger population."
+      },
+      {
+        "id": "malayan_tiger_conservation_habitat_5",
+        "type": "text",
+        "order": 5,
+        "data": "Scientists monitor forest health using drones and satellite imaging to detect illegal logging or habitat damage early."
+      }
+    ]
+  },
+  {
+    "id": "malayan_tiger_conservation_anti_poaching",
+    "title": "Anti-Poaching and Research",
+    "content": [
+      {
+        "id": "malayan_tiger_conservation_anti_poaching_1",
+        "type": "text",
+        "order": 1,
+        "data": "Poaching is a major threat to Malayan tigers. Rangers conduct regular patrols to remove traps and apprehend illegal hunters."
+      },
+      {
+        "id": "malayan_tiger_conservation_anti_poaching_2",
+        "type": "text",
+        "order": 2,
+        "data": "Camera traps and GPS collars help researchers track tiger movements, understand their behavior, and identify areas at risk of poaching."
+      },
+      {
+        "id": "malayan_tiger_conservation_anti_poaching_3",
+        "type": "text",
+        "order": 3,
+        "data": "Genetic studies of tigers help scientists maintain genetic diversity and prevent inbreeding in small populations."
+      },
+      {
+        "id": "malayan_tiger_conservation_anti_poaching_4",
+        "type": "text",
+        "order": 4,
+        "data": "Community engagement programs teach local people how to reduce conflicts with tigers and benefit from conservation efforts."
+      },
+      {
+        "id": "malayan_tiger_conservation_anti_poaching_5",
+        "type": "text",
+        "order": 5,
+        "data": "International cooperation ensures funding, knowledge exchange, and coordinated action to protect Malayan tigers across borders."
+      }
+    ]
+  },
+  {
+    "id": "malayan_tiger_conservation_awareness",
+    "title": "Public Awareness and Education",
+    "content": [
+      {
+        "id": "malayan_tiger_conservation_awareness_1",
+        "type": "text",
+        "order": 1,
+        "data": "Raising awareness about the Malayan tiger helps people understand the importance of conservation and how human actions affect wildlife."
+      },
+      {
+        "id": "malayan_tiger_conservation_awareness_2",
+        "type": "text",
+        "order": 2,
+        "data": "Educational programs in schools teach children about tiger habitats, behavior, and the threats they face, inspiring future conservationists."
+      },
+      {
+        "id": "malayan_tiger_conservation_awareness_3",
+        "type": "text",
+        "order": 3,
+        "data": "Media campaigns using social media, videos, and posters highlight the critical status of the Malayan tiger and encourage public support."
+      },
+      {
+        "id": "malayan_tiger_conservation_awareness_4",
+        "type": "text",
+        "order": 4,
+        "data": "Zoo and wildlife park programs allow people to observe Malayan tigers safely, helping them connect emotionally to the species and care about its survival."
+      },
+      {
+        "id": "malayan_tiger_conservation_awareness_5",
+        "type": "text",
+        "order": 5,
+        "data": "Workshops and community talks educate local residents on how to reduce conflicts with tigers and participate in conservation activities."
+      },
+      {
+        "id": "malayan_tiger_conservation_awareness_6",
+        "type": "text",
+        "order": 6,
+        "data": "Collaborating with influencers and environmental organizations increases the reach of conservation messages to a wider audience."
+      }
+    ]
   }
+  
 ]

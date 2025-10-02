@@ -18,14 +18,16 @@ const TopicViewerPage = () => {
   // Update current content and available lenses when topic name or active lenses change
   useEffect(() => {
     if (topicName) {
+      // Normalize incoming route param to canonical id form
+      const normalizedId = decodeURIComponent(topicName).trim().toLowerCase().replace(/\s+/g, '_');
       setLoading(true);
       setError(null);
       
       try {
-        const content = getContent(topicName, activeLensIds);
+        const content = getContent(normalizedId, activeLensIds);
         
         if (!content) {
-          setError(`Topic "${topicName}" not found`);
+          setError(`Topic "${decodeURIComponent(topicName)}" not found`);
           setCurrentContent(null);
           setAvailableLenses([]);
           setExplorationPath([]);

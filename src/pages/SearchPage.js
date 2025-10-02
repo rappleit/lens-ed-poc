@@ -9,7 +9,8 @@ const SearchPage = () => {
   const handleSearch = (e) => {
     e.preventDefault();
     if (searchTerm.trim()) {
-      navigate(`/search/${encodeURIComponent(searchTerm.trim())}`);
+      const normalized = searchTerm.trim().toLowerCase().replace(/\s+/g, '_');
+      navigate(`/search/${encodeURIComponent(normalized)}`);
     }
   };
 
@@ -54,7 +55,7 @@ const SearchPage = () => {
 
         <div className="mt-12">
           <h2 className="text-xl font-semibold text-gray-800 mb-6 text-center">Trending Topics</h2>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div className="grid grid-cols-3 gap-4">
             <div 
               onClick={() => navigate('/search/ants')}
               className="bg-white rounded-lg border border-gray-200 p-6 hover:shadow-md hover:border-blue-300 transition-all cursor-pointer group"
@@ -82,6 +83,21 @@ const SearchPage = () => {
               </div>
               <p className="text-sm text-gray-600">
                 Explore the art of creating images through colors, techniques, and creative expression across cultures.
+              </p>
+            </div>
+
+            <div 
+              onClick={() => navigate('/search/malayan_tiger')}
+              className="bg-white rounded-lg border border-gray-200 p-6 hover:shadow-md hover:border-blue-300 transition-all cursor-pointer group"
+            >
+              <div className="flex items-center gap-3 mb-3">
+                <div className="w-10 h-10 bg-green-100 rounded-lg flex items-center justify-center">
+                  <span className="text-2xl">🐯</span>
+                </div>
+                <h3 className="text-lg font-semibold text-gray-800 group-hover:text-blue-600 transition-colors">Malayan Tiger</h3>
+              </div>
+              <p className="text-sm text-gray-600">
+                Learn about the critically endangered Malayan tiger
               </p>
             </div>
           </div>
