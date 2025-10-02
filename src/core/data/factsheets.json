@@ -1294,6 +1294,45 @@
         "data": "Collaborating with influencers and environmental organizations increases the reach of conservation messages to a wider audience."
       }
     ]
+  },
+  {
+    "id": "ants_sugars_factsheet",
+    "title": "Sugars and Nectar in Ant Diet",
+    "content": [
+      {
+        "id": "sugars_factsheet_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Nectar.jpg",
+          "alt": "Nectar from a flower",
+          "caption": "Nectar from a flower"
+        }
+      },
+      {
+        "id": "sugars_factsheet_1",
+        "type": "text",
+        "order": 2,
+        "data": "Nectar is a primary carbohydrate source for many ants, often collected directly from flowers using specialized mouthparts. The sugar concentration can vary depending on plant species, time of day, and environmental conditions."
+      },
+      {
+        "id": "sugars_factsheet_2",
+        "type": "text",
+        "order": 3,
+        "data": "Honeydew is a sugary secretion produced by aphids and other hemipterans. Ants often protect these insects in exchange for a steady supply of honeydew, forming a mutualistic relationship."
+      },
+      {
+        "id": "sugars_factsheet_3",
+        "type": "text",
+        "order": 4,
+        "data": "Carbohydrate-rich foods are essential not only for individual energy but also for colony-wide tasks, such as brood care, nest maintenance, and long-distance foraging."
+      },
+      {
+        "id": "sugars_factsheet_4",
+        "type": "text",
+        "order": 5,
+        "data": "Ants may form highly organized foraging trails to maximize collection efficiency of sugary foods, often using pheromone markers to guide nestmates to rich sources."
+      }
+    ]
   }
-  
 ]

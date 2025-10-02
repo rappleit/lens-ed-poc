@@ -83,10 +83,12 @@
   {
     "id": "diet_sugars",
     "title": "Sugars and Nectar",
-    "summary": "Many ants feed on sugary substances like nectar, honeydew produced by aphids, and other plant secretions.",
+    "summary": "Many ant species rely heavily on sugary foods to fuel their high-energy lifestyles. Nectar from flowers, honeydew secreted by aphids and other sap-sucking insects, and plant exudates provide essential carbohydrates that ants use for immediate energy and colony maintenance. These sugary resources are often collected by foraging workers and shared among nestmates through trophallaxis, a process of mouth-to-mouth feeding. The availability of these sweet foods influences ant foraging patterns, trail formation, and even colony expansion.",
     "parentTopic": "ants_diet",
     "subtopics": [],
-    "factsheets": [],
+    "factsheets": [
+      { "id": "ants_sugars_factsheet", "order": 1 }
+    ],
     "questions": []
   },
   {
