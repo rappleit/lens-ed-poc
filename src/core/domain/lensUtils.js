@@ -37,3 +37,39 @@ function arraysMatchSequence(activeIds, requiredSequence) {
   
   return false;
 }
+
+// Determines which lenses can be selected given the currently active lenses
+// Returns a Set of lens IDs that are compatible with the current selection
+export function getCompatibleLenses(activeLensIds, contentId) {
+  if (activeLensIds.length === 0) {
+    return null; 
+  }
+
+  const compatibleLensIds = new Set();
+
+  // Already selected lenses are always compatible (so they can be unselected)
+  activeLensIds.forEach(lensId => compatibleLensIds.add(lensId));
+
+  // Check all combined lenses to see which additional lenses could be added
+  for (const combinationLens of combinedLenses) {
+    const requiredSequence = combinationLens.requiresSequence || [];
+
+    // Skip if this combination doesn't apply to the current content
+    if (!combinationLens.rules[contentId]) {
+      continue;
+    }
+
+    // Check if the current active lenses are a subset of this combination's required sequence
+    const allActiveInSequence = activeLensIds.every(lensId => 
+      requiredSequence.includes(lensId)
+    );
+
+    if (allActiveInSequence && requiredSequence.length > activeLensIds.length) {
+      // This combination includes all active lenses and has room for more
+      // Add all lenses from this sequence as compatible
+      requiredSequence.forEach(lensId => compatibleLensIds.add(lensId));
+    }
+  }
+
+  return compatibleLensIds;
+}

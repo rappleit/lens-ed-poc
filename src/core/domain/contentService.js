@@ -77,12 +77,21 @@ export function getLensesForContent(contentId) {
 
       return true;
     })
-    .map(lens => ({
-      ...lens,
-      title: lens.name,
-      description: getLensDescription(lens),
-      lensType: lens.type || 'perspective'
-    }));
+    .map(lens => {
+      // Check if the lens has empty rules for this content
+      const contentRules = lens.rules[contentId];
+      const isComingSoon = contentRules && 
+        Object.keys(contentRules).length === 0 && 
+        contentRules.constructor === Object;
+      
+      return {
+        ...lens,
+        title: lens.name,
+        description: getLensDescription(lens),
+        lensType: lens.type || 'perspective',
+        isComingSoon
+      };
+    });
 }
 
 // Helpers for lens presentation

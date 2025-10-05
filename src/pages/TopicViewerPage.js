@@ -171,6 +171,7 @@ const TopicViewerPage = () => {
           availableLenses={availableLenses}
           activeLensIds={activeLensIds}
           onLensToggle={handleLensToggle}
+          currentContentId={currentContent?.id}
         />
       </div>
     </div>

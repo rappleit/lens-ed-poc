@@ -1,14 +1,16 @@
 import React from "react";
 import LensCard from "./LensCard";
-import { detectLensCombination } from "../core/domain/lensUtils";
+import { detectLensCombination, getCompatibleLenses } from "../core/domain/lensUtils";
 
-const LensPanel = ({ availableLenses, activeLensIds, onLensToggle }) => {
+const LensPanel = ({ availableLenses, activeLensIds, onLensToggle, currentContentId }) => {
   const activeCombination = detectLensCombination(activeLensIds);
+  const compatibleLensIds = getCompatibleLenses(activeLensIds, currentContentId);
 
   return (
     <div className="h-full flex flex-col">
       <div className="p-5 border-b border-gray-200 bg-white">
         <h2 className="m-0 text-xl font-semibold text-gray-600">Apply Lens</h2>
+        
 
         {activeLensIds.length > 0 && (
           <div className="mt-3 text-sm text-gray-500">
@@ -28,16 +30,22 @@ const LensPanel = ({ availableLenses, activeLensIds, onLensToggle }) => {
       </div>
 
       <div className="flex-1 p-5 flex flex-col gap-3">
-        {availableLenses.map((lens) => (
-          <LensCard
-            key={lens.id}
-            lens={{
-              ...lens,
-              isActive: activeLensIds.includes(lens.id),
-            }}
-            onToggle={onLensToggle}
-          />
-        ))}
+        {availableLenses.map((lens) => {
+          const isActive = activeLensIds.includes(lens.id);
+          const isDisabled = lens.isComingSoon || (compatibleLensIds !== null && !compatibleLensIds.has(lens.id));
+          
+          return (
+            <LensCard
+              key={lens.id}
+              lens={{
+                ...lens,
+                isActive,
+                isDisabled,
+              }}
+              onToggle={onLensToggle}
+            />
+          );
+        })}
       </div>
     </div>
   );
