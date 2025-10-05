@@ -4,6 +4,7 @@ import SubtopicsSection from "./SubtopicsSection";
 import QuestionsSection from "./QuestionsSection";
 import PartnershipBanner from "./PartnershipBanner";
 import TitleCard from "./TitleCard";
+import TTSButton from './TTSButton';
 
 const ContentArea = ({ currentContent, onNavigate }) => {
   if (!currentContent) {
@@ -34,9 +35,9 @@ const ContentArea = ({ currentContent, onNavigate }) => {
         )}
         {currentContent.summary && (
           <div className="my-4 mx-1">
-            <p className=" leading-relaxed text-gray-600">
-              {currentContent.summary}
-            </p>
+            <p className="leading-relaxed text-gray-600">
+              {currentContent.summary}&nbsp;&nbsp;&nbsp;
+              <TTSButton text={currentContent.summary} className="inline-block align-middle" />            </p>
           </div>
         )}
       </div>
