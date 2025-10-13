@@ -124,16 +124,20 @@
     "summary": "Ant colonies are organized into sophisticated social hierarchies with distinct castes including queens, workers, and soldiers, each with specialized roles and responsibilities.",
     "parentTopic": "ants",
     "subtopics": [],
-    "factsheets": [],
+    "factsheets": [
+      { "id": "ant_social_structure_hierarchy", "order": 1 }
+    ],
     "questions": []
   },
   {
     "id": "ants_reproduction",
-    "title": "Reproduction",
+    "title": "Ants Reproduction",
     "summary": "Ant reproduction involves complex mating flights, colony founding by queens, and the development of different castes through environmental and genetic factors.",
     "parentTopic": "ants",
     "subtopics": [],
-    "factsheets": [],
+    "factsheets": [
+      { "id": "ant_reproduction_lifecycle", "order": 1 }
+    ],
     "questions": []
   },
   {

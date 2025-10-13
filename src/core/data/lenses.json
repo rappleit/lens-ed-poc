@@ -60,8 +60,6 @@
       "diet_protein": {},
       "diet_fungi": {},
       "diet_special": {},
-      "ants_social_structure": {},
-      "ants_reproduction": {},
       "ants_communication": {},
       "ants_defense": {},
       "ants_symbiosis": {},
@@ -93,6 +91,28 @@
           "subtopics": ["ants_habitat", "ants_navigation"]
         }
       },
+          "ants_social_structure": {
+            "overrides": {
+              "summary": "engineering_ants_social_structure",
+              "factsheets": ["engineering_ant_social_structure"],
+              "questions": [
+                "how_does_evolutionary_engineering_create_social_structure",
+                "what_are_systems_engineering_principles_in_ants",
+                "how_do_mechanical_engineering_principles_apply"
+              ]
+            }
+          },
+          "ants_reproduction": {
+            "overrides": {
+              "summary": "engineering_ants_reproduction",
+              "factsheets": ["engineering_ant_reproduction"],
+              "questions": [
+                "how_does_evolutionary_engineering_create_reproductive_systems",
+                "what_are_systems_engineering_principles_in_reproduction",
+                "how_do_mechanical_engineering_principles_apply_to_reproduction"
+              ]
+            }
+          },
       "tiger_populations": {},
       "malayan_tiger_conservation": {},
 
@@ -103,8 +123,6 @@
       "diet_protein": {},
       "diet_fungi": {},
       "diet_special": {},
-      "ants_social_structure": {},
-      "ants_reproduction": {},
       "ants_communication": {},
       "ants_defense": {},
       "ants_symbiosis": {},
@@ -145,8 +163,6 @@
       "diet_protein": {},
       "diet_fungi": {},
       "diet_special": {},
-      "ants_social_structure": {},
-      "ants_reproduction": {},
       "ants_communication": {},
       "ants_defense": {},
       "ants_symbiosis": {},
@@ -199,8 +215,6 @@
       "diet_protein": {},
       "diet_fungi": {},
       "diet_special": {},
-      "ants_social_structure": {},
-      "ants_reproduction": {},
       "ants_communication": {},
       "ants_defense": {},
       "ants_symbiosis": {},
@@ -266,8 +280,6 @@
       "diet_protein": {},
       "diet_fungi": {},
       "diet_special": {},
-      "ants_social_structure": {},
-      "ants_reproduction": {},
       "ants_communication": {},
       "ants_defense": {},
       "ants_symbiosis": {},
@@ -307,8 +319,6 @@
       "diet_protein": {},
       "diet_fungi": {},
       "diet_special": {},
-      "ants_social_structure": {},
-      "ants_reproduction": {},
       "ants_communication": {},
       "ants_defense": {},
       "ants_symbiosis": {},
@@ -331,7 +341,7 @@
         "overrides": {
           "summary": "8_year_old_ants",
           "factsheets": ["ants_general_kids"],
-          "subtopics": ["ants_social_structure", "ants_diet", "ants_habitat", "ants_communication"]
+          "subtopics": ["ants_diet", "ants_habitat", "ants_communication"]
         }
       },
       "ants_diet": {
@@ -351,7 +361,6 @@
       "tiger_populations": {},
       "carmine": {},
       "pigments": {},
-      "painting": {},
       "ants_habitat": {},
       "ants_formic_acid": {},
       "ants_cuticular_hydrocarbons": {},
@@ -359,8 +368,6 @@
       "diet_protein": {},
       "diet_fungi": {},
       "diet_special": {},
-      "ants_social_structure": {},
-      "ants_reproduction": {},
       "ants_communication": {},
       "ants_defense": {},
       "ants_symbiosis": {},
@@ -405,7 +412,7 @@
         "overrides": {
           "summary": "biology_ants",
           "factsheets": ["biology_of_ants"],
-          "subtopics": ["ants_communication", "ants_defense", "ants_navigation", "colony_lifecycle", "ants_social_structure", "ants_reproduction"],
+          "subtopics": ["ants_communication", "ants_defense", "ants_navigation", "colony_lifecycle"],
           "questions": [
             "how_do_ant_bodies_adapt",
             "what_life_stages_do_ants_go_through",
@@ -413,6 +420,28 @@
           ]
         }
       },
+          "ants_social_structure": {
+            "overrides": {
+              "summary": "biology_ants_social_structure",
+              "factsheets": ["biology_ant_social_structure"],
+              "questions": [
+                "how_do_biological_adaptations_create_social_structure",
+                "what_is_worker_polymorphism",
+                "how_do_chemical_communication_systems_work"
+              ]
+            }
+          },
+          "ants_reproduction": {
+            "overrides": {
+              "summary": "biology_ants_reproduction",
+              "factsheets": ["biology_ant_reproduction"],
+              "questions": [
+                "how_do_biological_adaptations_enable_ant_reproduction",
+                "what_are_different_reproductive_strategies_in_ants",
+                "how_does_brood_development_work_in_ants"
+              ]
+            }
+          },
       "malayan_tiger": {
         "overrides": {
           "summary": "biology_malayan_tiger",
@@ -431,8 +460,6 @@
       "diet_protein": {},
       "diet_fungi": {},
       "diet_special": {},
-      "ants_social_structure": {},
-      "ants_reproduction": {},
       "ants_communication": {},
       "ants_defense": {},
       "ants_symbiosis": {},
@@ -476,8 +503,6 @@
       "diet_protein": {},
       "diet_fungi": {},
       "diet_special": {},
-      "ants_social_structure": {},
-      "ants_reproduction": {},
       "ants_communication": {},
       "ants_defense": {},
       "ants_symbiosis": {},
@@ -495,7 +520,7 @@
         "overrides": {
           "summary": "systems_ants",
           "factsheets": ["systems_of_ants"],
-          "subtopics": ["ants_communication", "ants_navigation", "colony_lifecycle", "ants_social_structure"],
+          "subtopics": ["ants_communication", "ants_navigation", "colony_lifecycle"],
           "questions": [
             "how_do_ant_colonies_self_organize",
             "what_are_positive_feedback_loops_in_ants",
@@ -503,6 +528,28 @@
           ]
         }
       },
+          "ants_social_structure": {
+            "overrides": {
+              "summary": "systems_ants_social_structure",
+              "factsheets": ["systems_ant_social_structure"],
+              "questions": [
+                "how_do_ant_colonies_operate_as_complex_systems",
+                "what_are_feedback_loops_in_ant_social_structure",
+                "how_do_network_effects_enhance_colony_efficiency"
+              ]
+            }
+          },
+          "ants_reproduction": {
+            "overrides": {
+              "summary": "systems_ants_reproduction",
+              "factsheets": ["systems_ant_reproduction"],
+              "questions": [
+                "how_do_ant_reproductive_systems_operate_as_complex_systems",
+                "what_are_feedback_loops_in_ant_reproduction",
+                "how_do_network_effects_enhance_reproductive_efficiency"
+              ]
+            }
+          },
       "ants_habitat": {},
       "ants_formic_acid": {},
       "ants_cuticular_hydrocarbons": {},
@@ -510,8 +557,6 @@
       "diet_protein": {},
       "diet_fungi": {},
       "diet_special": {},
-      "ants_social_structure": {},
-      "ants_reproduction": {},
       "ants_communication": {},
       "ants_defense": {},
       "ants_symbiosis": {},
@@ -529,7 +574,7 @@
         "overrides": {
           "summary": "sociology_ants",
           "factsheets": ["sociology_of_ants"],
-          "subtopics": ["ants_social_structure", "ants_communication", "ants_defense", "colony_lifecycle", "ants_reproduction"],
+          "subtopics": ["ants_communication", "ants_defense", "colony_lifecycle"],
           "questions": [
             "what_is_reproductive_division_of_labor",
             "how_are_ant_castes_determined",
@@ -537,6 +582,28 @@
           ]
         }
       },
+          "ants_social_structure": {
+            "overrides": {
+              "summary": "sociology_ants_social_structure",
+              "factsheets": ["sociology_ant_social_structure"],
+              "questions": [
+                "how_do_ant_colonies_function_as_social_systems",
+                "what_is_collective_decision_making_in_ants",
+                "how_do_social_networks_work_in_ant_colonies"
+              ]
+            }
+          },
+          "ants_reproduction": {
+            "overrides": {
+              "summary": "history_ants_reproduction",
+              "factsheets": ["history_ant_reproduction"],
+              "questions": [
+                "how_has_ant_reproduction_evolved_over_time",
+                "what_are_major_evolutionary_transitions_in_ant_reproduction",
+                "how_do_ants_adapt_reproductive_strategies_to_environment"
+              ]
+            }
+          },
       "malayan_tiger": {
         "overrides": {
           "summary": "sociology_malayan_tiger",
@@ -556,8 +623,6 @@
       "diet_protein": {},
       "diet_fungi": {},
       "diet_special": {},
-      "ants_social_structure": {},
-      "ants_reproduction": {},
       "ants_communication": {},
       "ants_defense": {},
       "ants_symbiosis": {},
@@ -583,6 +648,28 @@
           ]
         }
       },
+          "ants_social_structure": {
+            "overrides": {
+              "summary": "mathematics_ants_social_structure",
+              "factsheets": ["mathematics_ant_social_structure"],
+              "questions": [
+                "how_do_mathematical_principles_govern_social_structure",
+                "what_is_network_theory_analysis_in_ant_colonies",
+                "how_does_optimization_theory_apply_to_ant_colonies"
+              ]
+            }
+          },
+          "ants_reproduction": {
+            "overrides": {
+              "summary": "mathematics_ants_reproduction",
+              "factsheets": ["mathematics_ant_reproduction"],
+              "questions": [
+                "how_do_mathematical_principles_govern_ant_reproduction",
+                "what_is_population_dynamics_analysis_in_ant_reproduction",
+                "how_does_optimization_theory_apply_to_ant_reproduction"
+              ]
+            }
+          },
       "malayan_tiger": {
         "overrides": {
           "summary": "mathematics_malayan_tiger",
@@ -602,8 +689,6 @@
       "diet_protein": {},
       "diet_fungi": {},
       "diet_special": {},
-      "ants_social_structure": {},
-      "ants_reproduction": {},
       "ants_communication": {},
       "ants_defense": {},
       "ants_symbiosis": {},
@@ -648,8 +733,6 @@
       "diet_protein": {},
       "diet_fungi": {},
       "diet_special": {},
-      "ants_social_structure": {},
-      "ants_reproduction": {},
       "ants_communication": {},
       "ants_defense": {},
       "ants_symbiosis": {},
@@ -675,6 +758,28 @@
           ]
         }
       },
+          "ants_social_structure": {
+            "overrides": {
+              "summary": "design_ants_social_structure",
+              "factsheets": ["design_ant_social_structure"],
+              "questions": [
+                "how_do_design_principles_apply_to_ant_social_structure",
+                "what_is_user_experience_design_in_ant_colonies",
+                "how_do_modular_design_principles_work"
+              ]
+            }
+          },
+          "ants_reproduction": {
+            "overrides": {
+              "summary": "design_ants_reproduction",
+              "factsheets": ["design_ant_reproduction"],
+              "questions": [
+                "how_do_design_principles_apply_to_ant_reproduction",
+                "what_is_user_experience_design_in_ant_reproduction",
+                "how_do_modular_design_principles_work_in_reproduction"
+              ]
+            }
+          },
       "painting": {
         "overrides": {
           "summary": "design_painting",
@@ -706,8 +811,6 @@
       "diet_protein": {},
       "diet_fungi": {},
       "diet_special": {},
-      "ants_social_structure": {},
-      "ants_reproduction": {},
       "ants_communication": {},
       "ants_defense": {},
       "ants_symbiosis": {},
@@ -725,7 +828,7 @@
         "overrides": {
           "summary": "detective_ants",
           "factsheets": ["detective_ants_investigation"],
-          "subtopics": ["ants_communication", "ants_social_structure", "ants_navigation", "ants_defense"],
+          "subtopics": ["ants_communication", "ants_navigation", "ants_defense"],
           "questions": [
             "how_can_you_track_individual_ants",
             "what_does_nest_excavation_reveal",
@@ -733,6 +836,28 @@
           ]
         }
       },
+          "ants_social_structure": {
+            "overrides": {
+              "summary": "detective_ants_social_structure",
+              "factsheets": ["detective_ant_social_structure"],
+              "questions": [
+                "how_do_detective_methods_investigate_ant_social_structure",
+                "what_is_evidence_collection_in_ant_research",
+                "how_does_pattern_recognition_work_in_ant_studies"
+              ]
+            }
+          },
+          "ants_reproduction": {
+            "overrides": {
+              "summary": "detective_ants_reproduction",
+              "factsheets": ["detective_ant_reproduction"],
+              "questions": [
+                "how_do_detective_methods_investigate_ant_reproduction",
+                "what_is_evidence_collection_in_reproductive_research",
+                "how_does_pattern_recognition_work_in_reproductive_studies"
+              ]
+            }
+          },
       "malayan_tiger": {
         "overrides": {
           "summary": "detective_malayan_tiger",
@@ -752,8 +877,6 @@
       "diet_protein": {},
       "diet_fungi": {},
       "diet_special": {},
-      "ants_social_structure": {},
-      "ants_reproduction": {},
       "ants_communication": {},
       "ants_defense": {},
       "ants_symbiosis": {},
@@ -798,8 +921,6 @@
       "diet_protein": {},
       "diet_fungi": {},
       "diet_special": {},
-      "ants_social_structure": {},
-      "ants_reproduction": {},
       "ants_communication": {},
       "ants_defense": {},
       "ants_symbiosis": {},
@@ -844,14 +965,41 @@
       "diet_protein": {},
       "diet_fungi": {},
       "diet_special": {},
-      "ants_social_structure": {},
-      "ants_reproduction": {},
       "ants_communication": {},
       "ants_defense": {},
       "ants_symbiosis": {},
       "ants_navigation": {},
       "colony_lifecycle": {},
       "ants_diet": {}
+    }
+  },
+  {
+    "id": "data",
+    "name": "Data",
+    "type": "perspective",
+    "rules": {
+          "ants_social_structure": {
+            "overrides": {
+              "summary": "data_ants_social_structure",
+              "factsheets": ["data_ant_social_structure"],
+              "questions": [
+                "how_does_data_analysis_reveal_social_structure",
+                "what_are_data_visualization_techniques_for_ants",
+                "how_does_statistical_analysis_help_understand_ants"
+              ]
+            }
+          },
+          "ants_reproduction": {
+            "overrides": {
+              "summary": "data_ants_reproduction",
+              "factsheets": ["data_ant_reproduction"],
+              "questions": [
+                "how_does_data_analysis_reveal_ant_reproduction",
+                "what_are_data_visualization_techniques_for_reproductive_studies",
+                "how_does_statistical_analysis_help_understand_reproduction"
+              ]
+            }
+          }
     }
   },
   {
@@ -890,8 +1038,6 @@
       "diet_protein": {},
       "diet_fungi": {},
       "diet_special": {},
-      "ants_social_structure": {},
-      "ants_reproduction": {},
       "ants_communication": {},
       "ants_defense": {},
       "ants_symbiosis": {},
@@ -909,7 +1055,7 @@
         "overrides": {
           "summary": "psychology_ants",
           "factsheets": ["psychology_of_ants"],
-          "subtopics": ["ants_navigation", "ants_communication", "ants_social_structure"],
+          "subtopics": ["ants_navigation", "ants_communication"],
           "questions": [
             "how_do_ants_navigate_home",
             "what_is_path_integration_in_ants",
@@ -917,6 +1063,28 @@
           ]
         }
       },
+          "ants_social_structure": {
+            "overrides": {
+              "summary": "psychology_ants_social_structure",
+              "factsheets": ["psychology_ant_social_structure"],
+              "questions": [
+                "how_does_individual_psychology_drive_social_structure",
+                "what_is_social_cognition_in_ants",
+                "how_do_learning_and_memory_systems_work"
+              ]
+            }
+          },
+          "ants_reproduction": {
+            "overrides": {
+              "summary": "psychology_ants_reproduction",
+              "factsheets": ["psychology_ant_reproduction"],
+              "questions": [
+                "how_does_individual_psychology_drive_reproductive_behavior",
+                "what_is_reproductive_cognition_in_ants",
+                "how_do_learning_and_memory_systems_affect_reproduction"
+              ]
+            }
+          },
       "malayan_tiger": {
         "overrides": {
           "summary": "psychology_malayan_tiger",
@@ -935,8 +1103,6 @@
       "diet_protein": {},
       "diet_fungi": {},
       "diet_special": {},
-      "ants_social_structure": {},
-      "ants_reproduction": {},
       "ants_communication": {},
       "ants_defense": {},
       "ants_symbiosis": {},
@@ -1081,6 +1247,28 @@
           ]
         }
       },
+          "ants_social_structure": {
+            "overrides": {
+              "summary": "philosophy_ants_social_structure",
+              "factsheets": ["philosophy_ant_social_structure"],
+              "questions": [
+                "what_philosophical_questions_do_ant_colonies_raise",
+                "what_are_ethical_questions_in_ant_social_structure",
+                "what_are_metaphysical_questions_about_ant_colonies"
+              ]
+            }
+          },
+          "ants_reproduction": {
+            "overrides": {
+              "summary": "philosophy_ants_reproduction",
+              "factsheets": ["philosophy_ant_reproduction"],
+              "questions": [
+                "what_philosophical_questions_do_ant_reproduction_raise",
+                "what_are_ethical_questions_in_ant_reproduction",
+                "what_are_metaphysical_questions_about_ant_reproduction"
+              ]
+            }
+          },
       "pigments": {},
       "carmine": {},
       "painting_styles": {},
@@ -1162,6 +1350,17 @@
           ]
         }
       },
+      "painting": {
+        "overrides": {
+          "summary": "ethics_painting",
+          "factsheets": ["ethics_painting"],
+          "questions": [
+            "what_ethical_questions_does_painting_raise",
+            "how_do_ethical_considerations_affect_painting_practice",
+            "what_is_cultural_appropriation_in_painting"
+          ]
+        }
+      },
       "tiger_populations": {},
       "malayan_tiger_conservation": {},
       "ants_habitat": {},
@@ -1171,15 +1370,12 @@
       "diet_protein": {},
       "diet_fungi": {},
       "diet_special": {},
-      "ants_social_structure": {},
-      "ants_reproduction": {},
       "ants_communication": {},
       "ants_defense": {},
       "ants_symbiosis": {},
       "ants_navigation": {},
       "colony_lifecycle": {},
       "ants_diet": {},
-      "painting": {},
       "pigments": {},
       "carmine": {},
       "painting_styles": {},
@@ -1207,6 +1403,17 @@
           ]
         }
       },
+      "painting": {
+        "overrides": {
+          "summary": "political_painting",
+          "factsheets": ["political_painting"],
+          "questions": [
+            "how_does_painting_operate_in_political_contexts",
+            "what_are_political_dimensions_of_painting",
+            "how_do_art_institutions_affect_political_painting"
+          ]
+        }
+      },
       "tiger_populations": {},
       "malayan_tiger_conservation": {},
       "ants_habitat": {},
@@ -1216,15 +1423,12 @@
       "diet_protein": {},
       "diet_fungi": {},
       "diet_special": {},
-      "ants_social_structure": {},
-      "ants_reproduction": {},
       "ants_communication": {},
       "ants_defense": {},
       "ants_symbiosis": {},
       "ants_navigation": {},
       "colony_lifecycle": {},
       "ants_diet": {},
-      "painting": {},
       "pigments": {},
       "carmine": {},
       "painting_styles": {},
@@ -1260,15 +1464,12 @@
       "diet_protein": {},
       "diet_fungi": {},
       "diet_special": {},
-      "ants_social_structure": {},
-      "ants_reproduction": {},
       "ants_communication": {},
       "ants_defense": {},
       "ants_symbiosis": {},
       "ants_navigation": {},
       "colony_lifecycle": {},
       "ants_diet": {},
-      "painting": {},
       "pigments": {},
       "carmine": {},
       "painting_styles": {},

@@ -868,5 +868,390 @@
     "id": "what_is_economic_heroism",
     "question": "What is economic heroism in tiger conservation?",
     "answers": ["Economic heroism occurs when communities choose conservation-compatible livelihoods over harmful activities, demonstrating that environmental protection can provide sustainable economic benefits while preserving natural heritage."]
+  },
+  {
+    "id": "how_do_biological_adaptations_create_social_structure",
+    "question": "How do biological adaptations create ant social structure?",
+    "answers": ["Biological adaptations through natural selection have shaped individual morphology and behavior to create specialized castes optimized for specific roles within the social hierarchy, with queens adapted for reproduction, workers for labor, and soldiers for defense."]
+  },
+  {
+    "id": "what_is_worker_polymorphism",
+    "question": "What is worker polymorphism in ant colonies?",
+    "answers": ["Worker polymorphism creates size-based specialization where minor workers handle brood care and nest maintenance while major workers specialize in foraging and defense, reflecting evolutionary pressure for efficiency through biological variation."]
+  },
+  {
+    "id": "how_do_chemical_communication_systems_work",
+    "question": "How do chemical communication systems enable ant social structure?",
+    "answers": ["Chemical communication systems involve specialized glands that secrete pheromones conveying information about colony status, individual identity, and task requirements, creating sophisticated communication networks that coordinate collective behavior without central control."]
+  },
+  {
+    "id": "how_do_ant_colonies_function_as_social_systems",
+    "question": "How do ant colonies function as social systems?",
+    "answers": ["Ant colonies operate as sophisticated social systems with established norms, roles, and behavioral expectations that govern individual behavior and maintain group cohesion through complex networks of relationships and social protocols."]
+  },
+  {
+    "id": "what_is_collective_decision_making_in_ants",
+    "question": "What is collective decision-making in ant colonies?",
+    "answers": ["Collective decision-making occurs through sophisticated social processes that integrate individual information and reach consensus without central authority, using chemical signals, behavioral displays, and direct interactions to assess environmental conditions and make collective choices."]
+  },
+  {
+    "id": "how_do_social_networks_work_in_ant_colonies",
+    "question": "How do social networks work in ant colonies?",
+    "answers": ["Social networks within ant colonies create information highways that enable rapid communication and coordination across thousands of individuals, with network analysis revealing how information flows through colonies and identifying key individuals that serve as communication hubs."]
+  },
+  {
+    "id": "how_do_ant_colonies_operate_as_complex_systems",
+    "question": "How do ant colonies operate as complex adaptive systems?",
+    "answers": ["Ant social structure operates as a complex adaptive system where individual behaviors create emergent colony-level properties through feedback loops and self-organizing processes, with simple rules generating sophisticated organizational patterns without central control."]
+  },
+  {
+    "id": "what_are_feedback_loops_in_ant_social_structure",
+    "question": "What are feedback loops in ant social structure?",
+    "answers": ["Feedback loops create dynamic systems that can adapt and optimize their organization based on environmental conditions, with positive feedback amplifying successful behaviors and negative feedback preventing system collapse while maintaining colony homeostasis."]
+  },
+  {
+    "id": "how_do_network_effects_enhance_colony_efficiency",
+    "question": "How do network effects enhance colony efficiency?",
+    "answers": ["Network effects within ant social structure create system-level properties that enhance colony efficiency and coordination through connectivity and information flow, with network redundancy ensuring colony function despite individual failures."]
+  },
+  {
+    "id": "how_does_individual_psychology_drive_social_structure",
+    "question": "How does individual ant psychology drive social structure?",
+    "answers": ["Individual ant psychology drives social structure through cognitive processes that enable workers to assess colony needs, make task allocation decisions, and coordinate with nestmates through sophisticated behavioral mechanisms and social cognition."]
+  },
+  {
+    "id": "what_is_social_cognition_in_ants",
+    "question": "What is social cognition in ants?",
+    "answers": ["Social cognition involves sophisticated psychological processes that enable individual ants to understand and respond to complex social situations, assess social context, recognize nestmates, and adjust behavior based on social information and colony status."]
+  },
+  {
+    "id": "how_do_learning_and_memory_systems_work",
+    "question": "How do learning and memory systems create social organization?",
+    "answers": ["Learning and memory systems create the cognitive foundation for sophisticated social organization through spatial memory for navigation, associative learning for food sources, and social learning for behavioral adaptation based on experience and colony feedback."]
+  },
+  {
+    "id": "how_do_design_principles_apply_to_ant_social_structure",
+    "question": "How do design principles apply to ant social structure?",
+    "answers": ["Ant social structure exemplifies elegant design principles where form follows function with remarkable precision, creating optimized organizational systems that maximize efficiency and adaptability through modularity, scalability, and self-organization."]
+  },
+  {
+    "id": "what_is_user_experience_design_in_ant_colonies",
+    "question": "What is user experience design in ant colonies?",
+    "answers": ["User experience design principles apply to ant social structure where individual ants are the 'users' and the colony organization is the 'system', providing clear roles, efficient communication pathways, and intuitive behavioral protocols for effective functioning."]
+  },
+  {
+    "id": "how_do_modular_design_principles_work",
+    "question": "How do modular design principles work in ant social structure?",
+    "answers": ["Modular design principles create flexible organizational systems that can adapt to changing conditions through modular components including caste systems, task allocation mechanisms, and communication networks that can be reconfigured as needed."]
+  },
+  {
+    "id": "how_does_evolutionary_engineering_create_social_structure",
+    "question": "How does evolutionary engineering create ant social structure?",
+    "answers": ["Ant social structure represents millions of years of evolutionary engineering where natural selection has iteratively refined organizational systems to create highly efficient and robust social machines through optimization of resource allocation and task distribution."]
+  },
+  {
+    "id": "what_are_systems_engineering_principles_in_ants",
+    "question": "What are systems engineering principles in ant social structure?",
+    "answers": ["Systems engineering principles create integrated organizational systems that optimize colony performance through requirements analysis, system design, implementation, and testing that ensure optimal colony function with scalability, maintainability, and reliability."]
+  },
+  {
+    "id": "how_do_mechanical_engineering_principles_apply",
+    "question": "How do mechanical engineering principles apply to ant social structure?",
+    "answers": ["Mechanical engineering principles create robust organizational systems that can withstand stress and maintain operational efficiency through load distribution, stress analysis, and failure prevention that ensure colony stability and resilience."]
+  },
+  {
+    "id": "how_do_mathematical_principles_govern_social_structure",
+    "question": "How do mathematical principles govern ant social structure?",
+    "answers": ["Ant social structure follows mathematical principles and patterns that can be analyzed through quantitative models revealing optimal ratios between castes, efficient algorithms for task allocation, and network theory principles governing communication and coordination."]
+  },
+  {
+    "id": "what_is_network_theory_analysis_in_ant_colonies",
+    "question": "What is network theory analysis in ant social structure?",
+    "answers": ["Network theory analysis reveals complex mathematical relationships that govern communication, coordination, and information flow within colonies, with network properties including connectivity, centrality, and clustering that influence colony efficiency and resilience."]
+  },
+  {
+    "id": "how_does_optimization_theory_apply_to_ant_colonies",
+    "question": "How does optimization theory apply to ant colonies?",
+    "answers": ["Optimization theory creates mathematical frameworks for understanding how colonies achieve optimal resource allocation, task distribution, and organizational efficiency through efficiency maximization, resource optimization, and performance optimization algorithms."]
+  },
+  {
+    "id": "how_does_data_analysis_reveal_social_structure",
+    "question": "How does data analysis reveal ant social structure?",
+    "answers": ["Data analysis involves systematic data collection and analysis to reveal patterns, relationships, and organizational principles that govern colony behavior and efficiency through tracking individual ants, measuring behavioral frequencies, and analyzing communication networks."]
+  },
+  {
+    "id": "what_are_data_visualization_techniques_for_ants",
+    "question": "What are data visualization techniques for ant social structure?",
+    "answers": ["Data visualization techniques reveal complex patterns and relationships that govern colony organization through network diagrams, behavioral flowcharts, and organizational charts that reveal the underlying logic of colony organization and behavior."]
+  },
+  {
+    "id": "how_does_statistical_analysis_help_understand_ants",
+    "question": "How does statistical analysis help understand ant social structure?",
+    "answers": ["Statistical analysis reveals quantitative relationships and patterns that govern colony behavior and organizational efficiency through correlation patterns, regression relationships, and predictive models that influence colony performance and success."]
+  },
+  {
+    "id": "how_does_machine_learning_analyze_ant_behavior",
+    "question": "How does machine learning analyze ant social structure?",
+    "answers": ["Machine learning analysis reveals complex patterns and relationships that govern colony behavior through pattern recognition, predictive modeling, and automated analysis using neural networks, decision trees, and clustering algorithms for intelligent understanding."]
+  },
+  {
+    "id": "how_do_detective_methods_investigate_ant_social_structure",
+    "question": "How do detective methods investigate ant social structure?",
+    "answers": ["Detective methods involve careful observation of individual behaviors, tracking social interactions, and piecing together evidence to understand how social structure emerges and functions through marking individual ants and analyzing behavioral sequences."]
+  },
+  {
+    "id": "what_is_evidence_collection_in_ant_research",
+    "question": "What is evidence collection in ant social structure research?",
+    "answers": ["Evidence collection involves systematic gathering of information about individual behaviors, social interactions, and organizational patterns that reveal the underlying logic of colony organization through behavioral tracking, interaction analysis, and organizational mapping."]
+  },
+  {
+    "id": "how_does_pattern_recognition_work_in_ant_studies",
+    "question": "How does pattern recognition work in ant social structure studies?",
+    "answers": ["Pattern recognition involves identifying recurring themes, relationships, and organizational principles that govern colony behavior through behavioral analysis, network analysis, and organizational analysis that create systematic understanding of social systems."]
+  },
+  {
+    "id": "what_philosophical_questions_do_ant_colonies_raise",
+    "question": "What philosophical questions do ant colonies raise?",
+    "answers": ["Ant social structure raises profound philosophical questions about the nature of society, individual identity, cooperation, and the meaning of collective behavior in biological systems, challenging traditional notions of intelligence and social organization."]
+  },
+  {
+    "id": "what_are_ethical_questions_in_ant_social_structure",
+    "question": "What are ethical questions in ant social structure?",
+    "answers": ["Ethical questions involve exploring the moral implications of collective behavior, individual sacrifice, and social organization in biological systems, including questions about cooperation, the value of individual sacrifice, and moral status of collective decision-making."]
+  },
+  {
+    "id": "what_are_metaphysical_questions_about_ant_colonies",
+    "question": "What are metaphysical questions about ant colonies?",
+    "answers": ["Metaphysical questions involve exploring the fundamental nature of reality, existence, and being in biological systems, including questions about collective existence, the reality of emergent properties, and the fundamental nature of social organization."]
+  },
+  {
+    "id": "what_are_epistemological_questions_about_ant_knowledge",
+    "question": "What are epistemological questions about ant knowledge?",
+    "answers": ["Epistemological questions involve exploring the nature of knowledge, understanding, and wisdom in biological systems, including questions about collective knowledge, social wisdom, and how collective understanding emerges from individual experience."]
+  },
+  {
+    "id": "how_do_biological_adaptations_enable_ant_reproduction",
+    "question": "How do biological adaptations enable ant reproduction?",
+    "answers": ["Biological adaptations include specialized reproductive anatomy in queens for massive egg production, hormonal regulation of reproductive cycles, and physiological mechanisms for sperm storage and brood development that ensure optimal reproductive success."]
+  },
+  {
+    "id": "what_are_different_reproductive_strategies_in_ants",
+    "question": "What are different reproductive strategies in ants?",
+    "answers": ["Reproductive strategies include claustral founding where queens rely on metabolized reserves, dependent founding through temporary colony joining, and cooperative founding where multiple queens work together to establish new colonies."]
+  },
+  {
+    "id": "how_does_brood_development_work_in_ants",
+    "question": "How does brood development work in ants?",
+    "answers": ["Brood development follows complete metamorphosis through egg, larva, pupa, and adult stages, with each phase requiring specific biological conditions including proper humidity, temperature, and nutritional resources for optimal development."]
+  },
+  {
+    "id": "how_do_genetic_relationships_affect_ant_reproduction",
+    "question": "How do genetic relationships affect ant reproduction?",
+    "answers": ["Haplodiploidy in many ant species means workers are more closely related to sisters than offspring, creating genetic incentives for cooperative behavior and colony investment through kin selection mechanisms."]
+  },
+  {
+    "id": "how_has_ant_reproduction_evolved_over_time",
+    "question": "How has ant reproduction evolved over time?",
+    "answers": ["Ant reproduction has evolved over 100 million years from primitive solitary ancestors to sophisticated social reproductive systems, involving major transitions including reproductive division of labor, cooperative brood care, and complex colony founding strategies."]
+  },
+  {
+    "id": "what_are_major_evolutionary_transitions_in_ant_reproduction",
+    "question": "What are major evolutionary transitions in ant reproduction?",
+    "answers": ["Major transitions include development of caste systems with specialized queens and workers, evolution of nuptial flights and aerial mating displays, and emergence of complex colony founding behaviors that optimize reproductive success."]
+  },
+  {
+    "id": "how_do_ants_adapt_reproductive_strategies_to_environment",
+    "question": "How do ants adapt reproductive strategies to environmental conditions?",
+    "answers": ["Ants have evolved drought-resistant reproductive strategies, temperature-dependent reproductive cycles, and resource-based reproductive allocation that respond to climate change, habitat modification, and competition with other species."]
+  },
+  {
+    "id": "what_contemporary_challenges_face_ant_reproduction",
+    "question": "What contemporary challenges face ant reproduction?",
+    "answers": ["Contemporary challenges include habitat destruction, climate change, and competition with invasive species that threaten reproductive success and colony survival through habitat fragmentation, pollution, and introduction of non-native species."]
+  },
+  {
+    "id": "how_do_ant_reproductive_systems_operate_as_complex_systems",
+    "question": "How do ant reproductive systems operate as complex adaptive systems?",
+    "answers": ["Ant reproduction operates as a complex adaptive system where individual reproductive behaviors create emergent colony-level properties through feedback loops and self-organizing processes that regulate reproductive output based on colony needs."]
+  },
+  {
+    "id": "what_are_feedback_loops_in_ant_reproduction",
+    "question": "What are feedback loops in ant reproduction?",
+    "answers": ["Feedback loops create dynamic systems that adapt reproductive output based on colony needs, with positive feedback amplifying successful reproductive behaviors and negative feedback preventing reproductive overproduction."]
+  },
+  {
+    "id": "how_do_network_effects_enhance_reproductive_efficiency",
+    "question": "How do network effects enhance reproductive efficiency?",
+    "answers": ["Network effects create system-level properties that enhance colony reproductive efficiency through connectivity and information flow, with network redundancy ensuring reproductive function despite individual failures."]
+  },
+  {
+    "id": "how_does_individual_psychology_drive_reproductive_behavior",
+    "question": "How does individual ant psychology drive reproductive behavior?",
+    "answers": ["Individual ant psychology drives reproductive behavior through cognitive processes that enable workers and queens to assess colony reproductive needs, recognize reproductive opportunities, and coordinate reproductive activities with nestmates."]
+  },
+  {
+    "id": "what_is_reproductive_cognition_in_ants",
+    "question": "What is reproductive cognition in ants?",
+    "answers": ["Reproductive cognition involves sophisticated psychological processes that enable ants to understand reproductive situations, assess reproductive context, recognize reproductive opportunities, and adjust behavior based on reproductive information."]
+  },
+  {
+    "id": "how_do_learning_and_memory_systems_affect_reproduction",
+    "question": "How do learning and memory systems affect ant reproduction?",
+    "answers": ["Learning and memory systems create the cognitive foundation for reproductive organization through spatial memory for reproductive navigation, associative learning for reproductive success, and social learning for reproductive behavioral adaptation."]
+  },
+  {
+    "id": "how_do_detective_methods_investigate_ant_reproduction",
+    "question": "How do detective methods investigate ant reproduction?",
+    "answers": ["Detective methods involve careful observation of reproductive behaviors, tracking colony founding processes, marking individual ants, analyzing reproductive sequences, and reconstructing colony founding networks to understand reproductive organization."]
+  },
+  {
+    "id": "what_is_evidence_collection_in_reproductive_research",
+    "question": "What is evidence collection in ant reproductive research?",
+    "answers": ["Evidence collection involves systematic gathering of information about individual reproductive behaviors, reproductive interactions, and organizational patterns through behavioral tracking, interaction analysis, and organizational mapping."]
+  },
+  {
+    "id": "how_does_pattern_recognition_work_in_reproductive_studies",
+    "question": "How does pattern recognition work in ant reproductive studies?",
+    "answers": ["Pattern recognition involves identifying recurring themes, relationships, and organizational principles that govern reproductive behavior through behavioral analysis, network analysis, and organizational analysis."]
+  },
+  {
+    "id": "how_do_mathematical_principles_govern_ant_reproduction",
+    "question": "How do mathematical principles govern ant reproduction?",
+    "answers": ["Mathematical analysis reveals optimal ratios between reproductive and non-reproductive individuals, efficient algorithms for colony founding, and statistical principles governing reproductive success and colony growth."]
+  },
+  {
+    "id": "what_is_population_dynamics_analysis_in_ant_reproduction",
+    "question": "What is population dynamics analysis in ant reproduction?",
+    "answers": ["Population dynamics analysis reveals complex mathematical relationships governing reproductive success, colony growth, and population regulation through birth rates, death rates, and migration patterns that influence reproductive success."]
+  },
+  {
+    "id": "how_does_optimization_theory_apply_to_ant_reproduction",
+    "question": "How does optimization theory apply to ant reproduction?",
+    "answers": ["Optimization theory creates mathematical frameworks for understanding how colonies achieve optimal reproductive allocation, resource distribution, and organizational efficiency through efficiency maximization and performance optimization."]
+  },
+  {
+    "id": "how_does_data_analysis_reveal_ant_reproduction",
+    "question": "How does data analysis reveal ant reproduction?",
+    "answers": ["Data analysis involves systematic data collection and analysis to reveal patterns, relationships, and biological principles governing reproductive behavior through tracking individual ants, measuring reproductive frequencies, and analyzing colony founding networks."]
+  },
+  {
+    "id": "what_are_data_visualization_techniques_for_reproductive_studies",
+    "question": "What are data visualization techniques for ant reproductive studies?",
+    "answers": ["Data visualization techniques reveal complex patterns and relationships governing reproductive organization through network diagrams, behavioral flowcharts, and organizational charts that reveal underlying reproductive logic."]
+  },
+  {
+    "id": "how_does_statistical_analysis_help_understand_reproduction",
+    "question": "How does statistical analysis help understand ant reproduction?",
+    "answers": ["Statistical analysis reveals quantitative relationships and patterns governing reproductive behavior through correlation patterns, regression relationships, and predictive models that influence reproductive performance and success."]
+  },
+  {
+    "id": "how_does_machine_learning_analyze_reproductive_behavior",
+    "question": "How does machine learning analyze ant reproductive behavior?",
+    "answers": ["Machine learning analysis reveals complex patterns and relationships governing reproductive behavior through pattern recognition, predictive modeling, and automated analysis using neural networks, decision trees, and clustering algorithms."]
+  },
+  {
+    "id": "how_does_evolutionary_engineering_create_reproductive_systems",
+    "question": "How does evolutionary engineering create ant reproductive systems?",
+    "answers": ["Ant reproduction represents millions of years of evolutionary engineering where natural selection has iteratively refined reproductive systems to create highly efficient and robust reproductive machines through optimization of reproductive allocation and colony founding strategies."]
+  },
+  {
+    "id": "what_are_systems_engineering_principles_in_reproduction",
+    "question": "What are systems engineering principles in ant reproduction?",
+    "answers": ["Systems engineering principles create integrated reproductive systems that optimize colony reproductive performance through requirements analysis, system design, implementation, and testing that ensure optimal reproductive function."]
+  },
+  {
+    "id": "how_do_mechanical_engineering_principles_apply_to_reproduction",
+    "question": "How do mechanical engineering principles apply to ant reproduction?",
+    "answers": ["Mechanical engineering principles create robust reproductive systems that can withstand stress and maintain operational efficiency through load distribution, stress analysis, and failure prevention that ensure reproductive stability."]
+  },
+  {
+    "id": "how_do_design_principles_apply_to_ant_reproduction",
+    "question": "How do design principles apply to ant reproduction?",
+    "answers": ["Ant reproduction exemplifies elegant design principles where form follows function with remarkable precision, creating optimized reproductive systems that maximize efficiency and adaptability through modularity, scalability, and self-organization."]
+  },
+  {
+    "id": "what_is_user_experience_design_in_ant_reproduction",
+    "question": "What is user experience design in ant reproduction?",
+    "answers": ["User experience design principles apply to ant reproduction where individual ants are the 'users' and the colony reproductive organization is the 'system', providing clear reproductive roles, efficient communication pathways, and intuitive behavioral protocols."]
+  },
+  {
+    "id": "how_do_modular_design_principles_work_in_reproduction",
+    "question": "How do modular design principles work in ant reproduction?",
+    "answers": ["Modular design principles create flexible reproductive systems that can adapt to changing conditions through modular components including reproductive caste systems, reproductive allocation mechanisms, and communication networks that can be reconfigured as needed."]
+  },
+  {
+    "id": "what_philosophical_questions_do_ant_reproduction_raise",
+    "question": "What philosophical questions do ant reproduction raise?",
+    "answers": ["Ant reproduction raises profound philosophical questions about the nature of life, individual sacrifice, cooperation, and the meaning of reproductive behavior in biological systems, challenging traditional notions of individual reproduction and genetic inheritance."]
+  },
+  {
+    "id": "what_are_ethical_questions_in_ant_reproduction",
+    "question": "What are ethical questions in ant reproduction?",
+    "answers": ["Ethical questions involve exploring the moral implications of collective reproductive behavior, individual reproductive sacrifice, and reproductive organization, including questions about cooperation, sacrifice, and moral status of collective reproductive decision-making."]
+  },
+  {
+    "id": "what_are_metaphysical_questions_about_ant_reproduction",
+    "question": "What are metaphysical questions about ant reproduction?",
+    "answers": ["Metaphysical questions involve exploring the fundamental nature of reproductive reality, reproductive existence, and reproductive being, including questions about collective reproductive existence and the reality of emergent reproductive properties."]
+  },
+  {
+    "id": "what_are_epistemological_questions_about_ant_reproduction",
+    "question": "What are epistemological questions about ant reproduction?",
+    "answers": ["Epistemological questions involve exploring the nature of reproductive knowledge, reproductive understanding, and reproductive wisdom, including questions about collective reproductive knowledge and how collective reproductive understanding emerges from individual experience."]
+  },
+  {
+    "id": "what_ethical_questions_does_painting_raise",
+    "question": "What ethical questions does painting raise?",
+    "answers": ["Painting raises profound ethical questions about representation, cultural appropriation, authenticity, and the moral responsibilities of artists in creating and displaying visual works that depict people, places, and cultural symbols."]
+  },
+  {
+    "id": "how_do_ethical_considerations_affect_painting_practice",
+    "question": "How do ethical considerations affect painting practice?",
+    "answers": ["Ethical painting practices require artists to consider the impact of their work on subjects, viewers, and communities, including informed consent when depicting people, respectful representation of cultural symbols, and awareness of historical and social context."]
+  },
+  {
+    "id": "what_is_cultural_appropriation_in_painting",
+    "question": "What is cultural appropriation in painting?",
+    "answers": ["Cultural appropriation in painting raises complex ethical questions about who has the right to represent certain cultural symbols, traditions, and aesthetic elements, involving considerations about power dynamics, historical context, and potential harm to marginalized communities."]
+  },
+  {
+    "id": "how_do_ethics_of_authenticity_apply_to_painting",
+    "question": "How do ethics of authenticity apply to painting?",
+    "answers": ["The ethics of authenticity involve questions about what constitutes genuine artistic expression versus commercial manipulation, requiring transparency about artistic methods, respect for historical accuracy, and consideration of how artistic choices may influence viewer understanding."]
+  },
+  {
+    "id": "what_are_ethical_responsibilities_of_artists",
+    "question": "What are the ethical responsibilities of artists?",
+    "answers": ["Ethical responsibilities include considering the social impact of their work, the potential for paintings to perpetuate harmful stereotypes or challenge social injustices, and the moral responsibility to use their artistic platform thoughtfully and responsibly."]
+  },
+  {
+    "id": "how_does_painting_operate_in_political_contexts",
+    "question": "How does painting operate in political contexts?",
+    "answers": ["Painting operates within complex political contexts where artistic choices, subject matter, and representation carry significant political meaning and consequences that extend beyond aesthetic considerations to questions of power, representation, and social change."]
+  },
+  {
+    "id": "what_are_political_dimensions_of_painting",
+    "question": "What are the political dimensions of painting?",
+    "answers": ["Political dimensions include questions about who has access to artistic education and resources, whose perspectives are valued in art institutions, and how artistic movements reflect and influence political change through visual representation."]
+  },
+  {
+    "id": "how_do_art_institutions_affect_political_painting",
+    "question": "How do art institutions affect political painting?",
+    "answers": ["Art institutions function as gatekeepers that determine whose work gets seen, whose stories get told, and whose perspectives are valued in the art world, reflecting and perpetuating broader social inequalities and power dynamics."]
+  },
+  {
+    "id": "how_can_painting_serve_as_political_resistance",
+    "question": "How can painting serve as political resistance?",
+    "answers": ["Painting can function as a form of political activism by critiquing social injustices, exposing political corruption, giving voice to marginalized perspectives, and using visual strategies to challenge viewers' assumptions about power and justice."]
+  },
+  {
+    "id": "what_is_the_politics_of_representation_in_painting",
+    "question": "What is the politics of representation in painting?",
+    "answers": ["The politics of representation involve questions about whose perspectives are included in artistic narratives, how different groups are portrayed in visual culture, and the role of painting in challenging or reinforcing existing social hierarchies."]
+  },
+  {
+    "id": "how_does_painting_influence_political_consciousness",
+    "question": "How does painting influence political consciousness?",
+    "answers": ["Painting can influence public opinion, shape cultural narratives, and contribute to the formation of political identities and movements by creating works that represent diverse perspectives and challenge dominant cultural narratives."]
   }
 ]
