@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ants",
+    "title": "Semut",
+    "summary": "Semut adalah serangga sosial yang tergolong dalam keluarga Formicidae, terkenal kerana hidup dalam koloni yang sangat teratur dengan peranan khusus seperti ratu, pekerja, dan tentera. Dengan lebih daripada 15,000 spesies di seluruh dunia, mereka berkembang maju di hampir setiap ekosistem, di mana mereka memainkan peranan penting sebagai pengurai, penyebar benih, dan jurutera ekologi. Kejayaan mereka berpunca daripada tingkah laku kerjasama, komunikasi yang kompleks, dan keupayaan membina sarang di bawah tanah dan di atas tanah.",
+    "subtopics": [
+      {"id": "ants_social_structure", "order": 1},
+      {"id": "ants_reproduction", "order": 2},
+      {"id": "ants_diet", "order": 3},
+      {"id": "ants_habitat", "order": 4}
+    ],
+    "factsheets": [
+      {"id": "ants_general", "order": 1}
+    ],
+    "questions": [
+      {"id": "why_do_ants_build_colonies", "order": 1},
+      {"id": "how_do_ants_find_food", "order": 2},
+      {"id": "where_do_ants_build_nests", "order": 3}
+    ]
+  },
+  {
+    "id": "painting",
+    "title": "Lukisan",
+    "titleBgUrl": "https://t4.ftcdn.net/jpg/04/02/30/49/360_F_402304964_lBkApbVhuhBwHuUPmKfJxi2ieO6cbGkD.jpg",
+    "summary": "Lukisan adalah seni mencipta imej, corak, atau ekspresi dengan menggunakan warna pada permukaan seperti kanvas, kertas, dinding, atau kayu. Ia adalah bentuk penceritaan visual dan ekspresi peribadi yang telah diamalkan selama beribu-ribu tahun merentas budaya. Lukisan boleh bersifat realistik, abstrak, atau imaginatif, dan artis menggunakan pelbagai bahan, alatan, dan teknik untuk mencapai kesan yang berbeza. Selain nilai estetiknya, lukisan berfungsi sebagai cara komunikasi, dokumentasi budaya, dan ekspresi emosi.",
+    "subtopics": [
+      {"id": "painting_styles", "order": 1},
+      {"id": "painting_materials", "order": 2},
+      {"id": "painting_purposes", "order": 3}
+    ],
+    "factsheets": [
+      {"id": "painting_general", "order": 1}
+    ],
+    "questions": [
+      {"id": "how_do_paintings_last", "order": 1},
+      {"id": "what_materials_make_paint", "order": 2},
+      {"id": "why_do_colors_fade", "order": 3}
+    ]
+  },
+  {
+    "id": "malayan_tiger",
+    "title": "Harimau Malaya",
+    "titleBgUrl": "https://www.mandai.com/content/dam/mandai/singapore-zoo/animals-zones/tigers/Carousel_220302SZG_E3A8428.jpg.transform/compress/resize1000/img.jpg",
+    "partner": {
+      "name": "Mandai Singapore Zoo",
+      "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1LKmX5NoHJJcQGf14Vbnn_UN9YQ3dOK-eTQ&s",
+      "url": "https://www.mandai.com/singapore-zoo"
+    },
+    "summary": "Harimau Malaya adalah subspesies harimau yang terancam kritikal yang ditemui di hutan tropika Semenanjung Tanah Melayu. Lebih kecil daripada subspesies harimau lain, ia mempunyai tubuh berotot, bulu oren tersendiri dengan jalur hitam, dan kelincahan luar biasa yang membolehkannya memburu dengan berkesan di medan hutan yang padat. Harimau Malaya adalah pemangsa bersendirian, memakan rusa, babi hutan, dan mamalia bersaiz sederhana yang lain, dan mereka memainkan peranan penting dalam mengekalkan keseimbangan ekosistem mereka. Ancaman seperti kehilangan habitat, pemburuan haram, dan konflik manusia-hidupan liar telah mengurangkan populasi mereka secara drastik, menjadikan usaha pemuliharaan penting untuk memastikan kelangsungan hidup mereka.",
+    "subtopics": [
+      {"id": "tiger_populations", "order": 1},
+      {"id": "malayan_tiger_conservation", "order": 2}
+    ],
+    "factsheets": [
+      {"id": "malayan_tiger_general", "order": 1}
+    ],
+    "questions": [
+      {"id": "where_do_malayan_tigers_live", "order": 1},
+      {"id": "what_do_malayan_tigers_eat", "order": 2},
+      {"id": "why_are_malayan_tigers_endangered", "order": 3},
+      {"id": "how_do_malayan_tigers_communicate", "order": 4}
+    ]
+  }
+]
+

@@ -3,8 +3,8 @@ import SubtopicCard from './SubtopicCard';
 import { getSubtopicsByIds } from '../core/domain/contentService';
 import { HiFolderOpen } from 'react-icons/hi2';
 
-const SubtopicsSection = ({ subtopics, onNavigate }) => {
-  const subtopicData = getSubtopicsByIds(subtopics);
+const SubtopicsSection = ({ subtopics, lensIds = [], onNavigate }) => {
+  const subtopicData = getSubtopicsByIds(subtopics, lensIds);
 
   const handleSubtopicClick = (subtopicId) => {
     if (onNavigate) {

@@ -288,5 +288,585 @@
     "id": "tiger_populations_q5",
     "question": "What is being done to increase tiger numbers worldwide?",
     "answers": ["Conservation programs like the Global Tiger Recovery Program focus on protecting habitats, reducing poaching, and supporting local communities."]
+  },
+  {
+    "id": "how_do_ant_bodies_adapt",
+    "question": "How do ant bodies adapt to different environments?",
+    "answers": ["Ants possess specialized sensory organs, flexible segmented bodies, and physiological adaptations like heat-shock proteins for extreme temperatures, allowing them to thrive in diverse habitats from deserts to flooded areas."]
+  },
+  {
+    "id": "what_life_stages_do_ants_go_through",
+    "question": "What life stages do ants go through?",
+    "answers": ["Ants undergo complete metamorphosis through four stages: egg, larva, pupa, and adult, with each stage serving distinct functions within the colony."]
+  },
+  {
+    "id": "how_do_ant_antennae_work",
+    "question": "How do ant antennae work?",
+    "answers": ["Ant antennae function as multipurpose detectors with thousands of sensory receptors that detect chemical signals, assess food quality, recognize nestmates, and even measure distances traveled."]
+  },
+  {
+    "id": "what_ecological_roles_do_ants_play",
+    "question": "What ecological roles do ants play?",
+    "answers": ["Ants serve as ecosystem engineers, seed dispersers, predators, prey, and mutualists, physically modifying habitats while forming crucial links in food webs and supporting plant regeneration."]
+  },
+  {
+    "id": "how_do_ants_disperse_seeds",
+    "question": "How do ants disperse seeds?",
+    "answers": ["Ants carry seeds with attached elaiosomes to their nests, consume the nutrient-rich attachments, and discard viable seeds in favorable microsites, effectively planting them in protected locations."]
+  },
+  {
+    "id": "why_are_ant_plant_partnerships_important",
+    "question": "Why are ant-plant partnerships important?",
+    "answers": ["These mutualisms provide plants with protection from herbivores while offering ants food and shelter, creating coevolved relationships where both partners depend on each other for survival."]
+  },
+  {
+    "id": "how_do_ant_colonies_self_organize",
+    "question": "How do ant colonies self-organize without central control?",
+    "answers": ["Colonies function through decentralized decision-making where individual ants follow simple rules based on local information, creating emergent collective intelligence through positive feedback loops and pheromone gradients."]
+  },
+  {
+    "id": "what_are_positive_feedback_loops_in_ants",
+    "question": "What are positive feedback loops in ant behavior?",
+    "answers": ["When foragers discover food, they lay pheromone trails that attract more ants, who strengthen the trail further, creating an autocatalytic process that rapidly mobilizes workers to productive resources."]
+  },
+  {
+    "id": "how_does_division_of_labor_emerge",
+    "question": "How does division of labor emerge in ant colonies?",
+    "answers": ["Division of labor emerges through self-organization as individuals select tasks based on age, internal thresholds, and local stimuli, with young workers caring for brood and older individuals foraging outside."]
+  },
+  {
+    "id": "what_is_reproductive_division_of_labor",
+    "question": "What is reproductive division of labor in ant societies?",
+    "answers": ["Reproduction is concentrated in queens while workers remain sterile, dedicating themselves to supporting the colony, which makes evolutionary sense due to the genetic relatedness structure of ant families."]
+  },
+  {
+    "id": "how_are_ant_castes_determined",
+    "question": "How are ant castes determined?",
+    "answers": ["Caste determination combines genetic factors with developmental plasticity, where nutrition levels during larval growth, environmental conditions, and genetic predisposition determine whether individuals become queens or workers."]
+  },
+  {
+    "id": "what_is_trophallaxis",
+    "question": "What is trophallaxis in ants?",
+    "answers": ["Trophallaxis is the exchange of liquid food between ants that serves both nutritional and communicative functions, transferring nutrients and chemical signals that coordinate colony activities."]
+  },
+  {
+    "id": "how_do_ants_solve_routing_problems",
+    "question": "How do ants solve complex routing problems?",
+    "answers": ["Ants use probabilistic decision-making and pheromone-based learning to find near-optimal paths between nests and food sources, with individual stochastic choices creating collective solutions to computationally difficult problems."]
+  },
+  {
+    "id": "what_mathematical_patterns_appear_in_colonies",
+    "question": "What mathematical patterns appear in ant colony growth?",
+    "answers": ["Colony growth follows sigmoid curves with exponential increase initially, then decelerating as resource limitations impose carrying capacity constraints, predictable through models of worker mortality and queen egg-laying rates."]
+  },
+  {
+    "id": "how_do_ant_territories_distribute_spatially",
+    "question": "How do ant territories distribute across landscapes?",
+    "answers": ["Territorial species exhibit regular spacing approaching hexagonal tessellations that maximize distance between neighbors and optimally partition space for resource access."]
+  },
+  {
+    "id": "what_is_ant_colony_optimization",
+    "question": "What is Ant Colony Optimization?",
+    "answers": ["It's a computational algorithm inspired by ant foraging that uses virtual ants depositing digital pheromones to solve routing, scheduling, and resource allocation problems in telecommunications, logistics, and manufacturing."]
+  },
+  {
+    "id": "how_do_ants_inspire_robotics",
+    "question": "How do ants inspire swarm robotics?",
+    "answers": ["Ant collective behavior principles enable coordination of simple robots through local interactions without centralized control, creating robust systems for tasks like environmental monitoring and search-and-rescue operations."]
+  },
+  {
+    "id": "what_architectural_innovations_come_from_ants",
+    "question": "What architectural innovations are inspired by ants?",
+    "answers": ["Ant nest engineering has inspired passive climate control systems and self-assembling materials, like the Eastgate Centre in Zimbabwe which uses termite-inspired ventilation to reduce cooling energy by ninety percent."]
+  },
+  {
+    "id": "how_does_ant_morphology_reflect_function",
+    "question": "How does ant morphology reflect their functions?",
+    "answers": ["Morphological diversity shows adaptive design solutions: trap-jaw ants have spring-loaded mandibles for stunning prey, army ant soldiers have massive defensive heads, and honeypot ants have expandable abdomens for food storage."]
+  },
+  {
+    "id": "what_biomechanical_advantages_do_ants_have",
+    "question": "What biomechanical advantages do ants have?",
+    "answers": ["Ants achieve remarkable strength-to-weight ratios through scaling laws favoring small sizes and optimized muscle attachment geometries, allowing them to carry objects many times their body weight."]
+  },
+  {
+    "id": "how_is_ant_nest_architecture_designed",
+    "question": "How is ant nest architecture functionally designed?",
+    "answers": ["Nests balance defense, climate control, and storage needs through specialized chambers positioned by function: brood nurseries in optimal temperature zones, food storage near entrances, and refuse chambers isolated to minimize pathogen exposure."]
+  },
+  {
+    "id": "how_can_you_track_individual_ants",
+    "question": "How can you track individual ants to study their behavior?",
+    "answers": ["Researchers mark ants with paint dots or tags to follow the same individuals over days or weeks, documenting task specialization, behavioral roles, and whether ants switch between different activities."]
+  },
+  {
+    "id": "what_does_nest_excavation_reveal",
+    "question": "What does nest excavation reveal about colony life?",
+    "answers": ["Excavation or plaster casting exposes three-dimensional architecture, chamber arrangements, and spatial organization, revealing how ants partition space functionally and providing clues about colony history."]
+  },
+  {
+    "id": "how_do_you_analyze_ant_chemical_signals",
+    "question": "How do scientists analyze ant chemical signals?",
+    "answers": ["Gas chromatography identifies specific compounds, while bioassays test which chemicals trigger behavioral responses like trail following or alarm, decoding the invisible signals orchestrating ant societies."]
+  },
+  {
+    "id": "where_is_ant_diversity_highest",
+    "question": "Where is ant diversity highest?",
+    "answers": ["Ant diversity peaks in tropical rainforests where hundreds of species coexist through vertical stratification from soil to canopy and niche specialization across different microhabitats."]
+  },
+  {
+    "id": "what_foraging_strategies_do_ants_use",
+    "question": "What different foraging strategies do ants use?",
+    "answers": ["Strategies range from solitary hunting using stealth to group raids with mass attacks, seed harvesting with specialized workers, and cooperative bridge-building to access resources."]
+  },
+  {
+    "id": "how_do_ants_adapt_to_extreme_habitats",
+    "question": "How do ants adapt to extreme habitats?",
+    "answers": ["Desert ants forage in extreme heat using polarized light navigation, cave species develop elongated appendages and enhanced chemical senses, and coastal ants time foraging to tidal cycles."]
+  },
+  {
+    "id": "how_can_habitats_be_made_ant_friendly",
+    "question": "How can we create ant-friendly habitats?",
+    "answers": ["Preserve dead wood and leaf litter for nesting, maintain native plant diversity, reduce pesticide use, and protect natural areas that harbor specialized species."]
+  },
+  {
+    "id": "why_should_we_reduce_pesticides_for_ants",
+    "question": "Why should we reduce pesticide use to protect ants?",
+    "answers": ["Broad-spectrum insecticides kill beneficial ants along with pests, disrupting ecosystem services like biological pest control, while integrated pest management preserves ant populations that naturally suppress crop pests."]
+  },
+  {
+    "id": "how_do_invasive_ants_harm_ecosystems",
+    "question": "How do invasive ants harm ecosystems?",
+    "answers": ["Invasive species like Argentine ants disrupt seed dispersal mutualisms, fire ants reduce bird populations through nest predation, and yellow crazy ants trigger trophic cascades by attacking land crabs."]
+  },
+  {
+    "id": "what_threatens_ant_species",
+    "question": "What threatens ant species with extinction?",
+    "answers": ["Habitat destruction, climate change, and invasive species pose major threats, with island endemic species particularly vulnerable due to their limited ranges and specialized habitat requirements."]
+  },
+  {
+    "id": "how_does_climate_change_affect_ants",
+    "question": "How does climate change affect ant distributions?",
+    "answers": ["Warming temperatures shift ant ranges poleward and upward in elevation, while altered precipitation affects nest site suitability and phenological shifts may disrupt ecological relationships with mutualist species."]
+  },
+  {
+    "id": "why_protect_ant_diversity",
+    "question": "Why is protecting ant diversity important?",
+    "answers": ["Ant conservation protects seed dispersal networks, soil aeration, and pest control services, while simultaneously safeguarding countless species that depend on ants as predators, prey, and ecosystem engineers."]
+  },
+  {
+    "id": "how_do_ants_navigate_home",
+    "question": "How do ants navigate back to their nests?",
+    "answers": ["Ants use path integration to maintain a mental vector pointing home, visual landmark learning to memorize routes, and chemical trails as roadmaps, integrating multiple navigation strategies for robustness."]
+  },
+  {
+    "id": "what_is_path_integration_in_ants",
+    "question": "What is path integration in ants?",
+    "answers": ["Path integration is a navigation method where ants continuously update their position relative to the nest by integrating distance and directional information, enabling direct return routes after wandering searches."]
+  },
+  {
+    "id": "how_do_ants_learn_and_remember",
+    "question": "How do ants learn and remember information?",
+    "answers": ["Individual ants demonstrate spatial learning and memory, learning food source locations and visual landmarks through reinforcement mechanisms, with memories persisting from minutes to an ant's entire lifetime."]
+  },
+  {
+    "id": "how_do_artists_use_color_theory",
+    "question": "How do artists use color theory in painting?",
+    "answers": ["Artists manipulate hue, value, and saturation using the color wheel to create harmonious combinations, with complementary pairs creating vibrant contrasts and warm colors advancing while cool tones recede to create depth."]
+  },
+  {
+    "id": "what_is_chiaroscuro",
+    "question": "What is chiaroscuro in painting?",
+    "answers": ["Chiaroscuro employs dramatic contrasts between illuminated and shadowed areas to model three-dimensional forms with sculptural solidity and create emotional intensity through theatrical lighting effects."]
+  },
+  {
+    "id": "why_is_brushwork_important",
+    "question": "Why is brushwork important in painting?",
+    "answers": ["Brushwork reveals artistic personality and technical approach, with visible strokes celebrating the painting process while smooth blending creates illusionistic space, each contributing to the overall visual character."]
+  },
+  {
+    "id": "what_makes_paintings_aesthetically_pleasing",
+    "question": "What makes paintings aesthetically pleasing?",
+    "answers": ["Aesthetic appeal emerges from compositional balance, harmonious color relationships, unified variety, effective use of light and shadow, and proportion that creates visual coherence while engaging viewer emotions."]
+  },
+  {
+    "id": "how_does_composition_affect_mood",
+    "question": "How does composition affect a painting's mood?",
+    "answers": ["Compositional choices like symmetrical balance create formal stability, asymmetrical arrangements generate dynamic energy, while color temperature and brushwork energy profoundly influence emotional responses and viewer experience."]
+  },
+  {
+    "id": "what_is_the_golden_ratio_in_art",
+    "question": "What is the Golden Ratio in art?",
+    "answers": ["The Golden Ratio is a mathematical proportion that appears throughout art history as artists divide compositions according to this ratio that many find inherently pleasing and visually harmonious."]
+  },
+  {
+    "id": "how_do_painting_traditions_vary_culturally",
+    "question": "How do painting traditions vary across cultures?",
+    "answers": ["Eastern traditions emphasize spontaneity and spiritual expression through minimalist compositions, European traditions evolved from religious iconography to naturalism, while Indigenous and African traditions incorporate symbolic patterns and community narratives."]
+  },
+  {
+    "id": "what_role_does_religion_play_in_painting",
+    "question": "What role does religion play in painting traditions?",
+    "answers": ["Religious painting creates visual expressions of belief systems through culturally specific symbols, with Christian art using gold backgrounds for divinity, Buddhist thangkas as meditation aids, and Islamic art emphasizing geometric patterns."]
+  },
+  {
+    "id": "how_do_painting_techniques_reflect_culture",
+    "question": "How do painting techniques reflect cultural values?",
+    "answers": ["Chinese brush painting values spontaneous expression and spiritual preparation, European oil techniques enable meticulous naturalistic rendering, while fresco and scroll formats reflect different social contexts for viewing and use."]
+  },
+  {
+    "id": "how_did_renaissance_change_painting",
+    "question": "How did the Renaissance change painting?",
+    "answers": ["The Renaissance revolutionized painting through linear perspective for spatial illusion, anatomical study for accurate human rendering, and oil techniques enabling subtle tonal gradations and psychological complexity."]
+  },
+  {
+    "id": "what_was_impressionism",
+    "question": "What was Impressionism in painting?",
+    "answers": ["Impressionism prioritized optical experience over detailed finish, capturing transient light effects through rapid outdoor painting, broken color application, and visible brushwork that emphasized subjective perception."]
+  },
+  {
+    "id": "how_did_abstract_painting_develop",
+    "question": "How did abstract painting develop?",
+    "answers": ["Abstract painting abandoned representational subjects to explore color and form as sufficient content, with artists like Kandinsky theorizing spiritual dimensions and Abstract Expressionists making the painting act itself the subject."]
+  },
+  {
+    "id": "what_is_the_rule_of_thirds",
+    "question": "What is the rule of thirds in painting?",
+    "answers": ["The rule of thirds divides compositions into nine sections, with focal points placed at intersections to create dynamic balance rather than static symmetry, guiding viewer attention effectively."]
+  },
+  {
+    "id": "how_do_leading_lines_work",
+    "question": "How do leading lines work in composition?",
+    "answers": ["Leading lines direct viewer gaze through paintings, creating visual pathways that connect foreground to background and establish narrative flow while guiding eye movement through intended sequences."]
+  },
+  {
+    "id": "what_is_atmospheric_perspective",
+    "question": "What is atmospheric perspective?",
+    "answers": ["Atmospheric perspective creates depth through systematic modification of distant elements appearing lighter, cooler, less saturated, and softer-edged than foreground subjects, mimicking how atmosphere affects vision."]
+  },
+  {
+    "id": "how_have_synthetic_pigments_changed_painting",
+    "question": "How have synthetic pigments changed painting?",
+    "answers": ["Synthetic pigments like Prussian blue, cadmium colors, and phthalocyanines dramatically expanded available palettes while reducing costs and health hazards, democratizing access to vibrant permanent colors."]
+  },
+  {
+    "id": "what_is_digital_painting",
+    "question": "What is digital painting?",
+    "answers": ["Digital painting uses graphics tablets and software to create art on computer displays with layer systems, unlimited colors, and non-destructive editing, sparking debates about whether it constitutes true painting."]
+  },
+  {
+    "id": "how_does_technology_help_conserve_paintings",
+    "question": "How does technology help conserve paintings?",
+    "answers": ["X-ray radiography, infrared reflectography, and multispectral imaging reveal underlying compositions, detect deterioration, and inform evidence-based conservation decisions that preserve artworks for future generations."]
+  },
+  {
+    "id": "how_do_artists_develop_concepts",
+    "question": "How do artists develop painting concepts?",
+    "answers": ["Artists develop concepts through visual research, preliminary sketches exploring compositions, color studies testing palettes, and value studies clarifying tonal structures before committing to final execution."]
+  },
+  {
+    "id": "what_is_technical_experimentation_in_art",
+    "question": "What is technical experimentation in painting?",
+    "answers": ["Technical experimentation involves testing unconventional materials and methods, like Pollock's drip technique or Frankenthaler's soak-stain method, often emerging from playful exploration or happy accidents."]
+  },
+  {
+    "id": "how_do_artists_break_conventions",
+    "question": "How do artists break painting conventions?",
+    "answers": ["Artists challenge norms by rejecting established techniques for personal visions, like Impressionists abandoning smooth finishes or Cubists fragmenting forms, initially facing resistance before influencing future developments."]
+  },
+  {
+    "id": "what_is_the_representation_debate",
+    "question": "What is the debate about representation in painting?",
+    "answers": ["Philosophers debate whether paintings should faithfully reproduce appearances, express deeper truths, or constitute autonomous reality, with positions ranging from Plato's critique of imitation to modern abstraction's rejection of representation."]
+  },
+  {
+    "id": "who_determines_painting_meaning",
+    "question": "Who determines what a painting means?",
+    "answers": ["Meaning debates center on whether significance resides in artist intent, viewer response, or the work itself, with interpretations remaining perpetually open as paintings accumulate new meanings across changing contexts."]
+  },
+  {
+    "id": "how_is_artistic_quality_judged",
+    "question": "How is artistic quality in painting judged?",
+    "answers": ["Quality judgments vary between formalist approaches emphasizing compositional excellence, contextual evaluations considering historical engagement, and expression theories privileging emotional authenticity, with no universally accepted definition."]
+  },
+  {
+    "id": "how_do_kids_start_painting",
+    "question": "How can kids start painting?",
+    "answers": ["Kids can start with basic supplies like watercolors, tempera, or acrylics, simple subjects like fruits or flowers, and inexpensive paper, focusing on experimenting and having fun rather than creating perfect results."]
+  },
+  {
+    "id": "how_do_colors_express_feelings",
+    "question": "How do colors express feelings in painting?",
+    "answers": ["Bright warm colors like reds and oranges express happy or energetic feelings, while cool blues and greens show calm or sad moods, with application style also affecting emotional expression."]
+  },
+  {
+    "id": "how_can_kids_develop_painting_style",
+    "question": "How can young artists develop their own painting style?",
+    "answers": ["Personal style develops naturally through lots of practice and experimentation, discovering which subjects, colors, and techniques feel most exciting while learning from other artists without copying them exactly."]
+  },
+  {
+    "id": "how_do_paintings_tell_stories",
+    "question": "How do paintings tell stories?",
+    "answers": ["Paintings tell stories through visual narratives using figures, settings, symbolic objects, and compositional arrangements that depict moments from myths, history, or everyday life for viewers to interpret."]
+  },
+  {
+    "id": "what_are_genre_paintings",
+    "question": "What are genre paintings?",
+    "answers": ["Genre paintings depict everyday life scenes like household activities or street interactions that reveal social customs and cultural values while telling stories through implied narratives and symbolic details."]
+  },
+  {
+    "id": "how_do_symbols_work_in_paintings",
+    "question": "How do symbols work in paintings?",
+    "answers": ["Symbols communicate narratives through coded visual languages, like vanitas paintings using skulls for mortality or allegorical figures personifying abstract concepts, requiring cultural knowledge to fully decode meanings."]
+  },
+  {
+    "id": "what_physical_adaptations_help_tigers_hunt",
+    "question": "What physical adaptations help Malayan tigers hunt?",
+    "answers": ["Tigers possess muscular builds optimized for power and agility, with powerful hind legs for explosive leaps, flexible spines for rapid direction changes, and retractable claws plus elongated canines for capturing and killing prey."]
+  },
+  {
+    "id": "how_do_tiger_senses_work",
+    "question": "How do Malayan tiger senses work for hunting?",
+    "answers": ["Tigers have exceptional night vision through tapetum lucidum layers, acute hearing with rotatable ears for pinpointing sounds, sensitive whiskers for navigation, and powerful olfactory systems including Jacobson's organ for scent analysis."]
+  },
+  {
+    "id": "how_do_tiger_stripes_help_survival",
+    "question": "How do tiger stripes help with survival?",
+    "answers": ["Vertical striping provides disruptive camouflage in dappled forest light, breaking up the tiger's outline to make them difficult to spot, while unique individual patterns allow researchers to identify specific tigers."]
+  },
+  {
+    "id": "what_is_a_keystone_species",
+    "question": "What makes Malayan tigers a keystone species?",
+    "answers": ["As apex predators, tigers regulate prey populations preventing overgrazing, suppress mesopredators, and create cascading effects throughout ecosystems, with their presence influencing community structure far beyond direct prey interactions."]
+  },
+  {
+    "id": "how_do_tigers_affect_forest_ecosystems",
+    "question": "How do tigers affect forest ecosystems?",
+    "answers": ["Tiger predation controls herbivore populations, preventing overbrowsing that would alter forest composition, while scavengers benefit from kills and mesopredator suppression creates spatial refuges for smaller prey species."]
+  },
+  {
+    "id": "why_are_tiger_territories_so_large",
+    "question": "Why are tiger territories so large?",
+    "answers": ["Territory size correlates with prey density and habitat quality, with tigers requiring extensive ranges to meet caloric needs of six to seven kilograms of meat daily, especially in prey-depleted forests."]
+  },
+  {
+    "id": "where_do_malayan_tigers_currently_live",
+    "question": "Where do Malayan tigers currently live?",
+    "answers": ["Current populations concentrate in protected areas including Taman Negara National Park, Belum-Temengor Forest Complex, and Endau-Rompin, with fragmented populations in smaller reserves across Peninsular Malaysia."]
+  },
+  {
+    "id": "what_habitat_do_malayan_tigers_need",
+    "question": "What habitat conditions do Malayan tigers need?",
+    "answers": ["Tigers require dense forest cover for stalking, reliable water sources, sufficient prey density, structural vegetation complexity, and minimal human disturbance to support their hunting strategies and territorial needs."]
+  },
+  {
+    "id": "why_are_wildlife_corridors_important",
+    "question": "Why are wildlife corridors important for tigers?",
+    "answers": ["Corridors connect isolated populations allowing genetic exchange and recolonization, requiring several kilometers of continuous forest along natural travel routes to maintain functional metapopulations across fragmented landscapes."]
+  },
+  {
+    "id": "how_are_malayan_tigers_monitored",
+    "question": "How are Malayan tiger populations monitored?",
+    "answers": ["Conservation uses camera traps for individual identification through stripe patterns, occupancy modeling to estimate habitat use, and genetic sampling from scat to assess population connectivity and inbreeding levels."]
+  },
+  {
+    "id": "what_are_main_threats_to_malayan_tigers",
+    "question": "What are the main threats to Malayan tigers?",
+    "answers": ["Primary threats include poaching for illegal wildlife trade, habitat loss from development and agriculture, prey depletion, human-tiger conflict, and genetic risks from small isolated populations."]
+  },
+  {
+    "id": "how_is_human_tiger_conflict_managed",
+    "question": "How is human-tiger conflict managed?",
+    "answers": ["Conflict mitigation includes compensating livestock losses, improving predator-proof enclosures, public education about tiger behavior, and balancing tiger protection with community welfare through benefit-sharing programs."]
+  },
+  {
+    "id": "how_do_tigers_learn_to_hunt",
+    "question": "How do Malayan tiger cubs learn to hunt?",
+    "answers": ["Cubs learn through observing maternal hunts, practicing on injured prey provided by mothers, and developing skills through play behavior, with extended dependency periods lasting up to two years ensuring adequate skill development."]
+  },
+  {
+    "id": "how_do_tigers_communicate",
+    "question": "How do Malayan tigers communicate?",
+    "answers": ["Tigers communicate through scent marks conveying identity and status, vocalizations like roars carrying up to three kilometers, and visual marks from clawing trees, maintaining social structure without face-to-face encounters."]
+  },
+  {
+    "id": "what_cognitive_abilities_do_tigers_have",
+    "question": "What cognitive abilities do Malayan tigers demonstrate?",
+    "answers": ["Tigers maintain detailed mental maps of extensive territories, demonstrate hunting strategy flexibility and learning, solve navigation problems through complex terrain, and exhibit spatial and social memory across their ranges."]
+  },
+  {
+    "id": "what_role_do_tigers_play_in_culture",
+    "question": "What role do tigers play in Malaysian culture?",
+    "answers": ["Tigers appear in folklore as supernatural beings and were-tigers, feature as national symbols on Malaysia's coat of arms, and represent wilderness heritage in contemporary identity while embodying both reverence and fear."]
+  },
+  {
+    "id": "how_are_tigers_portrayed_in_folklore",
+    "question": "How are tigers portrayed in traditional folklore?",
+    "answers": ["Traditional stories depict tigers as spiritual guardians, shape-shifters, and powerful beings inhabiting boundaries between physical and spiritual realms, often carrying moral lessons about respecting nature and forest taboos."]
+  },
+  {
+    "id": "why_is_tiger_national_symbol",
+    "question": "Why is the Malayan tiger a national symbol?",
+    "answers": ["The tiger became Malaysia's national animal in 2010 to build national pride around biodiversity, raise conservation awareness, and represent qualities of courage and strength in national iconography."]
+  },
+  {
+    "id": "how_did_colonial_hunting_affect_tigers",
+    "question": "How did colonial-era hunting affect tiger populations?",
+    "answers": ["British sport hunting killed hundreds of tigers annually as trophies and through bounty programs, initiating systematic population declines combined with habitat conversion for plantations during colonial administration."]
+  },
+  {
+    "id": "when_were_malayan_tigers_abundant",
+    "question": "When were Malayan tigers historically abundant?",
+    "answers": ["Pre-colonial populations likely numbered in thousands across continuous peninsula forests, with tigers commonly encountered until colonial hunting and post-independence development caused dramatic declines within a century."]
+  },
+  {
+    "id": "what_caused_recent_tiger_decline",
+    "question": "What caused the recent tiger population decline?",
+    "answers": ["Post-independence habitat loss from palm oil plantations, agricultural expansion, road construction, and continued poaching for traditional medicine markets accelerated population fragmentation and decline to current critically endangered status."]
+  },
+  {
+    "id": "do_tigers_have_intrinsic_value",
+    "question": "Do tigers have intrinsic value beyond human benefit?",
+    "answers": ["Intrinsic value arguments hold that tigers deserve protection as sentient beings with inherent moral worth, independent of ecosystem services or economic benefits they provide to humans."]
+  },
+  {
+    "id": "who_bears_conservation_costs",
+    "question": "Who bears the costs of tiger conservation?",
+    "answers": ["Rural communities near tiger habitat bear primary costs through livestock losses, restricted resource access, and safety threats, while urban and international populations primarily benefit, raising distributive justice questions."]
+  },
+  {
+    "id": "what_are_ethics_of_captive_breeding",
+    "question": "What are the ethical issues with captive breeding?",
+    "answers": ["Captive breeding raises concerns about animal welfare in confinement, genetic integrity in managed populations, and appropriateness of artificial environments, requiring evaluation of intervention risks against extinction threats."]
+  },
+  {
+    "id": "how_do_laws_protect_tigers",
+    "question": "How do wildlife laws protect Malayan tigers?",
+    "answers": ["Malaysia's Wildlife Conservation Act prohibits tiger hunting and habitat destruction with legal penalties, though effectiveness depends on political will for enforcement and resistance to development pressures."]
+  },
+  {
+    "id": "why_is_international_cooperation_needed",
+    "question": "Why is international cooperation necessary for tiger conservation?",
+    "answers": ["Transboundary ecosystems require coordinated patrols and policies, while illegal trade networks cross borders, necessitating diplomatic agreements through CITES and regional cooperation despite sovereignty concerns."]
+  },
+  {
+    "id": "how_does_politics_affect_conservation_funding",
+    "question": "How does politics affect conservation funding?",
+    "answers": ["Tiger protection competes with education, healthcare, and infrastructure in government budgets, with funding levels reflecting political priorities and requiring champions within government to elevate conservation importance."]
+  },
+  {
+    "id": "what_are_tiger_conservation_costs",
+    "question": "What are the economic costs of tiger conservation?",
+    "answers": ["Annual costs include ranger salaries, monitoring equipment, anti-poaching operations, compensation programs, and habitat management, likely exceeding several million dollars per viable tiger population."]
+  },
+  {
+    "id": "how_does_ecotourism_benefit_conservation",
+    "question": "How does ecotourism benefit tiger conservation?",
+    "answers": ["Wildlife tourism generates revenue through park fees, guide services, and local purchases while creating employment alternatives to activities incompatible with conservation, though benefits may concentrate in accessible areas."]
+  },
+  {
+    "id": "why_does_illegal_trade_persist",
+    "question": "Why does illegal tiger trade persist?",
+    "answers": ["Tiger parts command high prices exceeding years of legitimate income for poor communities, creating powerful economic incentives when detection risks remain low and alternative livelihoods are limited."]
+  },
+  {
+    "id": "how_does_social_capital_affect_conservation",
+    "question": "How does social capital affect tiger conservation?",
+    "answers": ["Strong social capital through trust relationships and shared norms enables effective collaboration between communities and conservation authorities, facilitating information sharing and collective action for protection."]
+  },
+  {
+    "id": "what_power_dynamics_exist_in_conservation",
+    "question": "What power dynamics exist in tiger conservation governance?",
+    "answers": ["Complex negotiations occur between government agencies, international organizations, local communities, and indigenous groups with varying influence, resources, and legitimacy in decision-making processes."]
+  },
+  {
+    "id": "how_do_communities_learn_conservation",
+    "question": "How do communities learn about tiger conservation?",
+    "answers": ["Social learning occurs through trial and error, knowledge sharing, and adaptation as early adopters demonstrate conservation-friendly practices and learning networks spread successful strategies."]
+  },
+  {
+    "id": "how_do_mathematical_models_help_conservation",
+    "question": "How do mathematical models help tiger conservation?",
+    "answers": ["Population viability analysis estimates extinction risks, spatial models identify optimal wildlife corridors, and optimization algorithms allocate resources efficiently to maximize conservation outcomes."]
+  },
+  {
+    "id": "what_is_population_viability_analysis",
+    "question": "What is population viability analysis for tigers?",
+    "answers": ["PVA uses demographic models incorporating birth rates, death rates, age structure, and environmental stochasticity to predict population trajectories and extinction risks under different management scenarios."]
+  },
+  {
+    "id": "how_do_spatial_models_help_tigers",
+    "question": "How do spatial models help tiger conservation?",
+    "answers": ["Spatial models analyze habitat connectivity, territory requirements, and dispersal patterns to identify optimal locations for wildlife corridors and protected area expansion using GIS mapping."]
+  },
+  {
+    "id": "how_does_technology_help_tiger_conservation",
+    "question": "How does technology help tiger conservation?",
+    "answers": ["AI camera traps automatically identify individual tigers and detect threats, drones provide aerial surveillance, genetic analysis enables non-invasive monitoring, and mobile apps connect communities with authorities."]
+  },
+  {
+    "id": "what_are_camera_trap_networks",
+    "question": "What are camera trap networks for tiger monitoring?",
+    "answers": ["AI-powered camera networks automatically identify individual tigers, monitor population trends, detect human intrusions in real-time, and provide comprehensive surveillance across vast forest areas."]
+  },
+  {
+    "id": "how_do_drones_help_conservation",
+    "question": "How do drones help tiger conservation?",
+    "answers": ["Drones with thermal imaging detect poachers at night, GPS tracking optimizes patrol routes, aerial surveys map habitat changes, and rapid deployment enables emergency response to remote areas."]
+  },
+  {
+    "id": "how_does_design_help_tiger_conservation",
+    "question": "How does design help tiger conservation?",
+    "answers": ["Protected area design considers tiger territories and movement corridors, buffer zones balance community needs with habitat protection, and infrastructure includes wildlife crossings to prevent fragmentation."]
+  },
+  {
+    "id": "what_is_protected_area_design",
+    "question": "What is protected area design for tigers?",
+    "answers": ["Landscape-scale planning ensures areas are large enough for viable populations, zoning separates human and tiger areas, and management zones optimize protection during high-risk periods."]
+  },
+  {
+    "id": "how_do_wildlife_crossings_help",
+    "question": "How do wildlife crossings help tigers?",
+    "answers": ["Wildlife crossings, underpasses, and overpasses allow tiger movement while preventing habitat fragmentation and vehicle collisions, with design considerations for tiger behavior and minimal human disturbance."]
+  },
+  {
+    "id": "how_do_forensics_help_conservation",
+    "question": "How do forensic techniques help tiger conservation?",
+    "answers": ["DNA profiling identifies individual tigers and links seized parts to poaching incidents, isotope analysis reveals geographic origins, and morphological examination provides evidence for wildlife crime prosecution."]
+  },
+  {
+    "id": "what_is_environmental_forensics",
+    "question": "What is environmental forensics for tiger conservation?",
+    "answers": ["Environmental forensics examines habitat degradation through soil analysis, vegetation surveys, and water quality testing to identify causes of ecosystem damage affecting tiger populations."]
+  },
+  {
+    "id": "how_do_field_expeditions_help",
+    "question": "How do field expeditions help tiger conservation?",
+    "answers": ["Field expeditions provide direct observations of tiger behavior, document habitat use and territorial marking, collect data for conservation management, and offer opportunities for scientific discovery."]
+  },
+  {
+    "id": "what_is_adventure_tourism_conservation",
+    "question": "What is adventure tourism for tiger conservation?",
+    "answers": ["Well-managed wildlife tourism creates economic incentives for protection, provides educational experiences about tiger ecology, generates revenue for conservation programs, and creates local employment opportunities."]
+  },
+  {
+    "id": "how_does_exploration_help_conservation",
+    "question": "How does exploration help tiger conservation?",
+    "answers": ["Exploration reveals human-tiger conflict patterns, documents successful coexistence strategies, enables scientific discovery, and provides opportunities for adventure tourism that supports conservation economically."]
+  },
+  {
+    "id": "what_are_heroic_conservation_actions",
+    "question": "What are heroic conservation actions for tigers?",
+    "answers": ["Heroic actions include reporting poaching activities, participating in community patrols, supporting habitat restoration, advocating for stronger laws, and choosing conservation-compatible livelihoods."]
+  },
+  {
+    "id": "how_does_education_help_conservation",
+    "question": "How does education help tiger conservation?",
+    "answers": ["Educational heroism involves teaching tiger ecology and coexistence strategies, creating future conservation leaders, building public support, and combining scientific knowledge with traditional wisdom."]
+  },
+  {
+    "id": "what_is_economic_heroism",
+    "question": "What is economic heroism in tiger conservation?",
+    "answers": ["Economic heroism occurs when communities choose conservation-compatible livelihoods over harmful activities, demonstrating that environmental protection can provide sustainable economic benefits while preserving natural heritage."]
   }
 ]

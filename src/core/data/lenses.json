@@ -6,29 +6,19 @@
     "rules": {
       "ants": {
         "overrides": {
-          "summary": "Ants rely on chemistry for nearly every aspect of their survival and social life. Acids, venoms, and antimicrobial compounds protect colonies from threats, while pheromones coordinate foraging, defense, and reproduction. Even their exoskeletons carry chemical signatures that identify nestmates. This invisible chemical network is the foundation of ant cooperation and ecological success.",
-          "factsheets": ["chemistry_of_ants"],
+          "summary": "chemistry_ants",
+          "factsheets": ["chemistry_of_ants", "pheromone_communication"],
           "questions": [
             "how_do_ants_use_chemical_signals",
             "what_chemicals_do_ants_produce",
             "why_is_formic_acid_effective"
-          ]
-        },
-        "filter": {
-          "excludeSubtopics": [
-            "ants_habitat",
-            "ants_social_structure",
-            "ants_reproduction"
-          ]
-        },
-        "augment": {
-          "subtopics": ["ants_formic_acid", "ants_cuticular_hydrocarbons"],
-          "factsheets": ["pheromone_communication"]
+          ],
+          "subtopics": ["ants_diet", "ants_formic_acid", "ants_cuticular_hydrocarbons", "ants_communication", "ants_defense"]
         }
       },
       "ants_diet": {
         "overrides": {
-          "summary": "From a chemistry perspective, ant diet involves complex biochemical processes including enzymatic breakdown of nutrients, chemical detection of food sources, and metabolic conversion of various compounds. Ants use chemical sensors to identify nutritious substances and employ digestive enzymes to process everything from simple sugars to complex proteins and lipids.",
+          "summary": "chemistry_ants_diet",
           "factsheets": ["ants_diet_chemistry"]
         },
         "augment": {
@@ -41,7 +31,7 @@
       },
       "painting": {
         "overrides": {
-          "summary": "From a chemistry perspective, painting is a science of materials and reactions. Pigments provide color through their chemical structure, while binders like oils, acrylics, or egg tempera hold the pigments together and form a film when they dry or cure. Solvents adjust consistency but evaporate, leaving the solid paint behind. Over centuries, chemical processes such as oxidation, polymerization, or degradation determine whether a painting remains vivid or fades. Conservation science applies chemistry to analyze, clean, and preserve paintings, ensuring their beauty endures.",
+          "summary": "chemistry_painting",
           "factsheets": ["chemistry_of_painting"],
           "questions": [
             "stable_vs_unstable_pigments",
@@ -72,6 +62,11 @@
       "diet_special": {},
       "ants_social_structure": {},
       "ants_reproduction": {},
+      "ants_communication": {},
+      "ants_defense": {},
+      "ants_symbiosis": {},
+      "ants_navigation": {},
+      "colony_lifecycle": {},
       "painting_styles": {},
       "painting_materials": {},
       "painting_purposes": {},
@@ -87,17 +82,15 @@
     "rules": {
       "ants": {
         "overrides": {
-          "summary": "From an engineering perspective, ants are master architects and builders who construct complex infrastructure systems. They design sophisticated underground cities with specialized chambers, ventilation systems, and transportation networks. Their collective engineering capabilities include bridge construction, tunnel systems, temperature regulation, and structural optimization that rivals human engineering achievements.",
-          "factsheets": ["ants_architecture"]
-        },
-        "filter": {
-          "excludeQuestions": ["how_do_ants_find_food"]
-        },
-        "augment": {
+          "summary": "engineering_ants",
+          "factsheets": ["ants_architecture"],
           "questions": [
+            "why_do_ants_build_colonies",
+            "where_do_ants_build_nests",
             "how_do_ants_construct_buildings",
             "what_engineering_principles_do_ants_use"
-          ]
+          ],
+          "subtopics": ["ants_habitat", "ants_navigation"]
         }
       },
       "tiger_populations": {},
@@ -112,6 +105,11 @@
       "diet_special": {},
       "ants_social_structure": {},
       "ants_reproduction": {},
+      "ants_communication": {},
+      "ants_defense": {},
+      "ants_symbiosis": {},
+      "ants_navigation": {},
+      "colony_lifecycle": {},
       "painting_styles": {},
       "painting_materials": {},
       "painting_purposes": {},
@@ -127,20 +125,14 @@
     "rules": {
       "ants": {
         "overrides": {
-          "summary": "From an agricultural perspective, ants are sophisticated farmers who have mastered sustainable food production systems millions of years before humans developed agriculture. They practice crop cultivation, livestock management, pest control, and resource optimization through complex farming operations. Leaf-cutter ants maintain fungus gardens, other species herd aphids for honeydew, and many engage in seed harvesting and storage, demonstrating advanced agricultural techniques including crop rotation, selective breeding, and integrated pest management.",
+          "summary": "agriculture_ants",
           "factsheets": [],
           "questions": [
             "how_do_ants_practice_agriculture",
             "what_crops_do_ants_cultivate",
             "how_do_ants_manage_livestock"
-          ]
-        },
-        "filter": {
-          "excludeSubtopics": [
-            "ants_habitat",
-            "ants_social_structure",
-            "ants_reproduction"
-          ]
+          ],
+          "subtopics": ["ants_symbiosis", "ants_diet"]
         }
       },
       "malayan_tiger": {},
@@ -155,6 +147,11 @@
       "diet_special": {},
       "ants_social_structure": {},
       "ants_reproduction": {},
+      "ants_communication": {},
+      "ants_defense": {},
+      "ants_symbiosis": {},
+      "ants_navigation": {},
+      "colony_lifecycle": {},
       "painting_styles": {},
       "painting_materials": {},
       "painting_purposes": {},
@@ -170,7 +167,7 @@
     "rules": {
       "pigments": {
         "overrides": {
-          "summary": "Pigments are not only sources of color but also objects of trade, wealth, and status. Rare pigments like ultramarine, made from lapis lazuli, were once more valuable than gold and reserved for the most important parts of paintings, such as the robes of saints. The scarcity of minerals, the difficulty of extraction, and the control of trade routes turned pigments into commodities that shaped global economies and cultural exchange. Today, synthetic pigments have democratized access to color, reducing costs while creating new markets in art, industry, cosmetics, and design.",
+          "summary": "economic_pigments",
           "factsheets": ["pigments_economics"],
           "questions": []
         },
@@ -182,7 +179,18 @@
           "factsheets": []
         }
       },
-      "malayan_tiger_conservation": {},
+      "malayan_tiger": {
+        "overrides": {
+          "summary": "economic_malayan_tiger",
+          "factsheets": ["economics_of_tiger_conservation"],
+          "subtopics": ["malayan_tiger_conservation"],
+          "questions": [
+            "what_are_tiger_conservation_costs",
+            "how_does_ecotourism_benefit_conservation",
+            "why_does_illegal_trade_persist"
+          ]
+        }
+      },
       "carmine": {},
       "ants_habitat": {},
       "ants_formic_acid": {},
@@ -193,13 +201,17 @@
       "diet_special": {},
       "ants_social_structure": {},
       "ants_reproduction": {},
+      "ants_communication": {},
+      "ants_defense": {},
+      "ants_symbiosis": {},
+      "ants_navigation": {},
+      "colony_lifecycle": {},
       "painting_styles": {},
       "painting_materials": {},
       "painting_purposes": {},
       "binders_and_solvents": {},
       "conservation_chemistry": {},
-      "degradation_pathways": {},
-      "malayan_tiger": {}
+      "degradation_pathways": {}
     }
   },
   {
@@ -209,7 +221,7 @@
     "rules": {
       "carmine": {
         "overrides": {
-          "summary": "Carmine’s story is deeply tied to global history, empire, and cultural exchange. First cultivated by the Indigenous peoples of Central and South America, carmine became one of the most valuable exports of the Spanish Empire after the 16th century. Its brilliant red transformed European art and fashion, appearing in royal garments, religious paintings, and illuminated manuscripts. The Spanish tightly controlled its trade, treating it as a strategic resource second only to silver. Over centuries, the spread of carmine across continents illustrates how a single pigment could shape economies, power, and cultural identity on a global scale.",
+          "summary": "history_carmine",
           "factsheets": ["carmine_history"],
           "questions": []
         },
@@ -221,11 +233,32 @@
           "factsheets": []
         }
       },
-      "malayan_tiger": {},
+      "painting": {
+        "overrides": {
+          "summary": "history_painting",
+          "factsheets": ["history_of_painting_movements"],
+          "subtopics": ["painting_styles", "painting_materials"],
+          "questions": [
+            "how_did_renaissance_change_painting",
+            "what_was_impressionism",
+            "how_did_abstract_painting_develop"
+          ]
+        }
+      },
+      "malayan_tiger": {
+        "overrides": {
+          "summary": "history_malayan_tiger",
+          "factsheets": ["history_of_malayan_tiger_decline"],
+          "subtopics": ["tiger_populations"],
+          "questions": [
+            "how_did_colonial_hunting_affect_tigers",
+            "when_were_malayan_tigers_abundant",
+            "what_caused_recent_tiger_decline"
+          ]
+        }
+      },
       "tiger_populations": {},
       "malayan_tiger_conservation": {},
-
-      "painting": {},
       "ants_habitat": {},
       "ants_formic_acid": {},
       "ants_cuticular_hydrocarbons": {},
@@ -235,6 +268,11 @@
       "diet_special": {},
       "ants_social_structure": {},
       "ants_reproduction": {},
+      "ants_communication": {},
+      "ants_defense": {},
+      "ants_symbiosis": {},
+      "ants_navigation": {},
+      "colony_lifecycle": {},
       "painting_styles": {},
       "painting_materials": {},
       "painting_purposes": {},
@@ -248,7 +286,18 @@
     "name": "Technological",
     "type": "perspective",
     "rules": {
-      "painting": {},
+      "painting": {
+        "overrides": {
+          "summary": "technology_painting",
+          "factsheets": ["technology_in_painting"],
+          "subtopics": ["painting_materials", "pigments"],
+          "questions": [
+            "how_have_synthetic_pigments_changed_painting",
+            "what_is_digital_painting",
+            "how_does_technology_help_conserve_paintings"
+          ]
+        }
+      },
       "malayan_tiger_conservation": {},
 
       "ants_habitat": {},
@@ -260,6 +309,11 @@
       "diet_special": {},
       "ants_social_structure": {},
       "ants_reproduction": {},
+      "ants_communication": {},
+      "ants_defense": {},
+      "ants_symbiosis": {},
+      "ants_navigation": {},
+      "colony_lifecycle": {},
       "painting_styles": {},
       "painting_materials": {},
       "painting_purposes": {},
@@ -275,19 +329,20 @@
     "rules": {
       "ants": {
         "overrides": {
-          "summary": "Ants are tiny insects that live in big families called colonies. Some ants are queens, some are workers, and some are soldiers. They work together to find food, stay safe, and build amazing homes.",
-          "factsheets": ["ants_general_kids"]
+          "summary": "8_year_old_ants",
+          "factsheets": ["ants_general_kids"],
+          "subtopics": ["ants_social_structure", "ants_diet", "ants_habitat", "ants_communication"]
         }
       },
       "ants_diet": {
         "overrides": {
-          "summary": "Ants eat lots of different foods to keep their colony strong. They can find sweet stuff like nectar and tasty proteins like other bugs, and they even grow their own fungus to eat. Ants use special chemical signals to tell friends where the food is, and their bodies have helpers that turn food into energy. Eating helps them run around, take care of babies, and keep their whole ant family happy and healthy.",
+          "summary": "8_year_old_ants_diet",
           "factsheets": ["ants_diet_overview_kids"]
         }
       },
       "malayan_tiger": {
         "overrides": {
-          "summary": "The Malayan tiger is a very special kind of tiger that lives in the jungles of the Malay Peninsula. It’s a bit smaller than other tigers, but very strong and fast, which helps it sneak through the forest and catch its food. Malayan tigers like to live alone and eat animals like deer and wild pigs. These tigers are very important because they help keep the jungle healthy. But there aren’t many left — people cutting down forests, hunting, and getting too close to their homes has made it hard for them to survive. That’s why people are working hard to protect them, so future kids can see these amazing animals in the wild!",
+          "summary": "8_year_old_malayan_tiger",
           "factsheets": ["malayan_tiger_general_kids"]
         }
       },
@@ -306,6 +361,11 @@
       "diet_special": {},
       "ants_social_structure": {},
       "ants_reproduction": {},
+      "ants_communication": {},
+      "ants_defense": {},
+      "ants_symbiosis": {},
+      "ants_navigation": {},
+      "colony_lifecycle": {},
       "painting_styles": {},
       "painting_materials": {},
       "painting_purposes": {},
@@ -321,8 +381,8 @@
     "rules": {
       "malayan_tiger": {
         "overrides": {
-          "title": "Malayan Tiger: A Journey Through the Jungle",
-          "summary": "In the heart of the Malay Peninsula, a young Malayan tiger stretches and pads silently through the dense, green forest. Every day is an adventure as it hunts for deer and wild pigs, swims across rivers, and explores its vast territory. Alone yet powerful, this tiger relies on sharp senses, strong muscles, and clever thinking to survive. But life in the jungle is not easy — humans are cutting down forests, hunters roam nearby, and every step must be taken carefully. Follow the journey of this majestic tiger as it navigates the challenges of the wild, marking its territory, learning to hunt, and playing a vital role in keeping the jungle alive and thriving.",
+          "title": "storytelling_mode_malayan_tiger_title",
+          "summary": "storytelling_mode_malayan_tiger",
           "factsheets": [
             "malayan_tiger_story_birth",
             "malayan_tiger_story_learning",
@@ -335,5 +395,901 @@
         }
       }
     }
+  },
+  {
+    "id": "biology",
+    "name": "Biology",
+    "type": "perspective",
+    "rules": {
+      "ants": {
+        "overrides": {
+          "summary": "biology_ants",
+          "factsheets": ["biology_of_ants"],
+          "subtopics": ["ants_communication", "ants_defense", "ants_navigation", "colony_lifecycle", "ants_social_structure", "ants_reproduction"],
+          "questions": [
+            "how_do_ant_bodies_adapt",
+            "what_life_stages_do_ants_go_through",
+            "how_do_ant_antennae_work"
+          ]
+        }
+      },
+      "malayan_tiger": {
+        "overrides": {
+          "summary": "biology_malayan_tiger",
+          "factsheets": ["biology_of_malayan_tiger"],
+          "questions": [
+            "what_physical_adaptations_help_tigers_hunt",
+            "how_do_tiger_senses_work",
+            "how_do_tiger_stripes_help_survival"
+          ]
+        }
+      },
+      "ants_habitat": {},
+      "ants_formic_acid": {},
+      "ants_cuticular_hydrocarbons": {},
+      "diet_sugars": {},
+      "diet_protein": {},
+      "diet_fungi": {},
+      "diet_special": {},
+      "ants_social_structure": {},
+      "ants_reproduction": {},
+      "ants_communication": {},
+      "ants_defense": {},
+      "ants_symbiosis": {},
+      "ants_navigation": {},
+      "colony_lifecycle": {},
+      "ants_diet": {}
+    }
+  },
+  {
+    "id": "ecology",
+    "name": "Ecology",
+    "type": "perspective",
+    "rules": {
+      "ants": {
+        "overrides": {
+          "summary": "ecology_ants",
+          "factsheets": ["ecology_of_ants"],
+          "subtopics": ["ants_symbiosis", "ants_habitat", "ants_diet"],
+          "questions": [
+            "what_ecological_roles_do_ants_play",
+            "how_do_ants_disperse_seeds",
+            "why_are_ant_plant_partnerships_important"
+          ]
+        }
+      },
+      "malayan_tiger": {
+        "overrides": {
+          "summary": "ecology_malayan_tiger",
+          "factsheets": ["ecology_of_malayan_tiger"],
+          "questions": [
+            "what_is_a_keystone_species",
+            "how_do_tigers_affect_forest_ecosystems",
+            "why_are_tiger_territories_so_large"
+          ]
+        }
+      },
+      "ants_habitat": {},
+      "ants_formic_acid": {},
+      "ants_cuticular_hydrocarbons": {},
+      "diet_sugars": {},
+      "diet_protein": {},
+      "diet_fungi": {},
+      "diet_special": {},
+      "ants_social_structure": {},
+      "ants_reproduction": {},
+      "ants_communication": {},
+      "ants_defense": {},
+      "ants_symbiosis": {},
+      "ants_navigation": {},
+      "colony_lifecycle": {},
+      "ants_diet": {}
+    }
+  },
+  {
+    "id": "systems",
+    "name": "Systems",
+    "type": "perspective",
+    "rules": {
+      "ants": {
+        "overrides": {
+          "summary": "systems_ants",
+          "factsheets": ["systems_of_ants"],
+          "subtopics": ["ants_communication", "ants_navigation", "colony_lifecycle", "ants_social_structure"],
+          "questions": [
+            "how_do_ant_colonies_self_organize",
+            "what_are_positive_feedback_loops_in_ants",
+            "how_does_division_of_labor_emerge"
+          ]
+        }
+      },
+      "ants_habitat": {},
+      "ants_formic_acid": {},
+      "ants_cuticular_hydrocarbons": {},
+      "diet_sugars": {},
+      "diet_protein": {},
+      "diet_fungi": {},
+      "diet_special": {},
+      "ants_social_structure": {},
+      "ants_reproduction": {},
+      "ants_communication": {},
+      "ants_defense": {},
+      "ants_symbiosis": {},
+      "ants_navigation": {},
+      "colony_lifecycle": {},
+      "ants_diet": {}
+    }
+  },
+  {
+    "id": "sociology",
+    "name": "Sociology",
+    "type": "perspective",
+    "rules": {
+      "ants": {
+        "overrides": {
+          "summary": "sociology_ants",
+          "factsheets": ["sociology_of_ants"],
+          "subtopics": ["ants_social_structure", "ants_communication", "ants_defense", "colony_lifecycle", "ants_reproduction"],
+          "questions": [
+            "what_is_reproductive_division_of_labor",
+            "how_are_ant_castes_determined",
+            "what_is_trophallaxis"
+          ]
+        }
+      },
+      "malayan_tiger": {
+        "overrides": {
+          "summary": "sociology_malayan_tiger",
+          "factsheets": ["sociology_of_tiger_conservation"],
+          "subtopics": ["malayan_tiger_conservation"],
+          "questions": [
+            "how_does_social_capital_affect_conservation",
+            "what_power_dynamics_exist_in_conservation",
+            "how_do_communities_learn_conservation"
+          ]
+        }
+      },
+      "ants_habitat": {},
+      "ants_formic_acid": {},
+      "ants_cuticular_hydrocarbons": {},
+      "diet_sugars": {},
+      "diet_protein": {},
+      "diet_fungi": {},
+      "diet_special": {},
+      "ants_social_structure": {},
+      "ants_reproduction": {},
+      "ants_communication": {},
+      "ants_defense": {},
+      "ants_symbiosis": {},
+      "ants_navigation": {},
+      "colony_lifecycle": {},
+      "ants_diet": {}
+    }
+  },
+  {
+    "id": "mathematics",
+    "name": "Mathematics",
+    "type": "perspective",
+    "rules": {
+      "ants": {
+        "overrides": {
+          "summary": "mathematics_ants",
+          "factsheets": ["mathematics_of_ants"],
+          "subtopics": ["ants_navigation", "colony_lifecycle"],
+          "questions": [
+            "how_do_ants_solve_routing_problems",
+            "what_mathematical_patterns_appear_in_colonies",
+            "how_do_ant_territories_distribute_spatially"
+          ]
+        }
+      },
+      "malayan_tiger": {
+        "overrides": {
+          "summary": "mathematics_malayan_tiger",
+          "factsheets": ["mathematical_modeling_of_tiger_conservation"],
+          "subtopics": ["malayan_tiger_conservation"],
+          "questions": [
+            "how_do_mathematical_models_help_conservation",
+            "what_is_population_viability_analysis",
+            "how_do_spatial_models_help_tigers"
+          ]
+        }
+      },
+      "ants_habitat": {},
+      "ants_formic_acid": {},
+      "ants_cuticular_hydrocarbons": {},
+      "diet_sugars": {},
+      "diet_protein": {},
+      "diet_fungi": {},
+      "diet_special": {},
+      "ants_social_structure": {},
+      "ants_reproduction": {},
+      "ants_communication": {},
+      "ants_defense": {},
+      "ants_symbiosis": {},
+      "ants_navigation": {},
+      "colony_lifecycle": {},
+      "ants_diet": {}
+    }
+  },
+  {
+    "id": "innovation",
+    "name": "Innovation",
+    "type": "perspective",
+    "rules": {
+      "ants": {
+        "overrides": {
+          "summary": "innovation_ants",
+          "factsheets": ["innovation_through_ants"],
+          "subtopics": ["ants_navigation", "ants_symbiosis", "ants_communication"],
+          "questions": [
+            "what_is_ant_colony_optimization",
+            "how_do_ants_inspire_robotics",
+            "what_architectural_innovations_come_from_ants"
+          ]
+        }
+      },
+      "malayan_tiger": {
+        "overrides": {
+          "summary": "innovation_malayan_tiger",
+          "factsheets": ["technological_innovation_in_tiger_conservation"],
+          "subtopics": ["malayan_tiger_conservation"],
+          "questions": [
+            "how_does_technology_help_tiger_conservation",
+            "what_are_camera_trap_networks",
+            "how_do_drones_help_conservation"
+          ]
+        }
+      },
+      "ants_habitat": {},
+      "ants_formic_acid": {},
+      "ants_cuticular_hydrocarbons": {},
+      "diet_sugars": {},
+      "diet_protein": {},
+      "diet_fungi": {},
+      "diet_special": {},
+      "ants_social_structure": {},
+      "ants_reproduction": {},
+      "ants_communication": {},
+      "ants_defense": {},
+      "ants_symbiosis": {},
+      "ants_navigation": {},
+      "colony_lifecycle": {},
+      "ants_diet": {}
+    }
+  },
+  {
+    "id": "design",
+    "name": "Design",
+    "type": "perspective",
+    "rules": {
+      "ants": {
+        "overrides": {
+          "summary": "design_ants",
+          "factsheets": ["design_of_ants"],
+          "subtopics": ["ants_habitat", "ants_defense", "ants_communication"],
+          "questions": [
+            "how_does_ant_morphology_reflect_function",
+            "what_biomechanical_advantages_do_ants_have",
+            "how_is_ant_nest_architecture_designed"
+          ]
+        }
+      },
+      "painting": {
+        "overrides": {
+          "summary": "design_painting",
+          "factsheets": ["design_principles_in_painting"],
+          "subtopics": ["painting_styles", "painting_materials"],
+          "questions": [
+            "what_is_the_rule_of_thirds",
+            "how_do_leading_lines_work",
+            "what_is_atmospheric_perspective"
+          ]
+        }
+      },
+      "malayan_tiger": {
+        "overrides": {
+          "summary": "design_malayan_tiger",
+          "factsheets": ["conservation_design_for_tigers"],
+          "subtopics": ["malayan_tiger_conservation"],
+          "questions": [
+            "how_does_design_help_tiger_conservation",
+            "what_is_protected_area_design",
+            "how_do_wildlife_crossings_help"
+          ]
+        }
+      },
+      "ants_habitat": {},
+      "ants_formic_acid": {},
+      "ants_cuticular_hydrocarbons": {},
+      "diet_sugars": {},
+      "diet_protein": {},
+      "diet_fungi": {},
+      "diet_special": {},
+      "ants_social_structure": {},
+      "ants_reproduction": {},
+      "ants_communication": {},
+      "ants_defense": {},
+      "ants_symbiosis": {},
+      "ants_navigation": {},
+      "colony_lifecycle": {},
+      "ants_diet": {}
+    }
+  },
+  {
+    "id": "detective",
+    "name": "Detective 🔍",
+    "type": "perspective",
+    "rules": {
+      "ants": {
+        "overrides": {
+          "summary": "detective_ants",
+          "factsheets": ["detective_ants_investigation"],
+          "subtopics": ["ants_communication", "ants_social_structure", "ants_navigation", "ants_defense"],
+          "questions": [
+            "how_can_you_track_individual_ants",
+            "what_does_nest_excavation_reveal",
+            "how_do_you_analyze_ant_chemical_signals"
+          ]
+        }
+      },
+      "malayan_tiger": {
+        "overrides": {
+          "summary": "detective_malayan_tiger",
+          "factsheets": ["investigative_approaches_to_tiger_conservation"],
+          "subtopics": ["malayan_tiger_conservation"],
+          "questions": [
+            "how_do_forensics_help_conservation",
+            "what_is_environmental_forensics",
+            "how_do_camera_traps_investigate_threats"
+          ]
+        }
+      },
+      "ants_habitat": {},
+      "ants_formic_acid": {},
+      "ants_cuticular_hydrocarbons": {},
+      "diet_sugars": {},
+      "diet_protein": {},
+      "diet_fungi": {},
+      "diet_special": {},
+      "ants_social_structure": {},
+      "ants_reproduction": {},
+      "ants_communication": {},
+      "ants_defense": {},
+      "ants_symbiosis": {},
+      "ants_navigation": {},
+      "colony_lifecycle": {},
+      "ants_diet": {}
+    }
+  },
+  {
+    "id": "explorer",
+    "name": "Explorer 🧭",
+    "type": "perspective",
+    "rules": {
+      "ants": {
+        "overrides": {
+          "summary": "explorer_ants",
+          "factsheets": ["explorer_ants_discovery"],
+          "subtopics": ["ants_habitat", "ants_diet", "ants_symbiosis", "ants_navigation"],
+          "questions": [
+            "where_is_ant_diversity_highest",
+            "what_foraging_strategies_do_ants_use",
+            "how_do_ants_adapt_to_extreme_habitats"
+          ]
+        }
+      },
+      "malayan_tiger": {
+        "overrides": {
+          "summary": "explorer_malayan_tiger",
+          "factsheets": ["exploration_and_adventure_in_tiger_conservation"],
+          "subtopics": ["malayan_tiger_conservation"],
+          "questions": [
+            "how_do_field_expeditions_help",
+            "what_is_adventure_tourism_conservation",
+            "how_does_exploration_help_conservation"
+          ]
+        }
+      },
+      "ants_habitat": {},
+      "ants_formic_acid": {},
+      "ants_cuticular_hydrocarbons": {},
+      "diet_sugars": {},
+      "diet_protein": {},
+      "diet_fungi": {},
+      "diet_special": {},
+      "ants_social_structure": {},
+      "ants_reproduction": {},
+      "ants_communication": {},
+      "ants_defense": {},
+      "ants_symbiosis": {},
+      "ants_navigation": {},
+      "colony_lifecycle": {},
+      "ants_diet": {}
+    }
+  },
+  {
+    "id": "eco_hero",
+    "name": "Eco-Hero 🌱",
+    "type": "perspective",
+    "rules": {
+      "ants": {
+        "overrides": {
+          "summary": "eco_hero_ants",
+          "factsheets": ["eco_hero_ants_conservation"],
+          "subtopics": ["ants_habitat", "ants_symbiosis"],
+          "questions": [
+            "how_can_habitats_be_made_ant_friendly",
+            "why_should_we_reduce_pesticides_for_ants",
+            "how_do_invasive_ants_harm_ecosystems"
+          ]
+        }
+      },
+      "malayan_tiger": {
+        "overrides": {
+          "summary": "eco_hero_malayan_tiger",
+          "factsheets": ["heroic_actions_in_tiger_conservation"],
+          "subtopics": ["malayan_tiger_conservation"],
+          "questions": [
+            "what_are_heroic_conservation_actions",
+            "how_does_education_help_conservation",
+            "what_is_economic_heroism"
+          ]
+        }
+      },
+      "ants_habitat": {},
+      "ants_formic_acid": {},
+      "ants_cuticular_hydrocarbons": {},
+      "diet_sugars": {},
+      "diet_protein": {},
+      "diet_fungi": {},
+      "diet_special": {},
+      "ants_social_structure": {},
+      "ants_reproduction": {},
+      "ants_communication": {},
+      "ants_defense": {},
+      "ants_symbiosis": {},
+      "ants_navigation": {},
+      "colony_lifecycle": {},
+      "ants_diet": {}
+    }
+  },
+  {
+    "id": "conservation",
+    "name": "Conservation",
+    "type": "perspective",
+    "rules": {
+      "ants": {
+        "overrides": {
+          "summary": "conservation_ants",
+          "factsheets": ["conservation_of_ants"],
+          "subtopics": ["ants_habitat", "ants_symbiosis"],
+          "questions": [
+            "what_threatens_ant_species",
+            "how_does_climate_change_affect_ants",
+            "why_protect_ant_diversity"
+          ]
+        }
+      },
+      "malayan_tiger": {
+        "overrides": {
+          "summary": "conservation_malayan_tiger",
+          "factsheets": ["conservation_of_malayan_tiger"],
+          "subtopics": ["malayan_tiger_conservation"],
+          "questions": [
+            "how_are_malayan_tigers_monitored",
+            "what_are_main_threats_to_malayan_tigers",
+            "how_is_human_tiger_conflict_managed"
+          ]
+        }
+      },
+      "ants_habitat": {},
+      "ants_formic_acid": {},
+      "ants_cuticular_hydrocarbons": {},
+      "diet_sugars": {},
+      "diet_protein": {},
+      "diet_fungi": {},
+      "diet_special": {},
+      "ants_social_structure": {},
+      "ants_reproduction": {},
+      "ants_communication": {},
+      "ants_defense": {},
+      "ants_symbiosis": {},
+      "ants_navigation": {},
+      "colony_lifecycle": {},
+      "ants_diet": {}
+    }
+  },
+  {
+    "id": "psychology",
+    "name": "Psychology",
+    "type": "perspective",
+    "rules": {
+      "ants": {
+        "overrides": {
+          "summary": "psychology_ants",
+          "factsheets": ["psychology_of_ants"],
+          "subtopics": ["ants_navigation", "ants_communication", "ants_social_structure"],
+          "questions": [
+            "how_do_ants_navigate_home",
+            "what_is_path_integration_in_ants",
+            "how_do_ants_learn_and_remember"
+          ]
+        }
+      },
+      "malayan_tiger": {
+        "overrides": {
+          "summary": "psychology_malayan_tiger",
+          "factsheets": ["psychology_of_malayan_tiger"],
+          "questions": [
+            "how_do_tigers_learn_to_hunt",
+            "how_do_tigers_communicate",
+            "what_cognitive_abilities_do_tigers_have"
+          ]
+        }
+      },
+      "ants_habitat": {},
+      "ants_formic_acid": {},
+      "ants_cuticular_hydrocarbons": {},
+      "diet_sugars": {},
+      "diet_protein": {},
+      "diet_fungi": {},
+      "diet_special": {},
+      "ants_social_structure": {},
+      "ants_reproduction": {},
+      "ants_communication": {},
+      "ants_defense": {},
+      "ants_symbiosis": {},
+      "ants_navigation": {},
+      "colony_lifecycle": {},
+      "ants_diet": {}
+    }
+  },
+  {
+    "id": "art",
+    "name": "Art",
+    "type": "perspective",
+    "rules": {
+      "painting": {
+        "overrides": {
+          "summary": "art_painting",
+          "factsheets": ["art_of_painting"],
+          "subtopics": ["painting_styles", "painting_materials", "painting_purposes"],
+          "questions": [
+            "how_do_artists_use_color_theory",
+            "what_is_chiaroscuro",
+            "why_is_brushwork_important"
+          ]
+        }
+      },
+      "pigments": {},
+      "carmine": {},
+      "painting_styles": {},
+      "painting_materials": {},
+      "painting_purposes": {},
+      "binders_and_solvents": {},
+      "conservation_chemistry": {},
+      "degradation_pathways": {}
+    }
+  },
+  {
+    "id": "aesthetic",
+    "name": "Aesthetic",
+    "type": "perspective",
+    "rules": {
+      "painting": {
+        "overrides": {
+          "summary": "aesthetic_painting",
+          "factsheets": ["aesthetic_of_painting"],
+          "subtopics": ["painting_styles", "painting_purposes"],
+          "questions": [
+            "what_makes_paintings_aesthetically_pleasing",
+            "how_does_composition_affect_mood",
+            "what_is_the_golden_ratio_in_art"
+          ]
+        }
+      },
+      "pigments": {},
+      "carmine": {},
+      "painting_styles": {},
+      "painting_materials": {},
+      "painting_purposes": {},
+      "binders_and_solvents": {},
+      "conservation_chemistry": {},
+      "degradation_pathways": {}
+    }
+  },
+  {
+    "id": "cultural",
+    "name": "Cultural",
+    "type": "perspective",
+    "rules": {
+      "painting": {
+        "overrides": {
+          "summary": "cultural_painting",
+          "factsheets": ["cultural_aspects_of_painting"],
+          "subtopics": ["painting_styles", "painting_purposes"],
+          "questions": [
+            "how_do_painting_traditions_vary_culturally",
+            "what_role_does_religion_play_in_painting",
+            "how_do_painting_techniques_reflect_culture"
+          ]
+        }
+      },
+      "malayan_tiger": {
+        "overrides": {
+          "summary": "cultural_malayan_tiger",
+          "factsheets": ["cultural_significance_of_malayan_tiger"],
+          "questions": [
+            "what_role_do_tigers_play_in_culture",
+            "how_are_tigers_portrayed_in_folklore",
+            "why_is_tiger_national_symbol"
+          ]
+        }
+      },
+      "pigments": {},
+      "carmine": {},
+      "painting_styles": {},
+      "painting_materials": {},
+      "painting_purposes": {},
+      "binders_and_solvents": {},
+      "conservation_chemistry": {},
+      "degradation_pathways": {}
+    }
+  },
+  {
+    "id": "creativity",
+    "name": "Creativity",
+    "type": "perspective",
+    "rules": {
+      "painting": {
+        "overrides": {
+          "summary": "creativity_painting",
+          "factsheets": ["creativity_in_painting"],
+          "subtopics": ["painting_styles", "painting_materials"],
+          "questions": [
+            "how_do_artists_develop_concepts",
+            "what_is_technical_experimentation_in_art",
+            "how_do_artists_break_conventions"
+          ]
+        }
+      },
+      "pigments": {},
+      "carmine": {},
+      "painting_styles": {},
+      "painting_materials": {},
+      "painting_purposes": {},
+      "binders_and_solvents": {},
+      "conservation_chemistry": {},
+      "degradation_pathways": {}
+    }
+  },
+  {
+    "id": "philosophy",
+    "name": "Philosophy",
+    "type": "perspective",
+    "rules": {
+      "painting": {
+        "overrides": {
+          "summary": "philosophy_painting",
+          "factsheets": ["philosophy_of_painting"],
+          "subtopics": ["painting_styles", "painting_purposes"],
+          "questions": [
+            "what_is_the_representation_debate",
+            "who_determines_painting_meaning",
+            "how_is_artistic_quality_judged"
+          ]
+        }
+      },
+      "pigments": {},
+      "carmine": {},
+      "painting_styles": {},
+      "painting_materials": {},
+      "painting_purposes": {},
+      "binders_and_solvents": {},
+      "conservation_chemistry": {},
+      "degradation_pathways": {}
+    }
+  },
+  {
+    "id": "artist",
+    "name": "Artist 🎨",
+    "type": "perspective",
+    "rules": {
+      "painting": {
+        "overrides": {
+          "summary": "artist_painting",
+          "factsheets": ["artist_creating_paintings"],
+          "subtopics": ["painting_materials", "painting_styles"],
+          "questions": [
+            "how_do_kids_start_painting",
+            "how_do_colors_express_feelings",
+            "how_can_kids_develop_painting_style"
+          ]
+        }
+      },
+      "pigments": {},
+      "carmine": {},
+      "painting_styles": {},
+      "painting_materials": {},
+      "painting_purposes": {},
+      "binders_and_solvents": {},
+      "conservation_chemistry": {},
+      "degradation_pathways": {}
+    }
+  },
+  {
+    "id": "storyteller",
+    "name": "Storyteller 📖",
+    "type": "perspective",
+    "rules": {
+      "painting": {
+        "overrides": {
+          "summary": "storyteller_painting",
+          "factsheets": ["storytelling_through_painting"],
+          "subtopics": ["painting_styles", "painting_purposes"],
+          "questions": [
+            "how_do_paintings_tell_stories",
+            "what_are_genre_paintings",
+            "how_do_symbols_work_in_paintings"
+          ]
+        }
+      },
+      "pigments": {},
+      "carmine": {},
+      "painting_styles": {},
+      "painting_materials": {},
+      "painting_purposes": {},
+      "binders_and_solvents": {},
+      "conservation_chemistry": {},
+      "degradation_pathways": {}
+    }
+  },
+  {
+    "id": "ethics",
+    "name": "Ethics",
+    "type": "perspective",
+    "rules": {
+      "malayan_tiger": {
+        "overrides": {
+          "summary": "ethics_malayan_tiger",
+          "factsheets": ["ethics_of_tiger_conservation"],
+          "subtopics": ["malayan_tiger_conservation"],
+          "questions": [
+            "do_tigers_have_intrinsic_value",
+            "who_bears_conservation_costs",
+            "what_are_ethics_of_captive_breeding"
+          ]
+        }
+      },
+      "tiger_populations": {},
+      "malayan_tiger_conservation": {},
+      "ants_habitat": {},
+      "ants_formic_acid": {},
+      "ants_cuticular_hydrocarbons": {},
+      "diet_sugars": {},
+      "diet_protein": {},
+      "diet_fungi": {},
+      "diet_special": {},
+      "ants_social_structure": {},
+      "ants_reproduction": {},
+      "ants_communication": {},
+      "ants_defense": {},
+      "ants_symbiosis": {},
+      "ants_navigation": {},
+      "colony_lifecycle": {},
+      "ants_diet": {},
+      "painting": {},
+      "pigments": {},
+      "carmine": {},
+      "painting_styles": {},
+      "painting_materials": {},
+      "painting_purposes": {},
+      "binders_and_solvents": {},
+      "conservation_chemistry": {},
+      "degradation_pathways": {}
+    }
+  },
+  {
+    "id": "political",
+    "name": "Political",
+    "type": "perspective",
+    "rules": {
+      "malayan_tiger": {
+        "overrides": {
+          "summary": "political_malayan_tiger",
+          "factsheets": ["political_context_of_tiger_conservation"],
+          "subtopics": ["malayan_tiger_conservation"],
+          "questions": [
+            "how_do_laws_protect_tigers",
+            "why_is_international_cooperation_needed",
+            "how_does_politics_affect_conservation_funding"
+          ]
+        }
+      },
+      "tiger_populations": {},
+      "malayan_tiger_conservation": {},
+      "ants_habitat": {},
+      "ants_formic_acid": {},
+      "ants_cuticular_hydrocarbons": {},
+      "diet_sugars": {},
+      "diet_protein": {},
+      "diet_fungi": {},
+      "diet_special": {},
+      "ants_social_structure": {},
+      "ants_reproduction": {},
+      "ants_communication": {},
+      "ants_defense": {},
+      "ants_symbiosis": {},
+      "ants_navigation": {},
+      "colony_lifecycle": {},
+      "ants_diet": {},
+      "painting": {},
+      "pigments": {},
+      "carmine": {},
+      "painting_styles": {},
+      "painting_materials": {},
+      "painting_purposes": {},
+      "binders_and_solvents": {},
+      "conservation_chemistry": {},
+      "degradation_pathways": {}
+    }
+  },
+  {
+    "id": "geography",
+    "name": "Geography",
+    "type": "perspective",
+    "rules": {
+      "malayan_tiger": {
+        "overrides": {
+          "summary": "geography_malayan_tiger",
+          "factsheets": ["geography_of_malayan_tiger"],
+          "questions": [
+            "where_do_malayan_tigers_currently_live",
+            "what_habitat_do_malayan_tigers_need",
+            "why_are_wildlife_corridors_important"
+          ]
+        }
+      },
+      "tiger_populations": {},
+      "malayan_tiger_conservation": {},
+      "ants_habitat": {},
+      "ants_formic_acid": {},
+      "ants_cuticular_hydrocarbons": {},
+      "diet_sugars": {},
+      "diet_protein": {},
+      "diet_fungi": {},
+      "diet_special": {},
+      "ants_social_structure": {},
+      "ants_reproduction": {},
+      "ants_communication": {},
+      "ants_defense": {},
+      "ants_symbiosis": {},
+      "ants_navigation": {},
+      "colony_lifecycle": {},
+      "ants_diet": {},
+      "painting": {},
+      "pigments": {},
+      "carmine": {},
+      "painting_styles": {},
+      "painting_materials": {},
+      "painting_purposes": {},
+      "binders_and_solvents": {},
+      "conservation_chemistry": {},
+      "degradation_pathways": {}
+    }
+  },
+  {
+    "id": "mandarin",
+    "name": "中文",
+    "type": "language",
+    "translate": {
+      "topics": "topics_zh.json",
+      "subtopics": "subtopics_zh.json",
+      "factsheets": "factsheets_zh.json",
+      "questions": "questions_zh.json",
+      "summaries": "summaries_zh.json"
+    },
+    "rules": {}
   }
 ]

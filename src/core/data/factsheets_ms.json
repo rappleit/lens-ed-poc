@@ -1,0 +1,1339 @@
+[
+  {
+    "id": "ants_general",
+    "title": "Fakta Umum Semut",
+    "content": [
+      {
+        "id": "ants_general_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/A_Formica_rufa_sideview.jpg/1920px-A_Formica_rufa_sideview.jpg",
+          "alt": "Gambar dekat semut kayu merah (Formica rufa)",
+          "caption": "Semut kayu merah, salah satu spesies semut yang paling banyak dikaji."
+        }
+      },
+      {
+        "id": "ants_general_1",
+        "type": "text",
+        "order": 2,
+        "data": "Semut tergolong dalam keluarga Formicidae dan merupakan sebahagian daripada order Hymenoptera, yang juga termasuk lebah dan tebuan. Sejarah evolusi mereka bermula dari zaman pertengahan Cretaceous, menjadikan mereka salah satu keturunan serangga yang paling bertahan lama di Bumi."
+      },
+      {
+        "id": "ants_general_2",
+        "type": "markdown",
+        "order": 3,
+        "data": "Ciri yang menentukan semut ialah [tingkah laku eusosial mereka](/search/ants_social_structure), yang melibatkan penjagaan anak secara koperatif, generasi yang bertindih, dan pembahagian kerja pembiakan. Koloni boleh berkisar dari beberapa dozen individu hingga superkoloni dengan berjuta-juta ahli, semuanya berfungsi sebagai unit yang terkoordinasi."
+      },
+
+      {
+        "id": "ants_general_3",
+        "type": "markdown",
+        "order": 4,
+        "data": "[Habitat mereka](/search/ants_habitat) adalah pelbagai, merangkumi hutan, padang rumput, padang pasir, dan persekitaran bandar. Semut membina sarang dalam tanah, kayu reput, serasah daun, dan kadang-kadang di dalam tumbuhan, menunjukkan kebolehsuaian yang luar biasa dalam kejuruteraan mereka dan penggunaan sumber yang ada."
+      },
+      {
+        "id": "ants_general_4",
+        "type": "text",
+        "order": 5,
+        "data": "Kepelbagaian spesies adalah luar biasa, dengan lebih daripada 15,000 yang diterangkan di seluruh dunia. Sesetengah spesies adalah pemangsa khusus, yang lain [menanam kulat](/search/diet_fungi), dan banyak yang terlibat dalam hubungan mutualistik dengan tumbuhan dan serangga lain, menggariskan kepentingan ekologi mereka."
+      },
+      {
+        "id": "ants_general_5",
+        "type": "markdown",
+        "order": 6,
+        "data": "Komunikasi dalam koloni bergantung terutamanya kepada isyarat kimia. Feromon digunakan untuk menanda jejak mencari makan, memberi isyarat penggera, mengawal [pembiakan](/search/ants_reproduction), dan menyelaraskan tugas kolektif, membolehkan koloni beroperasi dengan kecekapan yang luar biasa."
+      },
+      {
+        "id": "ants_general_video_1",
+        "type": "video",
+        "order": 7,
+        "data": {
+          "url": "https://www.youtube.com/watch?v=qu0HN9rYtIw",
+          "title": "Yang Terbaik Tentang Semut | BBC Earth"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ants_general_kids",
+    "title": "Fakta Menarik Tentang Semut",
+    "content": [
+      {
+        "id": "ants_general_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/A_Formica_rufa_sideview.jpg/1920px-A_Formica_rufa_sideview.jpg",
+          "alt": "Gambar dekat semut kayu merah (Formica rufa)",
+          "caption": "Semut kayu merah, salah satu spesies semut yang paling banyak dikaji."
+        }
+      },
+      {
+        "id": "ants_general_kids_1",
+        "type": "text",
+        "order": 2,
+        "data": "Semut boleh hidup hampir di mana-mana sahaja! Ada yang membina rumah di bawah tanah, ada di atas pokok, dan ada yang membuat jambatan atau rakit dengan badan mereka sendiri untuk menyeberangi air."
+      },
+      {
+        "id": "ants_general_kids_2",
+        "type": "markdown",
+        "order": 3,
+        "data": "Semut yang berbeza makan makanan yang berbeza. Ada yang suka [serangga kecil](/search/diet_protein), ada yang [mengumpul biji](/search/diet_special), dan ada yang minum [nektar manis](/search/diet_sugars). Apa yang mereka makan membantu mereka membuat bahan kimia khas untuk melindungi diri atau memberitahu semut lain ke mana hendak pergi."
+      },
+      {
+        "id": "ants_general_kids_3",
+        "type": "markdown",
+        "order": 4,
+        "data": "Semut mempunyai cara bijak untuk bercakap antara satu sama lain. Mereka meninggalkan [jejak kimia ke makanan](/search/pheromone_communication), memberi amaran tentang bahaya, dan juga menanda [sarang mereka](/search/ants_habitat) supaya semua orang tahu di mana rumah mereka. Berjuta-juta semut boleh bekerja sama seperti satu pasukan kerana isyarat-isyarat ini."
+      },
+      {
+        "id": "ants_general_img_2",
+        "type": "image",
+        "order": 5,
+        "data": {
+          "url": "https://media1.tenor.com/m/zUCvxdBDm7sAAAAd/teamwork-ant-teamwork.gif",
+          "alt": "Semut bekerja bersama",
+          "caption": "Semut bekerja bersama!"
+        }
+      },
+      {
+        "id": "ants_general_video_1",
+        "type": "video",
+        "order": 6,
+        "data": {
+          "url": "https://www.youtube.com/watch?v=9SPixBok5ls",
+          "title": "Antzilla | Haiwan Hebat"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ants_diet_overview",
+    "title": "Gambaran Keseluruhan Diet Semut",
+    "content": [
+      {
+        "id": "diet_overview_1",
+        "type": "markdown",
+        "order": 1,
+        "data": "Tabiat pemakanan semut menunjukkan kepelbagaian yang luar biasa, dengan spesies yang berbeza mempamerkan tingkah laku pemakanan omnivor, herbivor, karnivor, atau yang sangat khusus. Kebanyakan semut memerlukan gabungan karbohidrat untuk tenaga segera dan protein untuk pertumbuhan, mendorong mereka untuk mencari [bahan bergula](/search/diet_sugars) sambil juga memburu serangga atau menanam [tanaman kulat](/search/diet_fungi). Sesetengah spesies telah berkembang menjadi pengkhususan yang melampau, seperti semut vampir yang memakan hemolimfa larva atau semut tentera yang melakukan serbuan pemangsa besar-besaran."
+      }
+    ]
+  },
+  {
+    "id": "ants_diet_overview_kids",
+    "title": "Gambaran Keseluruhan Diet Semut",
+    "content": [
+      {
+        "id": "diet_overview_kids_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://a-z-animals.com/media/2021/11/What-Do-Ants-Eat-1024x576.jpg",
+          "alt": "Semut makan pelbagai benda",
+          "caption": "Semut makan pelbagai benda"
+        }
+      },
+      {
+        "id": "diet_overview_kids_1",
+        "type": "markdown",
+        "order": 2,
+        "data": "Semut makan pelbagai benda! Ada yang suka manis seperti getah pokok dan buah-buahan, ada yang makan tumbuhan, dan ada yang memburu serangga lain. Kebanyakan semut perlukan [gula](/search/diet_sugars) untuk tenaga dan [protein](/search/diet_protein) untuk membesar kuat. Sesetengah semut mempunyai diet yang sangat luar biasa, seperti semut vampir yang menghisap dari semut bayi atau semut tentera yang pergi mencari serangga dalam pengembaraan gergasi."
+      }
+    ]
+  },
+
+  {
+    "id": "ants_habitat",
+    "title": "Habitat Semut",
+    "content": [
+      {
+        "id": "ants_habitat_1",
+        "type": "text",
+        "order": 1,
+        "data": "Habitat semut merangkumi hampir setiap persekitaran daratan di Bumi, menunjukkan kebolehsuaian dan kehebatan seni bina mereka yang luar biasa. Walaupun banyak spesies membina koloni bawah tanah yang rumit dengan berbilang bilik dan terowong, yang lain telah menyesuaikan diri dengan gaya hidup arboreal, membina sarang karton atau mencipta jambatan hidup dari badan mereka sendiri. Sesetengah spesies berjaya menjajah persekitaran manusia atau berkembang maju dalam persekitaran melampau seperti padang pasir dan hutan hujan tropika."
+      }
+    ]
+  },
+  {
+    "id": "ants_architecture",
+    "title": "Seni Bina Semut",
+    "content": [
+      {
+        "id": "ants_architecture_1",
+        "type": "markdown",
+        "order": 1,
+        "data": "Koloni semut berfungsi sebagai sistem kejuruteraan yang kompleks dan bukannya tempat perlindungan yang mudah. Banyak spesies membina rangkaian bawah tanah yang luas dengan bilik-bilik khusus untuk penjagaan anak, penyimpanan makanan, atau [ratu](/search/ants_social_structure), dihubungkan oleh terowong yang memudahkan pergerakan cekap. Seni bina sering menggabungkan lubang pengudaraan semula jadi yang mengawal suhu dan kelembapan, memastikan kestabilan koloni merentasi keadaan yang berubah-ubah."
+      },
+      {
+        "id": "ants_architecture_2",
+        "type": "text",
+        "order": 2,
+        "data": "Pembinaan adalah proses kolektif: setiap semut pekerja mengikuti peraturan tingkah laku yang mudah, namun bersama-sama mereka mencapai reka bentuk yang canggih. Biji tanah disimpan secara strategik untuk mengembangkan terowong, manakala dalam spesies arboreal, gentian tumbuhan dan sutera larva ditenun menjadi sarang karton atau daun. Dalam persekitaran yang terdedah kepada banjir, sesetengah semut juga mereka bentuk rakit terapung dengan badan mereka sendiri, menunjukkan seni bina hidup yang adaptif."
+      }
+    ]
+  },
+  {
+    "id": "ants_architecture_kids",
+    "title": "Rumah dan Kejuruteraan Semut",
+    "content": [
+      {
+        "id": "ants_architecture_kids_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://thumbs.dreamstime.com/b/ant-builder-characters-building-anthill-grass-straw-twigs-vector-cartoon-funny-insect-ants-workers-builders-house-home-333928352.jpg",
+          "alt": "Semut pembina bekerja di rumah mereka",
+          "caption": "Semut pembina bekerja di rumah mereka"
+        }
+      },
+      {
+        "id": "ants_architecture_kids_1",
+        "type": "markdown",
+        "order": 2,
+        "data": "Semut membuat [rumah](/search/ants_habitat) bawah tanah yang besar dengan bilik khas untuk semut bayi, [makanan](/search/ants_diet), dan ratu. Terowong menyambungkan semua bilik supaya semut boleh bergerak dengan cepat. Sesetengah terowong bertindak seperti penghawa dingin semula jadi untuk menjaga rumah sejuk atau panas."
+      },
+      {
+        "id": "ants_architecture_kids_2",
+        "type": "text",
+        "order": 3,
+        "data": "Setiap semut mengikuti peraturan mudah, tetapi bersama-sama mereka membuat reka bentuk yang sangat pintar. Mereka mengumpul tanah untuk menggali terowong, menganyam daun dan sutera untuk membina rumah di pokok, dan dalam banjir, sesetengah semut malah berpaut bersama untuk membuat rakit terapung agar semua orang selamat."
+      }
+    ]
+  },
+  {
+    "id": "ants_formic_acid",
+    "title": "Asid Formik",
+    "content": [
+      {
+        "id": "ants_formic_acid_1",
+        "type": "text",
+        "order": 1,
+        "data": "Asid formik mewakili salah satu sistem pertahanan kimia yang paling berkesan dalam alam semula jadi, dihasilkan oleh banyak spesies semut dalam kelenjar khusus untuk perlindungan dan serangan. Asid organik mudah ini boleh disembur terus ke ancaman, disuntik melalui sengatan, atau dilepaskan sebagai pencegah yang mudah meruap. Di luar aplikasi pertahanan, asid formik juga memainkan peranan penting dalam kebersihan sarang, membantu mencegah jangkitan yang boleh mengancam kesihatan koloni."
+      }
+    ]
+  },
+  {
+    "id": "ants_cuticular_hydrocarbons",
+    "title": "Hidrokarbon Kutikular",
+    "content": [
+      {
+        "id": "ants_cuticular_hydrocarbons_1",
+        "type": "text",
+        "order": 1,
+        "data": "Hidrokarbon kutikular membentuk sistem pengenalan kimia yang canggih yang berfungsi sebagai asas molekul untuk organisasi sosial semut dan pengiktirafan koloni. Sebatian berlilin ini mencipta tandatangan kimia unik yang berbeza antara spesies, koloni, dan kasta individu. Profil hidrokarbon bertindak seperti pasport kimia, membolehkan semut membezakan dengan serta-merta antara ahli sarang dan individu asing sambil menyelaraskan tingkah laku koperatif."
+      }
+    ]
+  },
+  {
+    "id": "chemistry_of_ants",
+    "title": "Kimia Semut",
+    "content": [
+      {
+        "id": "chemistry_of_ants_1",
+        "type": "markdown",
+        "order": 1,
+        "data": "Semut menggunakan kit alat kimia yang pelbagai untuk hidup dan berkembang maju. Banyak spesies menghasilkan [asid formik](/search/ants_formic_acid), manakala yang lain mensintesis alkaloid, terpenoid, atau toksin berasaskan protein. Sebatian ini berfungsi dalam pertahanan, menangkap mangsa, atau pertikaian wilayah, dan dirembeskan daripada kelenjar khusus. Bergantung kepada spesies, ia mungkin dihantar melalui sengatan, semburan, atau sapuan."
+      },
+      {
+        "id": "chemistry_of_ants_2",
+        "type": "markdown",
+        "order": 2,
+        "data": "[Hidrokarbon kutikular](/search/ants_cuticular_hydrocarbons) yang melapisi eksoskeleton bertindak sebagai tag ID khusus koloni, membolehkan semut membezakan ahli sarang dari orang luar. Sesetengah semut juga membawa mikrob simbiotik yang menghasilkan sebatian antibiotik, melindungi koloni daripada patogen dan jangkitan kulat."
+      },
+      {
+        "id": "chemistry_of_ants_3",
+        "type": "markdown",
+        "order": 3,
+        "data": "[Diet](/search/ants_diet) juga membentuk kimia semut. Banyak spesies bergantung kepada gula daripada nektar atau embun madu, yang menyediakan keperluan tenaga mereka, manakala [protein](/search/diet_protein) daripada mangsa atau biji membekalkan bahan binaan untuk pertumbuhan. Nutrien ini bukan sahaja mengekalkan koloni tetapi juga mempengaruhi pengeluaran feromon dan sebatian pertahanan, menghubungkan pengambilan makanan secara langsung kepada komunikasi kimia dan pertahanan."
+      }
+    ]
+  },
+  {
+    "id": "chemistry_of_ants_kids",
+    "title": "Semut dan Kimia",
+    "content": [
+      {
+        "id": "chemistry_of_ants_kids_1",
+        "type": "text",
+        "order": 1,
+        "data": "Semut mempunyai bahan kimia khas dalam badan mereka yang membantu mereka bertarung, memburu, dan melindungi rumah mereka. Sesetengah semut mempunyai sengatan yang menyembur asid, manakala yang lain membuat racun kecil atau semburan melekit untuk menangkap mangsa atau menakutkan musuh."
+      },
+      {
+        "id": "chemistry_of_ants_kids_2",
+        "type": "text",
+        "order": 2,
+        "data": "Bahagian luar semut seperti memakai tag nama rahsia yang dibuat daripada bahan kimia. Ini membantu semut tahu rakan mana yang tergolong dalam sarang mereka dan semut mana yang orang asing. Sesetengah semut malah membawa kuman yang berguna yang membuat ubat untuk menjaga koloni sihat."
+      },
+      {
+        "id": "chemistry_of_ants_kids_3",
+        "type": "markdown",
+        "order": 3,
+        "data": "Apa yang dimakan semut juga mempengaruhi bahan kimia mereka! [Makanan bergula](/search/diet_sugars) seperti nektar memberi mereka tenaga, manakala [protein](/search/diet_protein) daripada serangga dan biji membantu mereka membesar. Makanan ini juga membantu semut membuat isyarat khas dan bahan kimia pertahanan, jadi makan adalah sebahagian daripada cara semut bercakap dan kekal selamat."
+      }
+    ]
+  },
+  {
+    "id": "pheromone_communication",
+    "title": "Komunikasi Feromon",
+    "content": [
+      {
+        "id": "pheromone_communication_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://cdn.shopify.com/s/files/1/0081/8928/0333/files/The-location-of-the-most-commonly-occurring-exocrine-glands-in-ants-Glands-indicated-in_W640_480x480.jpg?v=1731197141",
+          "alt": "Gambar rajah dan lokasi pelbagai kelenjar penghasil feromon dalam semut",
+          "caption": "Gambar rajah dan lokasi pelbagai kelenjar penghasil feromon dalam semut"
+        }
+      },
+      {
+        "id": "pheromone_communication_1",
+        "type": "markdown",
+        "order": 2,
+        "data": "Komunikasi feromon adalah pusat kepada organisasi masyarakat semut. Pekerja meletakkan feromon jejak untuk membimbing pencari makanan, feromon penggera mencetuskan tindak balas pertahanan yang cepat, dan feromon ratu mengawal [pembiakan](/search/ants_reproduction) dan menekan kesuburan pekerja. Bahasa kimia ini membolehkan koloni menyelaraskan tingkah laku kompleks di kalangan beribu-ribu atau bahkan berjuta-juta individu."
+      },
+      {
+        "id": "pheromone_communication_2",
+        "type": "text",
+        "order": 3,
+        "data": "Sebatian yang berbeza diselaraskan untuk tujuan yang berbeza: molekul meruap merebak dengan cepat untuk menyampaikan amaran mendesak, manakala bahan yang lebih stabil menyediakan penanda jangka panjang untuk pintu masuk sarang atau sempadan wilayah. Kecanggihan campuran kimia ini menjadikan sistem feromon semut antara yang paling rumit dalam kerajaan haiwan."
+      },
+      {
+        "id": "pheremone_communication_video_1",
+        "type": "video",
+        "order": 4,
+        "data": {
+          "url": "https://www.youtube.com/watch?v=0FZLPbBDYAA",
+          "title": "Semut - Rahsia komunikasi mereka didedahkan"
+        }
+      }
+    ]
+  },
+  {
+    "id": "pheromone_communication_kids",
+    "title": "Semut Bercakap dengan Bahan Kimia",
+    "content": [
+      {
+        "id": "pheromone_communication_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://www.researchgate.net/profile/Tomas-Krajnik/publication/308814353/figure/fig2/AS:419283550130199@1476976396854/Trajectory-of-ants-for-following-the-pheromone-trail.png",
+          "alt": "Semut meninggalkan jejak yang tidak kelihatan untuk kawan-kawan!",
+          "caption": "Semut meninggalkan jejak yang tidak kelihatan untuk kawan-kawan!"
+        }
+      },
+      {
+        "id": "pheromone_communication_kids_1",
+        "type": "text",
+        "order": 2,
+        "data": "Semut mempunyai bahasa kimia rahsia! Mereka meninggalkan jejak yang tidak kelihatan supaya kawan boleh mencari makanan, melepaskan bau penggera apabila bahaya dekat, dan ratu menghantar bau khas yang memberitahu pekerja apa yang perlu dilakukan. Mesej kimia ini membantu seluruh koloni bekerja bersama, walaupun ada beribu-ribu semut."
+      },
+      {
+        "id": "pheromone_communication_kids_2",
+        "type": "text",
+        "order": 3,
+        "data": "Sesetengah bau bergerak pantas untuk memberi amaran tentang kecemasan, manakala yang lain kekal lebih lama untuk menanda pintu masuk rumah atau sempadan. Semut mencampur bahan kimia ini dengan cara yang pintar, menjadikan bahasa kimia mereka salah satu yang paling menakjubkan dalam dunia haiwan!"
+      },
+      {
+        "id": "pheremone_communication_video_1",
+        "type": "video",
+        "order": 4,
+        "data": {
+          "url": "https://www.youtube.com/watch?v=7s16f2fmkEw",
+          "title": "Komunikasi Semut: Adakah Semut Menggunakan Bau untuk Bercakap?"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ants_diet_chemistry",
+    "title": "Aspek Kimia Diet Semut",
+    "content": [
+      {
+        "id": "diet_chemistry_1",
+        "type": "markdown",
+        "order": 1,
+        "data": "Pemakanan semut melibatkan sistem pengesanan kimia yang canggih yang membolehkan mereka mengenal pasti dan menilai sumber makanan berdasarkan komposisi molekul. Kemoreseptor mereka boleh membezakan antara jenis [gula](/search/diet_sugars), [protein](/search/diet_protein), dan lipid yang berbeza, membolehkan mereka membuat keputusan mencari makanan yang optimum. Analisis kimia ini berlaku secara masa nyata apabila semut menemui sumber makanan yang berpotensi dalam persekitaran mereka."
+      },
+      {
+        "id": "diet_chemistry_2",
+        "type": "text",
+        "order": 2,
+        "data": "Kimia pencernaan semut termasuk enzim khusus yang memecahkan molekul organik kompleks menjadi sebatian yang lebih mudah dan boleh diserap. Spesies semut yang berbeza telah mengembangkan profil enzimatik unik yang sepadan dengan pengkhususan diet mereka, dari selulase dalam spesies penumbuh kulat kepada protease dalam semut karnivor. Penyesuaian biokimia ini membolehkan semut mengekstrak nilai pemakanan maksimum daripada pelbagai sumber makanan."
+      },
+      {
+        "id": "diet_chemistry_3",
+        "type": "text",
+        "order": 3,
+        "data": "Komunikasi kimia memainkan peranan penting dalam tingkah laku mencari makanan semut, dengan pencari makanan yang berjaya meletakkan jejak feromon yang mengandungi maklumat tentang kualiti dan kuantiti makanan. Komposisi kimia feromon jejak ini boleh berbeza-beza berdasarkan nilai pemakanan sumber makanan yang ditemui, mewujudkan rangkaian maklumat yang canggih yang mengoptimumkan kecekapan pemakanan seluruh koloni."
+      }
+    ]
+  },
+
+  {
+    "id": "ants_diet_chemistry_kids",
+    "title": "Semut dan Kimia Makanan",
+    "content": [
+      {
+        "id": "ants_diet_chemistry_kids_1",
+        "type": "markdown",
+        "order": 1,
+        "data": "Semut mempunyai penderia kimia kecil yang membantu mereka mengetahui makanan mana yang sedap dan baik untuk mereka. Mereka boleh membezakan antara [gula](/search/diet_sugars), [protein](/search/diet_protein), dan lemak supaya mereka tahu apa yang perlu dimakan untuk mendapat banyak tenaga."
+      },
+      {
+        "id": "ants_diet_chemistry_kids_2",
+        "type": "text",
+        "order": 2,
+        "data": "Di dalam badan mereka, semut mempunyai pembantu khas yang dipanggil enzim yang memecahkan makanan menjadi tenaga dan bahan binaan untuk pertumbuhan. Semut yang berbeza mempunyai pembantu yang berbeza bergantung kepada apa yang mereka suka makan, jadi mereka boleh mendapat manfaat maksimum daripada setiap hidangan."
+      },
+      {
+        "id": "ants_diet_chemistry_kids_3",
+        "type": "text",
+        "order": 3,
+        "data": "Semut juga menggunakan bahan kimia untuk bercakap tentang makanan! Yang mencari makanan sedap meninggalkan jejak yang tidak kelihatan untuk kawan-kawan mereka ikuti. Jejak ini memberitahu semut lain ke mana hendak pergi dan makanan mana yang terbaik, jadi seluruh koloni boleh makan dengan baik bersama-sama."
+      },
+      {
+        "id": "ants_diet_chemistry_kids_3",
+        "type": "video",
+        "order": 4,
+        "data": {
+          "url": "https://www.youtube.com/watch?v=kV_Gyc7WHi4",
+          "title": "Bagaimana Semut Mencari Makanan? | Video Pendidikan untuk Kanak-kanak | Sentiasa Belajar"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ants_for_kids",
+    "title": "Perkara Menarik Tentang Semut",
+    "content": [
+      {
+        "id": "ants_for_kids_1",
+        "type": "text",
+        "order": 1,
+        "data": "Semut adalah serangga kecil yang sangat kuat! Walaupun mereka lebih kecil daripada kuku jari kamu, mereka boleh mengangkat dan membawa benda yang beratnya 20 kali ganda berat mereka. Itu seperti kamu mengangkat dan membawa kereta kecil!"
+      },
+      {
+        "id": "ants_for_kids_2",
+        "type": "text",
+        "order": 2,
+        "data": "Semut hidup bersama dalam keluarga besar yang dipanggil koloni, seperti cara kamu tinggal dengan keluarga kamu. Tetapi keluarga semut SANGAT BESAR - kadang-kadang berjuta-juta semut semuanya tinggal bersama dalam rumah yang sama! Mereka membina rumah mereka di bawah tanah dengan banyak bilik yang berbeza untuk tidur, menyimpan makanan, dan menjaga semut bayi."
+      },
+      {
+        "id": "ants_for_kids_3",
+        "type": "text",
+        "order": 3,
+        "data": "Semut adalah pekerja berpasukan yang menakjubkan! Apabila seekor semut menemui makanan, ia meninggalkan jejak bau khas untuk semut lain ikuti, seperti meninggalkan serbuk roti yang tidak kelihatan. Tidak lama kemudian, kamu akan melihat sekumpulan semut berarak untuk mendapatkan makanan dan membawanya pulang untuk dikongsi dengan semua orang."
+      },
+      {
+        "id": "ants_for_kids_4",
+        "type": "text",
+        "order": 4,
+        "data": "Terdapat banyak jenis semut yang berbeza di seluruh dunia - lebih daripada 15,000 jenis! Sesetengah semut suka benda manis seperti gula, yang lain lebih suka makan serangga lain, dan ada yang malah menanam makanan mereka sendiri seperti petani kecil. Kamu boleh jumpa semut hampir di mana-mana sahaja di Bumi, dari padang pasir panas hingga gunung sejuk."
+      }
+    ]
+  },
+  {
+    "id": "chemistry_of_ants_8_year_old",
+    "title": "Kimia Semut",
+    "content": [
+      {
+        "id": "chemistry_of_ants_8_year_old_1",
+        "type": "text",
+        "order": 1,
+        "data": "Semut seperti ahli kimia kecil dengan kotak alat khas mereka sendiri! Mereka membuat pelbagai jenis semburan serangga dan bau khas untuk melindungi keluarga mereka dan bercakap antara satu sama lain. Sesetengah semut membuat asid formik (itu semburan serangga super mereka!), manakala yang lain membuat jenis bahan kimia yang berbeza. Ia seperti mereka mempunyai makmal rahsia mereka sendiri di dalam badan mereka di mana mereka mencampur semua bahan kimia yang hebat ini!"
+      },
+      {
+        "id": "chemistry_of_ants_8_year_old_2",
+        "type": "text",
+        "order": 2,
+        "data": "Semut bercakap antara satu sama lain menggunakan mesej bau khas yang dipanggil feromon! Ia seperti mempunyai bahasa rahsia yang dibuat daripada bau! Apabila seekor semut menemui makanan, ia meninggalkan jejak bau yang berkata 'Hai kawan-kawan, ikut aku ke snek sedap!' Apabila ada bahaya, mereka menghantar bau penggera yang berkata 'Berhati-hati, ada sesuatu yang menakutkan datang!' Ia seperti mempunyai sistem telefon yang sangat pintar, tetapi dengan bau dan bukannya perkataan!"
+      }
+    ]
+  },
+  {
+    "id": "painting_general",
+    "title": "Fakta Umum Lukisan",
+    "content": [
+      {
+        "id": "painting_general_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/960px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+          "alt": "Starry Night karya Vincent van Gogh",
+          "caption": "Starry Night karya Vincent van Gogh (1889), salah satu lukisan paling terkenal di dunia."
+        }
+      },
+      {
+        "id": "painting_general_1",
+        "type": "text",
+        "order": 2,
+        "data": "Lukisan adalah salah satu bentuk seni manusia yang paling tua, dengan contoh yang bermula lebih 30,000 tahun yang lalu di dalam gua prasejarah. Lukisan awal sering menggambarkan haiwan, adegan memburu, atau tanda simbolik yang mencerminkan kehidupan dan kepercayaan orang purba."
+      },
+      {
+        "id": "painting_general_2",
+        "type": "markdown",
+        "order": 3,
+        "data": "Terdapat banyak jenis [gaya lukisan](/search/painting_styles) yang berbeza. Ada yang bertujuan untuk menangkap dunia secara realistik, seperti potret dan landskap Renaissance, manakala yang lain, seperti Impressionism dan seni Abstrak, memberi tumpuan kepada mood, warna, atau imaginasi dan bukannya perincian yang tepat."
+      },
+      {
+        "id": "painting_general_3",
+        "type": "markdown",
+        "order": 4,
+        "data": "Pelukis menggunakan pelbagai jenis [bahan](/search/painting_materials) dan alatan. Permukaan biasa termasuk kanvas, kertas, dan kayu, manakala cat mungkin minyak, akrilik, cat air, atau bahkan [pigmen](/search/pigments) semula jadi seperti arang batu dan mineral. Berus, pisau, dan bahkan tangan boleh digunakan untuk mengaplikasikan cat."
+      },
+      {
+        "id": "painting_general_4",
+        "type": "text",
+        "order": 5,
+        "data": "Sepanjang sejarah, lukisan telah berfungsi bukan sahaja sebagai hiasan, tetapi juga sebagai bentuk penceritaan yang kuat, pengabdian agama, ekspresi politik, dan kreativiti peribadi. Karya terkenal sering mencerminkan budaya, nilai, dan perjuangan zaman di mana ia dicipta."
+      },
+      {
+        "id": "painting_general_5",
+        "type": "text",
+        "order": 6,
+        "data": "Beberapa pelukis paling terkenal termasuk Leonardo da Vinci, yang terkenal dengan Mona Lisa dan The Last Supper; Vincent van Gogh, yang dikenali dengan Starry Night; Pablo Picasso, perintis Cubism; dan Claude Monet, maestro Impressionism. Karya mereka terus mempengaruhi dan memberi inspirasi kepada artis di seluruh dunia."
+      },
+      {
+        "id": "painting_general_video_1",
+        "type": "video",
+        "order": 7,
+        "data": {
+          "url": "https://www.youtube.com/watch?v=NGsUFvwgvCo",
+          "title": "Mengurai da Vinci | Dokumentari Penuh | NOVA | PBS"
+        }
+      }
+    ]
+  },
+  {
+    "id": "chemistry_of_painting",
+    "title": "Kimia Lukisan",
+    "content": [
+      {
+        "id": "chem_painting_1",
+        "type": "markdown",
+        "order": 1,
+        "data": "[Pigmen](/search/pigments) adalah molekul atau mineral yang menyerap dan memantulkan cahaya, mencipta warna yang kita lihat dalam lukisan."
+      },
+      {
+        "id": "chem_painting_2",
+        "type": "markdown",
+        "order": 2,
+        "data": "[Pengikat](/search/binders_and_solvents) memegang [pigmen](/search/pigments) bersama dan melekatkannya pada permukaan. Pengikat biasa termasuk kuning telur (tempera), minyak biji rami (lukisan minyak), dan polimer akrilik (cat akrilik)."
+      },
+      {
+        "id": "chem_painting_3",
+        "type": "markdown",
+        "order": 3,
+        "data": "Tindak balas kimia menyebabkan [degradasi](/search/degradation_pathways) dari masa ke masa, seperti pengoksidaan minyak yang membawa kepada kekuningan, pudarnya pigmen, dan keretakan filem cat."
+      },
+      {
+        "id": "chem_painting_4",
+        "type": "text",
+        "order": 4,
+        "data": "Faktor persekitaran seperti cahaya, kelembapan, dan pencemaran mempercepatkan perubahan kimia ini, menjadikan [konservasi](/search/conservation_chemistry) penting untuk memelihara lukisan."
+      },
+      {
+        "id": "chem_painting_5",
+        "type": "markdown",
+        "order": 5,
+        "data": "Saintis [konservasi](/search/conservation_chemistry) menggunakan kimia untuk menganalisis [pigmen](/search/pigments) dan [pengikat](/search/binders_and_solvents), memahami [kerosakan](/search/degradation_pathways), dan mereka bentuk teknik pemulihan yang selamat."
+      }
+    ]
+  },
+  {
+    "id": "pigments_general",
+    "title": "Pigmen",
+    "content": [
+      {
+        "id": "pigments_1",
+        "type": "text",
+        "order": 1,
+        "data": "Pigmen adalah bahan yang memberikan warna dalam cat. Ia berfungsi dengan menyerap beberapa panjang gelombang cahaya dan memantulkan yang lain, yang mencipta warna yang kita lihat. Tanpa pigmen, cat akan tidak berwarna atau telus."
+      },
+      {
+        "id": "pigments_2",
+        "type": "text",
+        "order": 2,
+        "data": "Pigmen boleh semula jadi atau sintetik. Pigmen semula jadi datang daripada mineral, tumbuhan, atau serangga dan telah digunakan oleh artis selama beribu-ribu tahun. Pigmen sintetik dibuat di makmal dan direka bentuk untuk menjadi terang, konsisten, dan selalunya lebih tahan lama daripada pigmen semula jadi."
+      },
+      {
+        "id": "pigments_3",
+        "type": "text",
+        "order": 3,
+        "data": "Pigmen semula jadi termasuk ultramarine, yang berasal daripada batu separa berharga lapis lazuli, yang sangat dihargai dalam lukisan Renaissance. Vermilion, diperbuat daripada merkuri sulfida, mempunyai warna merah terang. Carmine, diperbuat daripada serangga cochineal, menghasilkan warna merah kaya yang digunakan dalam tekstil dan karya seni."
+      },
+      {
+        "id": "pigments_4",
+        "type": "text",
+        "order": 4,
+        "data": "Banyak pigmen moden dicipta di makmal untuk kestabilan, kecerahan, dan keselamatan. Contohnya termasuk ultramarine sintetik, merah dan kuning kadmium, dan biru phthalo. Ini membolehkan artis mencapai warna konsisten yang tidak pudar secepat sesetengah pigmen semula jadi."
+      },
+      {
+        "id": "pigments_5",
+        "type": "text",
+        "order": 5,
+        "data": "Pigmen adalah penting untuk ekspresi artistik dan telah memainkan peranan utama dalam karya seni budaya dan sejarah. Sumber, warna, dan sifat kimia mereka telah mempengaruhi teknik lukisan, gaya, dan ketahanan seni selama berabad-abad."
+      }
+    ]
+  },
+  {
+    "id": "pigments_economics",
+    "title": "Pigmen dan Ekonomi",
+    "content": [
+      {
+        "id": "pigments_economics_1",
+        "type": "text",
+        "order": 1,
+        "data": "Nilai pigmen secara sejarah telah membentuk rangkaian perdagangan dan mempengaruhi pilihan artistik. Kerana pigmen tertentu memerlukan bahan dari tanah yang jauh, kos mereka sering menentukan siapa yang mampu menggunakannya dan dalam konteks apa."
+      },
+      {
+        "id": "pigments_economics_2",
+        "type": "text",
+        "order": 2,
+        "data": "Penaung sering menunjukkan kekayaan dengan menugaskan karya dengan pigmen mahal, seperti biru ultramarine, yang biasanya dikhaskan untuk tokoh paling penting dalam seni agama. Dengan cara ini, penggunaan pigmen mencerminkan hierarki sosial dan ekonomi."
+      },
+      {
+        "id": "pigments_economics_3",
+        "type": "text",
+        "order": 3,
+        "data": "Revolusi perindustrian mengubah pasaran pigmen dengan memperkenalkan alternatif sintetik yang lebih murah, lebih tersedia secara meluas, dan tahan lebih lama. Ini menjadikan palet warna yang lebih luas dapat diakses oleh lebih ramai artis dan industri, memecahkan monopoli sumber semula jadi yang jarang."
+      },
+      {
+        "id": "pigments_economics_4",
+        "type": "text",
+        "order": 4,
+        "data": "Hari ini, pigmen bukan sahaja penting untuk seni halus tetapi juga memacu industri global yang besar, termasuk tekstil, plastik, kosmetik, dan bahan binaan, menunjukkan bagaimana kemewahan yang dahulunya jarang menjadi asas ekonomi untuk pengeluaran besar-besaran."
+      }
+    ]
+  },
+  {
+    "id": "carmine_general",
+    "title": "Semua Tentang Carmine",
+    "content": [
+      {
+        "id": "carmine_general_video_1",
+        "type": "video",
+        "order": 1,
+        "data": {
+          "url": "https://www.youtube.com/watch?v=iBNySB2jpVg",
+          "title": "Mengapa Pepijat Kaktus Kecil Dalam Pewarna Makanan Merah Adalah Industri $35 Bilion | Perniagaan Besar | Business Insider"
+        }
+      },
+      {
+        "id": "carmine_1",
+        "type": "text",
+        "order": 2,
+        "data": "Carmine adalah pigmen merah yang berasal daripada serangga cochineal. Molekul pewarna aktif dalam carmine adalah asid carminic, yang memberikannya warna merah yang terang."
+      },
+      {
+        "id": "carmine_img_1",
+        "type": "image",
+        "order": 3,
+        "data": {
+          "url": "https://elmestenoranch.com/wp-content/uploads/2023/12/3-micrograph-of-cochineal-under-microscope-CMR-SharpenAI-Focus-scaled.jpg",
+          "alt": "Imej mikroskopik cochineal",
+          "caption": "Imej mikroskopik cochineal"
+        }
+      },
+      {
+        "id": "carmine_2",
+        "type": "markdown",
+        "order": 4,
+        "data": "Untuk menghasilkan [pigmen](/search/pigments), serangga dikeringkan, dihancurkan, dan dirawat dengan tawas untuk mengekstrak asid carminic dan menstabilkan warna."
+      },
+
+      {
+        "id": "carmine_3",
+        "type": "text",
+        "order": 5,
+        "data": "Carmine dibawa dari Mexico ke Eropah pada abad ke-16 dan dengan cepat menjadi sangat dihargai kerana warna merahnya yang kaya dan tahan lama. Ia dianggap sebagai simbol kekayaan dan digunakan dalam lukisan, tekstil, dan seni hiasan."
+      },
+      {
+        "id": "carmine_img_2",
+        "type": "image",
+        "order": 6,
+        "data": {
+          "url": "https://cdn.kastatic.org/ka-perseus-images/949aeafad7d13392970b8535c20b60d5f27f3835.svg",
+          "alt": "Laluan perdagangan Atlantik antara Afrika, Dunia Baru dan Eropah.",
+          "caption": "Laluan perdagangan Atlantik antara Afrika, Dunia Baru dan Eropah."
+        }
+      }
+    ]
+  },
+  {
+    "id": "carmine_ethics",
+    "title": "Etika dan Konservasi Carmine",
+    "content": [
+      {
+        "id": "carmine_ethics_1",
+        "type": "text",
+        "order": 1,
+        "data": "Carmine berasal daripada serangga cochineal, yang menimbulkan kebimbangan etika bagi mereka yang mengelakkan produk haiwan."
+      },
+      {
+        "id": "carmine_ethics_2",
+        "type": "text",
+        "order": 2,
+        "data": "Hari ini, banyak alternatif wujud, termasuk pigmen merah sintetik dan pewarna berasaskan tumbuhan, yang memberikan warna terang yang serupa tanpa menggunakan serangga."
+      },
+      {
+        "id": "carmine_ethics_3",
+        "type": "text",
+        "order": 3,
+        "data": "Memilih alternatif boleh membantu mengurangkan kebergantungan pada pigmen berasal haiwan sambil masih mengekalkan warna merah kaya yang secara tradisinya dikaitkan dengan carmine."
+      }
+    ]
+  },
+  {
+    "id": "carmine_history",
+    "title": "Carmine dalam Sejarah",
+    "content": [
+      {
+        "id": "carmine_history_1",
+        "type": "text",
+        "order": 1,
+        "data": "Carmine pertama kali dibangunkan oleh orang asli di Amerika Tengah dan Selatan, yang menemui bahawa serangga cochineal boleh menghasilkan pewarna merah yang kuat. Teknik mengeringkan, menghancurkan, dan memproses serangga untuk mengekstrak asid carminic telah disempurnakan sepanjang generasi, menjadikannya salah satu pewarna semula jadi yang paling berharga di dunia."
+      },
+      {
+        "id": "carmine_history_2",
+        "type": "text",
+        "order": 2,
+        "data": "Apabila penjajah Sepanyol tiba pada abad ke-16, mereka mengenali nilai carmine dan dengan cepat menjadikannya eksport utama. Ia dihantar ke Eropah bersama perak, dengan Sepanyol mengekalkan kawalan ketat ke atas pengeluaran dan perdagangannya selama berabad-abad. Carmine menjadi sangat dihargai sehingga kadang-kadang dirujuk sebagai 'emas merah.'"
+      },
+      {
+        "id": "carmine_history_3",
+        "type": "text",
+        "order": 3,
+        "data": "Pigmen itu mengubah seni dan budaya Eropah, muncul dalam pakaian diraja, manuskrip bercahaya, dan lukisan agama. Warnanya yang terang melambangkan kuasa dan kekayaan, dan artis menyukainya kerana kecerahan berbanding merah lain yang tersedia pada masa itu."
+      },
+      {
+        "id": "carmine_history_4",
+        "type": "text",
+        "order": 4,
+        "data": "Penyebaran global carmine menunjukkan bagaimana satu pigmen boleh menghubungkan benua dan membentuk ekonomi. Walaupun selepas alternatif sintetik dibangunkan, peranan sejarahnya kekal sebagai contoh yang mencolok tentang bagaimana seni, perdagangan, dan empayar saling berkaitan."
+      }
+    ]
+  },
+  {
+    "id": "malayan_tiger_general",
+    "title": "Tentang Harimau Malaya",
+    "content": [
+      {
+        "id": "malayan_tiger_general_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://www.mandai.com/content/dam/mandai/singapore-zoo/animals-zones/tigers/Masthead_220302SZG_E3A8327.jpg.transform/compress/resize1670/img.jpg",
+          "alt": "Harimau Malaya",
+          "caption": "Harimau Malaya (Panthera tigris jacksoni), berasal dari Semenanjung Tanah Melayu."
+        }
+      },
+      {
+        "id": "malayan_tiger_general_1",
+        "type": "text",
+        "order": 2,
+        "data": "Harimau Malaya adalah dalam keadaan kritikal terancam, dengan kurang daripada 200 individu yang tinggal di alam liar. Ia lebih kecil daripada harimau Bengal dan berasal dari hutan tropika Semenanjung Tanah Melayu."
+      },
+      {
+        "id": "malayan_tiger_general_2",
+        "type": "text",
+        "order": 3,
+        "data": "Harimau ini adalah pemangsa bersendirian yang mempunyai wilayah. Diet mereka terutamanya terdiri daripada ungulat seperti rusa dan babi hutan, tetapi mereka juga mungkin memburu mamalia kecil dan burung. Mereka bergantung pada pendekatan senyap dan kekuatan untuk menangkap mangsa."
+      },
+      {
+        "id": "malayan_tiger_general_3",
+        "type": "text",
+        "order": 4,
+        "data": "Harimau Malaya mendiami hutan tebal, sering berhampiran sungai dan kawasan berpaya. Kehilangan habitat akibat penebangan hutan dan pencerobohan manusia adalah ancaman utama kepada kelangsungan hidup mereka."
+      },
+      {
+        "id": "malayan_tiger_general_4",
+        "type": "text",
+        "order": 5,
+        "data": "Diiktiraf sebagai subspesies yang berbeza pada tahun 2004, harimau Malaya mempunyai perbezaan genetik daripada populasi harimau lain. Usaha pemuliharaan memberi tumpuan kepada anti-pemburuan haram, pemeliharaan habitat, dan kesedaran awam."
+      },
+      {
+        "id": "malayan_tiger_general_5",
+        "type": "text",
+        "order": 6,
+        "data": "Mereka berkomunikasi menggunakan penandaan bau, vokalisasi, dan isyarat visual. Auman, geraman, dan cakaran membantu mewujudkan wilayah, menyelaraskan pembiakan, dan memberi amaran kepada pesaing."
+      },
+
+      {
+        "id": "malayan_tiger_general_instagram_1",
+        "type": "instagram",
+        "order": 7,
+        "data": {
+          "url": "https://www.instagram.com/p/DMrXIW1PJxJ"
+        }
+      }
+    ]
+  },
+  {
+    "id": "malayan_tiger_general_kids",
+    "title": "Fakta Harimau Malaya!",
+    "content": [
+      {
+        "id": "malayan_tiger_general_kids_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://www.mandai.com/content/dam/mandai/singapore-zoo/animals-zones/tigers/Masthead_220302SZG_E3A8327.jpg.transform/compress/resize1670/img.jpg",
+          "alt": "Harimau Malaya",
+          "caption": "Harimau Malaya (Panthera tigris jacksoni), berasal dari Semenanjung Tanah Melayu."
+        }
+      },
+      {
+        "id": "malayan_tiger_general_kids_1",
+        "type": "text",
+        "order": 2,
+        "data": "Harimau Malaya sangat jarang, dengan kurang daripada 200 yang tinggal di alam liar. Mereka lebih kecil daripada harimau Bengal dan hidup di dalam hutan hijau yang panas di Semenanjung Tanah Melayu."
+      },
+      {
+        "id": "malayan_tiger_general_kids_2",
+        "type": "text",
+        "order": 3,
+        "data": "Harimau ini suka hidup bersendirian. Mereka makan haiwan seperti rusa dan babi hutan, dan kadang-kadang makhluk yang lebih kecil. Mereka adalah pemburu yang licik dan kuat."
+      },
+      {
+        "id": "malayan_tiger_general_kids_3",
+        "type": "text",
+        "order": 4,
+        "data": "Harimau Malaya hidup di dalam hutan tebal dan kadang-kadang berhampiran sungai. Menebang pokok dan orang berpindah ke rumah mereka menyukarkan mereka untuk hidup."
+      },
+      {
+        "id": "malayan_tiger_general_kids_4",
+        "type": "text",
+        "order": 5,
+        "data": "Saintis mengetahui pada tahun 2004 bahawa harimau Malaya adalah jenis harimau yang istimewa. Orang membantu melindungi mereka dengan menghentikan pemburu, menyelamatkan hutan, dan mengajar semua orang tentang haiwan yang menakjubkan ini."
+      },
+      {
+        "id": "malayan_tiger_general_kids_5",
+        "type": "text",
+        "order": 6,
+        "data": "Harimau bercakap antara satu sama lain dengan cara mereka sendiri. Mereka meninggalkan bau, mengaum, menggeram dan mencakar tanah untuk menanda tempat mereka tinggal dan memberi amaran kepada harimau lain untuk menjauh."
+      },
+      {
+        "id": "malayan_tiger_general_kids_instagram_1",
+        "type": "instagram",
+        "order": 7,
+        "data": {
+          "url": "https://www.instagram.com/p/DMrXIW1PJxJ"
+        }
+      }
+    ]
+  },
+  {
+    "id": "malayan_tiger_story_birth",
+    "title": "Kelahiran Harimau",
+    "content": [
+      {
+        "id": "malayan_tiger_story_birth_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvDWlkU8NJmviHAtI1ZQtHIJ-oq_MYO8A9Ng&s",
+          "alt": "Anak Harimau Malaya",
+          "caption": "Anak Harimau Malaya"
+        }
+      },
+      {
+        "id": "malayan_tiger_story_birth_1",
+        "type": "text",
+        "order": 2,
+        "data": "Di dalam sarang yang sunyi jauh di dalam hutan Semenanjung Tanah Melayu, seekor ibu harimau Malaya melahirkan anak-anaknya. Dia biasanya mempunyai dua hingga tiga pada satu masa, walaupun tidak semua akan bertahan menghadapi realiti keras alam liar."
+      },
+      {
+        "id": "malayan_tiger_story_birth_2",
+        "type": "text",
+        "order": 3,
+        "data": "Semasa dilahirkan, anak-anak harimau adalah buta, dengan berat hanya kira-kira satu kilogram setiap satu. Mereka bergantung sepenuhnya kepada kehangatan dan susu ibu mereka untuk bertahan dalam minggu-minggu pertama yang rapuh."
+      },
+      {
+        "id": "malayan_tiger_story_birth_3",
+        "type": "text",
+        "order": 4,
+        "data": "Sarang dipilih dengan teliti di tempat tersembunyi, seperti tumbuhan tebal, gua, atau batang kayu berongga. Ibu jarang meninggalkan pada masa ini, keluar hanya untuk memburu apabila benar-benar perlu."
+      },
+      {
+        "id": "malayan_tiger_story_birth_4",
+        "type": "text",
+        "order": 5,
+        "data": "Menjelang minggu kedua, mata anak-anak harimau terbuka, mendedahkan pandangan pertama mereka tentang dunia. Bulu berjalur mereka, yang unik kepada setiap individu, mula membantu mereka bercampur dengan bayang-bayang hutan."
+      },
+      {
+        "id": "malayan_tiger_story_birth_5",
+        "type": "text",
+        "order": 6,
+        "data": "Bermain menjadi bahagian penting dalam kehidupan awal mereka. Bergusti dengan adik-beradik dan melatih geraman kecil bukan hanya untuk keseronokan — ia adalah latihan untuk kemahiran yang mereka perlukan kemudian."
+      },
+      {
+        "id": "malayan_tiger_story_birth_6",
+        "type": "text",
+        "order": 7,
+        "data": "Kelangsungan hidup tidak pasti. Sesetengah anak mungkin hilang akibat penyakit, kelaparan, atau pemangsa. Tetapi mereka yang bertahan dalam beberapa bulan pertama mempunyai peluang untuk membesar menjadi salah satu pemangsa teratas di hutan."
+      }
+    ]
+  },
+  {
+    "id": "malayan_tiger_story_learning",
+    "title": "Belajar Memburu",
+    "content": [
+      {
+        "id": "malayan_tiger_story_learning_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7EJ5HwCkweROXQ3KOMC8CUMG80Z0g1-dhqw&s",
+          "alt": "Anak Harimau Malaya Muda Memburu",
+          "caption": "Anak Harimau Malaya Muda Memburu"
+        }
+      },
+      {
+        "id": "malayan_tiger_story_learning_1",
+        "type": "text",
+        "order": 2,
+        "data": "Menjelang usia enam bulan, anak harimau Malaya mula meninggalkan sarang bersama ibu mereka. Hutan, dengan pokok tebal, sungai, dan semak belukar, menjadi bilik darjah mereka."
+      },
+      {
+        "id": "malayan_tiger_story_learning_2",
+        "type": "text",
+        "order": 3,
+        "data": "Anak-anak belajar dengan memerhatikan. Ibu mereka mengintai dengan senyap, bergerak rendah ke tanah dengan kesabaran yang luar biasa, menunggu saat yang tepat untuk menyerang mangsa seperti rusa atau babi hutan."
+      },
+      {
+        "id": "malayan_tiger_story_learning_3",
+        "type": "text",
+        "order": 4,
+        "data": "Bermain berubah menjadi latihan. Anak-anak melompat ke atas daun, bergusti antara satu sama lain, dan mengejar bayang-bayang — setiap aktiviti menguatkan otot mereka dan mengasah refleks mereka."
+      },
+      {
+        "id": "malayan_tiger_story_learning_4",
+        "type": "text",
+        "order": 5,
+        "data": "Diet mereka mula berubah. Pada mulanya, mereka terus menyusu, tetapi ketika gigi tumbuh, ibu membawa balik kepingan daging, membolehkan mereka merasa apa yang akan mereka buru sendiri suatu hari nanti."
+      },
+      {
+        "id": "malayan_tiger_story_learning_5",
+        "type": "text",
+        "order": 6,
+        "data": "Kegagalan adalah perkara biasa. Anak-anak sering terlepas sasaran mereka, mengejutkan mangsa terlalu awal. Tetapi setiap percubaan yang gagal adalah pelajaran dalam kesunyian, kesabaran, dan masa yang tepat."
+      },
+      {
+        "id": "malayan_tiger_story_learning_6",
+        "type": "text",
+        "order": 7,
+        "data": "Menjelang usia dua tahun, anak-anak telah mengembangkan ketangkasan, pendekatan senyap, dan kekuatan yang diperlukan untuk hidup bersendirian. Pada peringkat ini, mereka memulakan peralihan daripada anak yang suka bermain kepada pemburu bebas."
+      }
+    ]
+  },
+  {
+    "id": "malayan_tiger_story_territory",
+    "title": "Menuntut Wilayah",
+    "content": [
+      {
+        "id": "malayan_tiger_story_territory_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10531-024-02799-9/MediaObjects/10531_2024_2799_Fig1_HTML.png?as=webp",
+          "alt": "Koridor hidupan liar, jalan raya utama, dan lokasi sampel harimau. Lokasi sampel termasuk sampel lama yang didermakan kepada kajian ini dan sampel baru yang dikumpul semasa tinjauan lapangan",
+          "caption": "Koridor hidupan liar, jalan raya utama, dan lokasi sampel harimau. Lokasi sampel termasuk sampel lama yang didermakan kepada kajian ini dan sampel baru yang dikumpul semasa tinjauan lapangan"
+        }
+      },
+      {
+        "id": "malayan_tiger_story_territory_1",
+        "type": "text",
+        "order": 2,
+        "data": "Apabila harimau Malaya muda tumbuh menjadi bebas, hutan bukan lagi hanya tempat bermain — ia menjadi tanah untuk dituntut. Setiap harimau mesti mencari wilayah untuk bertahan."
+      },
+      {
+        "id": "malayan_tiger_story_territory_2",
+        "type": "text",
+        "order": 3,
+        "data": "Jantan biasanya memerlukan wilayah yang lebih besar daripada betina, kadang-kadang merentang lebih 100 kilometer persegi. Kawasan ini menyediakan ruang dan mangsa yang diperlukan untuk menyokong kehidupan bersendirian mereka."
+      },
+      {
+        "id": "malayan_tiger_story_territory_3",
+        "type": "text",
+        "order": 4,
+        "data": "Untuk menanda wilayah mereka, harimau Malaya menggunakan bau. Mereka menyembur air kencing, mencakar kulit pokok, dan meninggalkan tanda bau yang memberitahu harimau lain, 'Ruang ini telah diambil.'"
+      },
+      {
+        "id": "malayan_tiger_story_territory_4",
+        "type": "text",
+        "order": 5,
+        "data": "Konflik adalah berbahaya. Apabila dua harimau bersilang jalan, mereka mungkin mengaum, menggeram, atau terlibat dalam pertarungan sengit untuk mempertahankan tanah mereka."
+      },
+      {
+        "id": "malayan_tiger_story_territory_5",
+        "type": "text",
+        "order": 6,
+        "data": "Wilayah bukan hanya tentang ruang — ia tentang kelangsungan hidup. Kawasan yang sihat bermakna rusa, babi hutan, dan sumber air yang mencukupi untuk mengekalkan harimau."
+      },
+      {
+        "id": "malayan_tiger_story_territory_6",
+        "type": "text",
+        "order": 7,
+        "data": "Kehilangan wilayah sering bermakna kelaparan, memaksa sesetengah harimau merayau lebih dekat ke kampung atau ladang — laluan berbahaya yang membawa kepada konflik dengan manusia."
+      }
+    ]
+  },
+  {
+    "id": "malayan_tiger_story_survival",
+    "title": "Kelangsungan Hidup di Alam Liar",
+    "content": [
+      {
+        "id": "malayan_tiger_story_survival_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL2dldHR5aW1hZ2VzLTY2NzcyNjY1NC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIxMjAwIn19fQ==",
+          "alt": "Harimau Malaya berkeliaran di alam liar",
+          "caption": "Harimau Malaya berkeliaran di alam liar"
+        }
+      },
+      {
+        "id": "malayan_tiger_story_survival_1",
+        "type": "text",
+        "order": 2,
+        "data": "Kehidupan sebagai harimau Malaya tidak pernah mudah. Walaupun sebagai pemburu mahir, harimau menghadapi cabaran berterusan dalam mencari makanan dan keselamatan."
+      },
+      {
+        "id": "malayan_tiger_story_survival_2",
+        "type": "text",
+        "order": 3,
+        "data": "Haiwan mangsa adalah berwaspada dan pantas. Harimau mesti menghampiri dengan senyap, menggunakan bayang-bayang hutan dan kesabaran untuk berada dalam jarak serang."
+      },
+      {
+        "id": "malayan_tiger_story_survival_3",
+        "type": "text",
+        "order": 4,
+        "data": "Buruan sering gagal — sebanyak 9 daripada 10 percubaan berakhir tanpa tangkapan. Satu hidangan boleh mengambil masa berhari-hari."
+      },
+      {
+        "id": "malayan_tiger_story_survival_4",
+        "type": "text",
+        "order": 5,
+        "data": "Berenang melintasi sungai adalah kemahiran lain. Harimau Malaya adalah perenang yang kuat, kadang-kadang menyeberangi air untuk mengejar mangsa atau mencapai kawasan memburu baru."
+      },
+      {
+        "id": "malayan_tiger_story_survival_5",
+        "type": "text",
+        "order": 6,
+        "data": "Setiap bunyi penting. Patah dahan, panggilan burung, atau gemerisik daun boleh memberi amaran kepada rusa dan menamatkan buruan."
+      },
+      {
+        "id": "malayan_tiger_story_survival_6",
+        "type": "text",
+        "order": 7,
+        "data": "Tetapi apabila berjaya, harimau boleh menjatuhkan mangsa yang banyak kali lebih besar daripada saiznya, makan selama beberapa hari dan memastikan kelangsungan hidupnya di dalam hutan hujan tebal."
+      }
+    ]
+  },
+  {
+    "id": "malayan_tiger_story_threats",
+    "title": "Bahaya & Ancaman",
+    "content": [
+      {
+        "id": "malayan_tiger_story_threats_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx3l4PfA4zstWgxC2uIiK3WGAb6r-O-W8HLg&s",
+          "alt": "Cetakan Memburu Harimau di Tanah Melayu, 1911",
+          "caption": "Cetakan Memburu Harimau di Tanah Melayu, 1911"
+        }
+      },
+      {
+        "id": "malayan_tiger_story_threats_1",
+        "type": "text",
+        "order": 2,
+        "data": "Bagi harimau Malaya, bahaya terbesar bukan datang dari alam semula jadi — ia datang dari manusia."
+      },
+      {
+        "id": "malayan_tiger_story_threats_2",
+        "type": "text",
+        "order": 3,
+        "data": "Penebangan hutan untuk pertanian dan ladang kelapa sawit mengurangkan rumah hutan yang mereka bergantung, memecahkan wilayah mereka kepada kawasan yang lebih kecil dan terpencil."
+      },
+      {
+        "id": "malayan_tiger_story_threats_3",
+        "type": "text",
+        "order": 4,
+        "data": "Pemburu haram memburu harimau untuk kulit dan bahagian badan mereka, yang dijual secara haram walaupun terdapat larangan antarabangsa."
+      },
+      {
+        "id": "malayan_tiger_story_threats_4",
+        "type": "text",
+        "order": 5,
+        "data": "Apabila haiwan mangsa berkurangan akibat pemburuan atau kehilangan habitat, harimau mungkin terpaksa mencari makanan berhampiran kampung, membawa kepada pertemuan berbahaya dengan manusia."
+      },
+      {
+        "id": "malayan_tiger_story_threats_5",
+        "type": "text",
+        "order": 6,
+        "data": "Setiap harimau yang hilang melemahkan ekosistem, kerana pemangsa yang lebih sedikit bermakna populasi rusa dan babi hutan membesar tanpa kawalan, merosakkan keseimbangan hutan."
+      },
+      {
+        "id": "malayan_tiger_story_threats_6",
+        "type": "text",
+        "order": 7,
+        "data": "Hari ini, dianggarkan kurang daripada 150 harimau Malaya yang tinggal di alam liar, menjadikan mereka salah satu subspesies harimau yang paling terancam."
+      }
+    ]
+  },
+  {
+    "id": "malayan_tiger_story_future",
+    "title": "Harapan untuk Masa Depan",
+    "content": [
+      {
+        "id": "malayan_tiger_story_future_1",
+        "type": "text",
+        "order": 1,
+        "data": "Walaupun terdapat bahaya, usaha sedang dilakukan untuk melindungi harimau Malaya dan memberi mereka peluang untuk terus hidup."
+      },
+      {
+        "id": "malayan_tiger_story_future_2",
+        "type": "text",
+        "order": 2,
+        "data": "Kawasan perlindungan dan taman negara di seluruh Malaysia menyediakan ruang selamat di mana harimau boleh berkeliaran tanpa ancaman pemburuan haram."
+      },
+      {
+        "id": "malayan_tiger_story_future_3",
+        "type": "markdown",
+        "order": 3,
+        "data": "Kumpulan [pemuliharaan](/search/malayan_tiger_conservation) bekerja dengan komuniti tempatan untuk mengurangkan konflik manusia-hidupan liar, mengajar cara untuk melindungi ternakan tanpa membahayakan harimau."
+      },
+      {
+        "id": "malayan_tiger_story_future_4",
+        "type": "text",
+        "order": 4,
+        "data": "Rondaan anti-pemburuan haram semakin meningkat, dengan renjer memantau hutan dan menghapuskan jerat yang boleh memerangkap harimau atau mangsa mereka."
+      },
+      {
+        "id": "malayan_tiger_story_future_5",
+        "type": "text",
+        "order": 5,
+        "data": "Saintis menjejaki pergerakan harimau menggunakan perangkap kamera dan kolar GPS, mengumpul maklumat penting untuk membimbing strategi pemuliharaan."
+      },
+      {
+        "id": "malayan_tiger_story_future_6",
+        "type": "text",
+        "order": 6,
+        "data": "Masa depan harimau Malaya bergantung kepada manusia — pada undang-undang, perlindungan, dan penjagaan terhadap hutan. Dengan usaha berterusan, auman harimau mungkin masih bergema melalui hutan Malaysia untuk generasi akan datang."
+      }
+    ]
+  },
+  {
+    "id": "tiger_populations_general",
+    "title": "Populasi Harimau di Seluruh Dunia",
+    "content": [
+      {
+        "id": "tiger_populations_general_1",
+        "type": "text",
+        "order": 1,
+        "data": "Seabad yang lalu, harimau hidup di sebahagian besar Asia, dengan anggaran populasi lebih 100,000 individu. Hari ini, kurang daripada 4,000 yang tinggal di alam liar."
+      },
+      {
+        "id": "tiger_populations_general_2",
+        "type": "text",
+        "order": 2,
+        "data": "Populasi terbesar yang tinggal adalah harimau Bengal, yang terdapat di India, Nepal, Bhutan, dan Bangladesh. Subspesies ini membentuk lebih separuh daripada semua harimau liar hari ini."
+      },
+      {
+        "id": "tiger_populations_general_3",
+        "type": "text",
+        "order": 3,
+        "data": "Subspesies lain yang masih hidup termasuk harimau Amur (atau Siberia) di Rusia dan timur laut China, harimau Indochina di Asia Tenggara, harimau Malaya di Semenanjung Malaysia, dan harimau Sumatra di Indonesia."
+      },
+      {
+        "id": "tiger_populations_general_4",
+        "type": "text",
+        "order": 4,
+        "data": "Tiga subspesies — harimau Caspian, harimau Jawa, dan harimau Bali — telah pupus pada abad ke-20 akibat pemburuan dan pemusnahan habitat."
+      },
+      {
+        "id": "tiger_populations_general_5",
+        "type": "text",
+        "order": 5,
+        "data": "Harimau kini hanya terdapat di kira-kira 5% daripada julat sejarah mereka, kebanyakannya di kawasan simpanan perlindungan, taman negara, dan kawasan hutan terpencil."
+      },
+      {
+        "id": "tiger_populations_general_6",
+        "type": "text",
+        "order": 6,
+        "data": "Inisiatif pemuliharaan global seperti Program Pemulihan Harimau Global bertujuan untuk menggandakan jumlah harimau liar dengan mewujudkan habitat selamat, mengurangkan pemburuan haram, dan menyokong komuniti tempatan."
+      },
+      {
+        "id": "tiger_populations_general_img_1",
+        "type": "image",
+        "order": 7,
+        "data": {
+          "url": "https://www.wildcatfamily.com/wp-content/uploads/2018/05/il_570xN.1362847858_8m241.jpg",
+          "alt": "Harimau di dunia",
+          "caption": "Harimau di dunia"
+        }
+      }
+    ]
+  },
+  {
+    "id": "malayan_tiger_conservation_habitat",
+    "title": "Perlindungan Habitat",
+    "content": [
+      {
+        "id": "malayan_tiger_conservation_habitat_1",
+        "type": "text",
+        "order": 1,
+        "data": "Melindungi hutan Semenanjung Tanah Melayu adalah penting untuk kelangsungan hidup harimau Malaya. Hutan yang sihat menyediakan makanan, tempat perlindungan, dan kawasan selamat untuk membesarkan anak."
+      },
+      {
+        "id": "malayan_tiger_conservation_habitat_2",
+        "type": "text",
+        "order": 2,
+        "data": "Kawasan pemuliharaan dan taman negara mengehadkan penebangan hutan dan pembangunan, memberikan harimau rumah yang selamat di mana mereka boleh memburu dan membiak."
+      },
+      {
+        "id": "malayan_tiger_conservation_habitat_3",
+        "type": "text",
+        "order": 3,
+        "data": "Koridor hidupan liar menghubungkan kawasan hutan yang terpencil, membolehkan harimau bergerak dengan selamat antara wilayah dan mengekalkan kepelbagaian genetik."
+      },
+      {
+        "id": "malayan_tiger_conservation_habitat_4",
+        "type": "text",
+        "order": 4,
+        "data": "Projek penghutanan semula memulihkan tanah yang terdegradasi, mewujudkan habitat baru untuk spesies mangsa, yang menyokong populasi harimau yang stabil."
+      },
+      {
+        "id": "malayan_tiger_conservation_habitat_5",
+        "type": "text",
+        "order": 5,
+        "data": "Saintis memantau kesihatan hutan menggunakan dron dan pengimejan satelit untuk mengesan pembalakan haram atau kerosakan habitat lebih awal."
+      }
+    ]
+  },
+  {
+    "id": "malayan_tiger_conservation_anti_poaching",
+    "title": "Anti-Pemburuan Haram dan Penyelidikan",
+    "content": [
+      {
+        "id": "malayan_tiger_conservation_anti_poaching_1",
+        "type": "text",
+        "order": 1,
+        "data": "Pemburuan haram adalah ancaman utama kepada harimau Malaya. Renjer menjalankan rondaan berkala untuk menghapuskan perangkap dan menangkap pemburu haram."
+      },
+      {
+        "id": "malayan_tiger_conservation_anti_poaching_2",
+        "type": "text",
+        "order": 2,
+        "data": "Perangkap kamera dan kolar GPS membantu penyelidik menjejaki pergerakan harimau, memahami tingkah laku mereka, dan mengenal pasti kawasan berisiko pemburuan haram."
+      },
+      {
+        "id": "malayan_tiger_conservation_anti_poaching_3",
+        "type": "text",
+        "order": 3,
+        "data": "Kajian genetik harimau membantu saintis mengekalkan kepelbagaian genetik dan mencegah pembiakan sekeluarga dalam populasi kecil."
+      },
+      {
+        "id": "malayan_tiger_conservation_anti_poaching_4",
+        "type": "text",
+        "order": 4,
+        "data": "Program penglibatan komuniti mengajar orang tempatan cara mengurangkan konflik dengan harimau dan mendapat manfaat daripada usaha pemuliharaan."
+      },
+      {
+        "id": "malayan_tiger_conservation_anti_poaching_5",
+        "type": "text",
+        "order": 5,
+        "data": "Kerjasama antarabangsa memastikan pembiayaan, pertukaran pengetahuan, dan tindakan terkoordinasi untuk melindungi harimau Malaya merentasi sempadan."
+      }
+    ]
+  },
+  {
+    "id": "malayan_tiger_conservation_awareness",
+    "title": "Kesedaran dan Pendidikan Awam",
+    "content": [
+      {
+        "id": "malayan_tiger_conservation_awareness_1",
+        "type": "text",
+        "order": 1,
+        "data": "Meningkatkan kesedaran tentang harimau Malaya membantu orang memahami kepentingan pemuliharaan dan bagaimana tindakan manusia mempengaruhi hidupan liar."
+      },
+      {
+        "id": "malayan_tiger_conservation_awareness_2",
+        "type": "text",
+        "order": 2,
+        "data": "Program pendidikan di sekolah mengajar kanak-kanak tentang habitat harimau, tingkah laku, dan ancaman yang mereka hadapi, memberi inspirasi kepada penjaga alam masa depan."
+      },
+      {
+        "id": "malayan_tiger_conservation_awareness_3",
+        "type": "text",
+        "order": 3,
+        "data": "Kempen media menggunakan media sosial, video, dan poster menyerlahkan status kritikal harimau Malaya dan menggalakkan sokongan awam."
+      },
+      {
+        "id": "malayan_tiger_conservation_awareness_4",
+        "type": "text",
+        "order": 4,
+        "data": "Program zoo dan taman hidupan liar membolehkan orang memerhatikan harimau Malaya dengan selamat, membantu mereka berhubung secara emosi dengan spesies ini dan mengambil berat tentang kelangsungan hidupnya."
+      },
+      {
+        "id": "malayan_tiger_conservation_awareness_5",
+        "type": "text",
+        "order": 5,
+        "data": "Bengkel dan ceramah komuniti mendidik penduduk tempatan tentang cara mengurangkan konflik dengan harimau dan mengambil bahagian dalam aktiviti pemuliharaan."
+      },
+      {
+        "id": "malayan_tiger_conservation_awareness_6",
+        "type": "text",
+        "order": 6,
+        "data": "Bekerjasama dengan influencer dan organisasi alam sekitar meningkatkan jangkauan mesej pemuliharaan kepada khalayak yang lebih luas."
+      }
+    ]
+  },
+  {
+    "id": "ants_sugars_factsheet",
+    "title": "Gula dan Nektar dalam Diet Semut",
+    "content": [
+      {
+        "id": "sugars_factsheet_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Nectar.jpg",
+          "alt": "Nektar dari bunga",
+          "caption": "Nektar dari bunga"
+        }
+      },
+      {
+        "id": "sugars_factsheet_1",
+        "type": "text",
+        "order": 2,
+        "data": "Nektar adalah sumber karbohidrat utama untuk banyak semut, sering dikumpul terus dari bunga menggunakan bahagian mulut khusus. Kepekatan gula boleh berbeza-beza bergantung kepada spesies tumbuhan, masa hari, dan keadaan persekitaran."
+      },
+      {
+        "id": "sugars_factsheet_2",
+        "type": "text",
+        "order": 3,
+        "data": "Embun madu adalah rembesan bergula yang dihasilkan oleh aphid dan hemipteran lain. Semut sering melindungi serangga ini sebagai pertukaran untuk bekalan embun madu yang stabil, membentuk hubungan mutualistik."
+      },
+      {
+        "id": "sugars_factsheet_3",
+        "type": "text",
+        "order": 4,
+        "data": "Makanan kaya karbohidrat adalah penting bukan sahaja untuk tenaga individu tetapi juga untuk tugas seluruh koloni, seperti penjagaan anak, penyelenggaraan sarang, dan mencari makanan jarak jauh."
+      },
+      {
+        "id": "sugars_factsheet_4",
+        "type": "text",
+        "order": 5,
+        "data": "Semut mungkin membentuk jejak mencari makanan yang sangat teratur untuk memaksimumkan kecekapan pengumpulan makanan bergula, sering menggunakan penanda feromon untuk membimbing ahli sarang ke sumber yang kaya."
+      }
+    ]
+  }
+]
+

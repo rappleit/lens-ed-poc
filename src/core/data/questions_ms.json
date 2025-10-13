@@ -1,0 +1,222 @@
+[
+  {
+    "id": "why_do_ants_build_colonies",
+    "question": "Mengapa semut membina koloni?",
+    "answers": ["Untuk bertahan secara kolektif, mengumpul makanan, dan melindungi koloni."]
+  },
+  {
+    "id": "how_do_ants_find_food",
+    "question": "Bagaimana semut mencari makanan mereka?",
+    "answers": ["Mereka menggunakan jejak feromon dan tingkah laku pengintipan."]
+  },
+  {
+    "id": "why_do_ants_farm_fungi",
+    "question": "Mengapa sesetengah semut mengusahakan kulat?",
+    "answers": ["Semut pemotong daun mengusahakan kulat sebagai sumber makanan yang mampan."]
+  },
+  {
+    "id": "where_do_ants_build_nests",
+    "question": "Di mana semut membina sarang?",
+    "answers": ["Di bawah tanah, di pokok, atau di dalam struktur manusia bergantung kepada spesies."]
+  },
+  {
+    "id": "what_is_formic_acid",
+    "question": "Apakah asid formik?",
+    "answers": ["Bahan kimia yang digunakan oleh semut untuk pertahanan dan komunikasi."]
+  },
+  {
+    "id": "how_do_ants_recognize_each_other",
+    "question": "Bagaimana semut mengenali antara satu sama lain?",
+    "answers": ["Melalui hidrokarbon kutikular pada eksoskeleton mereka."]
+  },
+  {
+    "id": "how_do_ants_use_chemical_signals",
+    "question": "Bagaimana semut menggunakan isyarat kimia?",
+    "answers": ["Semut menggunakan feromon untuk menanda jejak, menyampaikan bahaya, mengenali ahli koloni, dan menyelaraskan aktiviti kumpulan."]
+  },
+  {
+    "id": "what_chemicals_do_ants_produce",
+    "question": "Bahan kimia apa yang dihasilkan semut?",
+    "answers": ["Semut menghasilkan asid formik untuk pertahanan, pelbagai feromon untuk komunikasi, dan hidrokarbon kutikular untuk pengenalan."]
+  },
+  {
+    "id": "why_is_formic_acid_effective",
+    "question": "Mengapa asid formik berkesan sebagai mekanisme pertahanan?",
+    "answers": ["Asid formik boleh menyebabkan kesakitan dan kerosakan tisu kepada pemangsa, dan sifat meruapnya membolehkannya disembur dengan tepat ke arah ancaman."]
+  },
+  {
+    "id": "how_do_ants_construct_buildings",
+    "question": "Bagaimana semut membina struktur seni bina mereka?",
+    "answers": ["Semut menggunakan kerja berpasukan yang terkoordinasi, mengikuti peraturan mudah yang menghasilkan struktur kompleks seperti sistem pengudaraan, nurseri, dan ruang simpanan makanan."]
+  },
+  {
+    "id": "what_engineering_principles_do_ants_use",
+    "question": "Apakah prinsip kejuruteraan yang digunakan semut?",
+    "answers": ["Semut mengaplikasikan prinsip pengoptimuman struktur, pengagihan beban, reka bentuk pengudaraan, dan pembinaan modular dalam pembinaan sarang mereka."]
+  },
+  {
+    "id": "how_do_ants_detect_food_chemically",
+    "question": "Bagaimana semut mengesan makanan menggunakan sensor kimia?",
+    "answers": ["Semut menggunakan kemoreseptor khusus untuk menganalisis komposisi molekul sumber makanan yang berpotensi, membezakan antara gula, protein, dan lipid secara masa nyata."]
+  },
+  {
+    "id": "what_digestive_enzymes_do_ants_have",
+    "question": "Apakah enzim pencernaan yang digunakan semut untuk memproses makanan?",
+    "answers": ["Semut menghasilkan enzim khusus seperti selulase untuk memecahkan bahan tumbuhan, protease untuk mencerna protein, dan lipase untuk memproses lemak, dengan spesies yang berbeza mempunyai profil enzimatik yang unik."]
+  },
+  {
+    "id": "how_do_pheromone_trails_convey_food_information",
+    "question": "Bagaimana jejak feromon menyampaikan maklumat tentang kualiti makanan?",
+    "answers": ["Komposisi kimia jejak feromon berbeza berdasarkan nilai pemakanan dan jenis makanan yang ditemui, membolehkan ahli koloni menilai kualiti makanan sebelum melawat sumber tersebut."]
+  },
+  {
+    "id": "how_do_ants_practice_agriculture",
+    "question": "Bagaimana semut mengamalkan pertanian?",
+    "answers": ["Semut mengamalkan pertanian melalui penanaman kulat, pengembalaan aphid untuk pengeluaran embun madu, penuaian dan penyimpanan benih, dan mengekalkan ruang taman khusus dengan keadaan pertumbuhan yang optimum."]
+  },
+  {
+    "id": "what_crops_do_ants_cultivate",
+    "question": "Apakah tanaman yang diusahakan semut?",
+    "answers": ["Semut pemotong daun mengusahakan spesies kulat tertentu sebagai sumber makanan utama mereka, manakala spesies lain menanam alga, menyelenggara taman kulat, atau mengekalkan simpanan benih pelbagai spesies tumbuhan."]
+  },
+  {
+    "id": "how_do_ants_manage_livestock",
+    "question": "Bagaimana semut menguruskan ternakan?",
+    "answers": ["Semut menggembala aphid, serangga sisik, dan serangga penghasil embun madu lain, melindungi mereka daripada pemangsa, memindahkan mereka ke tapak pemberian makanan yang segar, dan malah menyimpan telur mereka di sarang semasa musim sejuk."]
+  },
+  {
+    "id": "how_do_ants_perform_surgery",
+    "question": "Teknik pembedahan apa yang boleh saya pelajari daripada memerhatikan semut?",
+    "answers": ["Sebagai doktor, saya kagum dengan ketepatan debridemen luka mereka, teknik amputasi tegas mereka untuk mencegah sepsis, dan bagaimana mereka menggunakan mandibles mereka sebagai instrumen pembedahan yang steril. Penjagaan pasca operasi dan pencegahan jangkitan mereka boleh memaklumkan protokol pembedahan manusia."]
+  },
+  {
+    "id": "what_medicines_do_ants_produce",
+    "question": "Apakah sebatian farmaseutikal yang perlu saya kaji dari koloni semut?",
+    "answers": ["Penyelidikan saya memberi tumpuan kepada pengeluaran asid formik mereka sebagai antiseptik spektrum luas, peptida antimikrob yang dirembeskan mereka, dan keupayaan luar biasa mereka untuk mengenal pasti dan menggunakan tumbuhan ubatan. Sebatian semula jadi ini boleh membawa kepada rawatan terobosan untuk jangkitan yang tahan antibiotik."]
+  },
+  {
+    "id": "how_do_ants_prevent_disease",
+    "question": "Apakah strategi kesihatan awam yang boleh saya terima daripada koloni semut?",
+    "answers": ["Protokol kuarantin mereka adalah contoh teladan - pengasingan segera individu yang dijangkiti, penyingkiran mayat dengan cepat untuk mencegah pencemaran, pensterilan persekitaran menggunakan disinfektan kimia, dan mengekalkan zon steril. Strategi ini boleh merevolusikan kawalan jangkitan hospital."]
+  },
+  {
+    "id": "why_are_ants_so_strong",
+    "question": "Mengapa semut sangat kuat?",
+    "answers": ["Semut seperti binaragawan kecil! Otot mereka sangat besar berbanding badan kecil mereka, seperti bagaimana tikus mempunyai otot yang lebih kuat daripada gajah untuk saiznya. Ia seperti jika anda sebesar semut, anda boleh mengangkat bas sekolah di atas kepala anda!"]
+  },
+  {
+    "id": "do_ants_have_friends",
+    "question": "Adakah semut mempunyai kawan baik seperti saya?",
+    "answers": ["Semut adalah seperti satu keluarga besar yang gembira! Mereka semua hidup bersama dan membantu antara satu sama lain setiap hari. Mereka berkongsi makanan, menjaga antara satu sama lain apabila mereka cedera, dan bekerja bersama seperti pasukan kawan terbaik. Mereka malah mempunyai pelukan khas dengan menyentuh antena mereka!"]
+  },
+  {
+    "id": "what_do_baby_ants_look_like",
+    "question": "Bagaimana rupa anak semut? Adakah mereka kecil dan comel?",
+    "answers": ["Anak semut kelihatan seperti cacing putih kecil pada mulanya - seperti marshmallow mini! Kemudian mereka membungkus diri mereka dalam selimut yang selesa dipanggil kepompong, sama seperti ulat menjadi rama-rama. Apabila mereka keluar, mereka adalah semut kecil yang sempurna sedia untuk menyertai keluarga mereka!"]
+  },
+  {
+    "id": "how_do_paintings_last",
+    "question": "Bagaimana lukisan bertahan beratus tahun?",
+    "answers": ["Lukisan bertahan lama apabila artis menggunakan bahan yang tahan lama dan apabila karya seni disimpan atau dipamerkan dalam keadaan selamat. Salutan pelindung seperti varnis, pigmen yang stabil, dan persekitaran terkawal dengan kelembapan rendah dan cahaya matahari terhad membantu memelihara mereka selama berabad-abad."]
+  },
+  {
+    "id": "what_materials_make_paint",
+    "question": "Apakah bahan yang digunakan untuk membuat cat?",
+    "answers": ["Cat biasanya dibuat daripada pigmen (serbuk pewarna), pengikat yang memegang pigmen bersama, dan pelarut yang membantu menyebarkan cat. Contoh biasa termasuk cat minyak (pigmen + minyak biji rami), cat air (pigmen + gam arab + air), dan akrilik (pigmen + polimer akrilik)."]
+  },
+  {
+    "id": "why_do_colors_fade",
+    "question": "Mengapa warna pudar?",
+    "answers": ["Warna pudar apabila cahaya, udara, atau kelembapan memecahkan pigmen dalam cat. Cahaya matahari, terutamanya cahaya ultraviolet, boleh menyebabkan perubahan kimia yang membuat warna kehilangan kecerahan dari masa ke masa. Menggunakan pigmen yang stabil dan melindungi lukisan daripada cahaya langsung membantu mencegah pudar."]
+  },
+  {
+    "id": "stable_vs_unstable_pigments",
+    "question": "Pigmen mana yang stabil berbanding tidak stabil?",
+    "answers": ["Pigmen stabil, seperti oksida besi (oker) dan ultramarine, mengekalkan warna mereka selama berabad-abad.", "Pigmen tidak stabil, seperti verdigris (hijau tembaga) atau beberapa pewarna organik, boleh pudar, menjadi gelap, atau berubah apabila terdedah kepada cahaya, udara, atau kelembapan."]
+  },
+  {
+    "id": "organic_vs_inorganic_pigments",
+    "question": "Apakah pigmen organik berbanding anorganik?",
+    "answers": ["Pigmen organik berasal dari tumbuhan, haiwan, atau sebatian sintetik berasaskan karbon. Mereka sering terang tetapi mungkin pudar dengan lebih mudah.", "Pigmen anorganik adalah berasaskan mineral, dibuat daripada logam atau oksida. Mereka biasanya lebih stabil dan tahan lama."]
+  },
+  {
+    "id": "why_colors_darkentime",
+    "question": "Mengapa sesetengah warna menjadi gelap dengan masa?",
+    "answers": ["Sesetengah pigmen bertindak balas dengan oksigen, kelembapan, atau bahan kimia dalam pengikat, menyebabkan mereka menjadi gelap.", "Contohnya, putih plumbum boleh bertukar kelabu atau hitam apabila bertindak balas dengan sebatian sulfur di udara."]
+  },
+  {
+    "id": "why_pigments_expensive",
+    "question": "Mengapa sesetengah pigmen lebih mahal daripada emas?",
+    "answers": ["Sesetengah pigmen, seperti ultramarine yang dibuat dari lapis lazuli, sangat jarang dan terpaksa dilombong dan diproses dengan tangan, menjadikannya lebih berharga daripada emas.", "Warna terang dan kejarangannya menjadikan mereka sangat dihargai oleh artis dan penaung, terutamanya semasa Renaissance."]
+  },
+  {
+    "id": "which_pigments_toxic",
+    "question": "Pigmen mana yang toksik?",
+    "answers": ["Pigmen tertentu mengandungi bahan kimia berbahaya, seperti putih plumbum, vermilion (merkuri sulfida), dan orpimen (arsenik sulfida).", "Artis terpaksa mengendalikannya dengan berhati-hati untuk mengelakkan keracunan, dan banyak pigmen toksik telah digantikan dengan alternatif moden yang lebih selamat."]
+  },
+  {
+    "id": "which_pigments_from_insects",
+    "question": "Pigmen mana yang datang dari serangga?",
+    "answers": ["Karmin adalah pigmen merah yang dibuat dari serangga cochineal, dan kermes adalah pigmen merah tradisional lain yang berasal dari serangga sisik.", "Pigmen ini dihargai untuk warna terang mereka dan digunakan dalam lukisan, tekstil, dan kosmetik."]
+  },
+  {
+    "id": "why_carmine_dominated",
+    "question": "Mengapa karmin mendominasi perdagangan pigmen merah?",
+    "answers": ["Karmin menghasilkan warna merah yang terang dan tahan lama yang lebih cerah daripada kebanyakan pigmen lain yang tersedia pada masa itu.", "Ia sangat dihargai di Eropah selepas dibawa dari Mexico pada abad ke-16, menjadikannya simbol kekayaan dan status."]
+  },
+  {
+    "id": "what_makes_carmine_bright",
+    "question": "Apakah bahan kimia yang menjadikannya begitu terang?",
+    "answers": ["Warna merah terang karmin datang dari asid karminik, molekul aktif yang diekstrak dari serangga cochineal.", "Asid karminik menghasilkan merah yang stabil dan sengit yang mengekalkan warnanya dari masa ke masa apabila diproses dengan betul."]
+  },
+  {
+    "id": "how_synthetic_carmine_made",
+    "question": "Bagaimana karmin sintetik dibuat hari ini?",
+    "answers": ["Karmin sintetik dibuat menggunakan pigmen merah yang dihasilkan di makmal yang meniru warna karmin semula jadi.", "Pigmen moden ini memberikan merah yang sama terang tanpa menggunakan serangga, menawarkan alternatif etika dan konsisten."]
+  },
+  {
+    "id": "where_do_malayan_tigers_live",
+    "question": "Di mana harimau Malaya hidup?",
+    "answers": ["Mereka mendiami hutan tropika padat di Semenanjung Tanah Melayu, sering berhampiran sungai dan kawasan paya."]
+  },
+  {
+    "id": "what_do_malayan_tigers_eat",
+    "question": "Apa yang dimakan oleh harimau Malaya?",
+    "answers": ["Mereka terutamanya memburu rusa dan babi hutan, tetapi mungkin juga memakan mamalia kecil dan burung."]
+  },
+  {
+    "id": "why_are_malayan_tigers_endangered",
+    "question": "Mengapa harimau Malaya terancam kritikal?",
+    "answers": ["Kerana kehilangan habitat daripada penebangan hutan, pencerobohan manusia, dan pemburuan haram."]
+  },
+  {
+    "id": "how_do_malayan_tigers_communicate",
+    "question": "Bagaimana harimau Malaya berkomunikasi?",
+    "answers": ["Melalui penandaan bau, vokalisasi seperti raung dan geram, dan isyarat visual untuk menandakan wilayah dan memberi amaran kepada pesaing."]
+  },
+  {
+    "id": "tiger_populations_q1",
+    "question": "Berapa banyak harimau yang tinggal di alam liar hari ini?",
+    "answers": ["Kurang daripada 4,000 harimau kekal di alam liar."]
+  },
+  {
+    "id": "tiger_populations_q2",
+    "question": "Subspesies harimau mana yang mempunyai populasi terbesar?",
+    "answers": ["Harimau Bengal, ditemui di India, Nepal, Bhutan, dan Bangladesh."]
+  },
+  {
+    "id": "tiger_populations_q3",
+    "question": "Apa yang menyebabkan kepupusan harimau Caspian, Jawa, dan Bali?",
+    "answers": ["Pemburuan dan kemusnahan habitat membawa kepada kepupusan mereka pada abad ke-20."]
+  },
+  {
+    "id": "tiger_populations_q4",
+    "question": "Berapa banyak julat sejarah mereka yang masih diduduki harimau?",
+    "answers": ["Harimau kini hidup dalam hanya kira-kira 5% daripada julat sejarah mereka."]
+  },
+  {
+    "id": "tiger_populations_q5",
+    "question": "Apa yang dilakukan untuk meningkatkan bilangan harimau di seluruh dunia?",
+    "answers": ["Program pemuliharaan seperti Program Pemulihan Harimau Global memberi tumpuan kepada melindungi habitat, mengurangkan pemburuan haram, dan menyokong komuniti tempatan."]
+  }
+]

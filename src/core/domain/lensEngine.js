@@ -1,4 +1,3 @@
-import { getAllLenses } from './contentService';
 import { detectLensCombination } from './lensUtils';
 
 // Applies a single lens to a topic object
@@ -15,6 +14,9 @@ export function applyLens(topic, lens) {
       }
       if (topicRules.overrides.questions) {
         topic.questions = topicRules.overrides.questions.map((id, index) => ({ id, order: index + 1 }));
+      }
+      if (topicRules.overrides.subtopics) {
+        topic.subtopics = topicRules.overrides.subtopics.map((id, index) => ({ id, order: index + 1 }));
       }
       if (topicRules.overrides.title) topic.title = topicRules.overrides.title;
     }
@@ -77,8 +79,19 @@ export function applyLens(topic, lens) {
     return topic;
   }
   
+  // Resolves summary and title IDs to actual text
+  function resolveSummaries(content, summaries) {
+    if (content.summary && summaries[content.summary]) {
+      content.summary = summaries[content.summary];
+    }
+    if (content.title && summaries[content.title]) {
+      content.title = summaries[content.title];
+    }
+    return content;
+  }
+
   // Applies multiple lenses sequentially
-  export function applyLenses(topic, lensesToApply) {
+  export function applyLenses(topic, lensesToApply, summaries = {}) {
     let transformed = { ...topic };
     
     // Extract lens IDs for combination detection
@@ -96,6 +109,9 @@ export function applyLens(topic, lens) {
         transformed = applyLens(transformed, lens);
       });
     }
+    
+    // Resolve any summary IDs to actual text
+    transformed = resolveSummaries(transformed, summaries);
     
     return transformed;
   }

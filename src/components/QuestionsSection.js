@@ -3,8 +3,8 @@ import QuestionCard from './QuestionCard';
 import { getQuestionsByIds } from '../core/domain/contentService';
 import { HiQuestionMarkCircle } from 'react-icons/hi2';
 
-const QuestionsSection = ({ questions, onNavigate }) => {
-  const questionData = getQuestionsByIds(questions);
+const QuestionsSection = ({ questions, lensIds = [], onNavigate }) => {
+  const questionData = getQuestionsByIds(questions, lensIds);
 
   if (!questionData || questionData.length === 0) {
     return (

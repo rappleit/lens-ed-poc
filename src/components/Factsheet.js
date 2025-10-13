@@ -3,8 +3,8 @@ import { getFactsheetsByIds } from "../core/domain/contentService";
 import ReactMarkdown from "react-markdown";
 import TTSButton from "./TTSButton";
 
-const Factsheet = ({ factsheets }) => {
-  const factsheetData = getFactsheetsByIds(factsheets);
+const Factsheet = ({ factsheets, lensIds = [] }) => {
+  const factsheetData = getFactsheetsByIds(factsheets, lensIds);
 
   if (!factsheetData || factsheetData.length === 0) {
     return (

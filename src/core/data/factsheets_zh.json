@@ -1,0 +1,1339 @@
+[
+  {
+    "id": "ants_general",
+    "title": "蚂蚁基本知识",
+    "content": [
+      {
+        "id": "ants_general_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/A_Formica_rufa_sideview.jpg/1920px-A_Formica_rufa_sideview.jpg",
+          "alt": "红木蚁（Formica rufa）的特写",
+          "caption": "红木蚁，研究最多的蚂蚁物种之一。"
+        }
+      },
+      {
+        "id": "ants_general_1",
+        "type": "text",
+        "order": 2,
+        "data": "蚂蚁属于蚁科，是膜翅目的一部分，该目还包括蜜蜂和黄蜂。它们的进化历史可以追溯到白垩纪中期，使它们成为地球上最持久的昆虫谱系之一。"
+      },
+      {
+        "id": "ants_general_2",
+        "type": "markdown",
+        "order": 3,
+        "data": "蚂蚁的一个显著特征是它们的[真社会性行为](/search/ants_social_structure)，包括合作育雏、世代重叠和生殖分工。蚁群的规模可以从几十只个体到拥有数百万成员的超级蚁群，所有成员都作为一个协调的单位运作。"
+      },
+
+      {
+        "id": "ants_general_3",
+        "type": "markdown",
+        "order": 4,
+        "data": "它们的[栖息地](/search/ants_habitat)多种多样，包括森林、草原、沙漠和城市环境。蚂蚁在土壤、腐朽木材、落叶中筑巢，有时甚至在植物内部筑巢，展示了它们在工程和利用可用资源方面的卓越适应能力。"
+      },
+      {
+        "id": "ants_general_4",
+        "type": "text",
+        "order": 5,
+        "data": "物种多样性非常丰富，全球已描述超过15,000种。一些物种是专门的捕食者，其他的[培育真菌](/search/diet_fungi)，许多物种与植物和其他昆虫建立互利共生关系，强调了它们的生态重要性。"
+      },
+      {
+        "id": "ants_general_5",
+        "type": "markdown",
+        "order": 6,
+        "data": "蚁群内的通信主要依赖化学信号。信息素用于标记觅食路线、发出警报信号、调节[繁殖](/search/ants_reproduction)和协调集体任务，使蚁群能够以惊人的效率运作。"
+      },
+      {
+        "id": "ants_general_video_1",
+        "type": "video",
+        "order": 7,
+        "data": {
+          "url": "https://www.youtube.com/watch?v=qu0HN9rYtIw",
+          "title": "蚂蚁精选 | BBC地球"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ants_general_kids",
+    "title": "关于蚂蚁的有趣事实",
+    "content": [
+      {
+        "id": "ants_general_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/A_Formica_rufa_sideview.jpg/1920px-A_Formica_rufa_sideview.jpg",
+          "alt": "红木蚁（Formica rufa）的特写",
+          "caption": "红木蚁，研究最多的蚂蚁物种之一。"
+        }
+      },
+      {
+        "id": "ants_general_kids_1",
+        "type": "text",
+        "order": 2,
+        "data": "蚂蚁几乎可以生活在任何地方！有些在地下筑巢，有些在树上，还有些甚至用自己的身体搭建桥梁或木筏来过河。"
+      },
+      {
+        "id": "ants_general_kids_2",
+        "type": "markdown",
+        "order": 3,
+        "data": "不同的蚂蚁吃不同的食物。有些喜欢[小昆虫](/search/diet_protein)，有些[收集种子](/search/diet_special)，还有些喝[甜甜的花蜜](/search/diet_sugars)。它们吃的东西帮助它们制造特殊的化学物质来保护自己或告诉其他蚂蚁去哪里。"
+      },
+      {
+        "id": "ants_general_kids_3",
+        "type": "markdown",
+        "order": 4,
+        "data": "蚂蚁有聪明的互相交流方式。它们会留下[通往食物的化学痕迹](/search/pheromone_communication)，警告危险，甚至标记它们的[巢穴](/search/ants_habitat)，让每只蚂蚁都知道家在哪里。数百万只蚂蚁可以像一个团队一样协作，因为有这些信号。"
+      },
+      {
+        "id": "ants_general_img_2",
+        "type": "image",
+        "order": 5,
+        "data": {
+          "url": "https://media1.tenor.com/m/zUCvxdBDm7sAAAAd/teamwork-ant-teamwork.gif",
+          "alt": "蚂蚁一起工作",
+          "caption": "蚂蚁一起工作！"
+        }
+      },
+      {
+        "id": "ants_general_video_1",
+        "type": "video",
+        "order": 6,
+        "data": {
+          "url": "https://www.youtube.com/watch?v=9SPixBok5ls",
+          "title": "巨型蚂蚁 | 了不起的动物"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ants_diet_overview",
+    "title": "蚂蚁饮食概述",
+    "content": [
+      {
+        "id": "diet_overview_1",
+        "type": "markdown",
+        "order": 1,
+        "data": "蚂蚁的饮食习惯表现出显著的多样性，不同物种展现出杂食性、草食性、肉食性或高度专门化的进食行为。大多数蚂蚁需要碳水化合物来获取即时能量，需要蛋白质来促进生长，这促使它们寻找[含糖物质](/search/diet_sugars)，同时也捕猎昆虫或培育[真菌作物](/search/diet_fungi)。一些物种已经进化出极端的专门化，如以幼虫血淋巴为食的吸血蚂蚁或进行大规模捕食袭击的行军蚁。"
+      }
+    ]
+  },
+  {
+    "id": "ants_diet_overview_kids",
+    "title": "蚂蚁饮食概述",
+    "content": [
+      {
+        "id": "diet_overview_kids_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://a-z-animals.com/media/2021/11/What-Do-Ants-Eat-1024x576.jpg",
+          "alt": "蚂蚁吃不同的东西",
+          "caption": "蚂蚁吃不同的东西"
+        }
+      },
+      {
+        "id": "diet_overview_kids_1",
+        "type": "markdown",
+        "order": 2,
+        "data": "蚂蚁吃很多不同的东西！有些喜欢甜食，如树汁和水果，有些吃植物，还有些捕猎其他虫子。大多数蚂蚁需要[糖](/search/diet_sugars)来获取能量，需要[蛋白质](/search/diet_protein)来长得强壮。有些蚂蚁的饮食非常特别，如从小蚂蚁身上吸食的吸血蚂蚁，或进行大规模捕虫冒险的行军蚁。"
+      }
+    ]
+  },
+
+  {
+    "id": "ants_habitat",
+    "title": "蚂蚁栖息地",
+    "content": [
+      {
+        "id": "ants_habitat_1",
+        "type": "text",
+        "order": 1,
+        "data": "蚂蚁栖息地几乎包括地球上所有陆地环境，展示了它们卓越的适应能力和建筑才能。虽然许多物种建造具有多个房间和隧道的复杂地下蚁群，但其他物种已适应树栖生活方式，建造纸板巢或用自己的身体创建活桥。一些物种已成功定居人类环境，或在沙漠和热带雨林等极端环境中繁衍生息。"
+      }
+    ]
+  },
+  {
+    "id": "ants_architecture",
+    "title": "蚂蚁建筑",
+    "content": [
+      {
+        "id": "ants_architecture_1",
+        "type": "markdown",
+        "order": 1,
+        "data": "蚁群作为复杂的工程系统而非简单的庇护所运作。许多物种建造巨大的地下网络，设有专门用于育雏、食物储存或[蚁后](/search/ants_social_structure)的房间，由便于高效移动的隧道连接。这种建筑通常包含自然通风口，调节温度和湿度，确保蚁群在不断变化的条件下保持稳定。"
+      },
+      {
+        "id": "ants_architecture_2",
+        "type": "text",
+        "order": 2,
+        "data": "建造是一个集体过程：每只工蚁遵循简单的行为规则，但它们一起实现了复杂的设计。土粒被战略性地放置以扩展隧道，而在树栖物种中，植物纤维和幼虫丝被编织成纸板或叶子巢。在易受洪水影响的环境中，一些蚂蚁甚至用自己的身体设计漂浮木筏，展示了适应性的活体建筑。"
+      }
+    ]
+  },
+  {
+    "id": "ants_architecture_kids",
+    "title": "蚂蚁的家和工程",
+    "content": [
+      {
+        "id": "ants_architecture_kids_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://thumbs.dreamstime.com/b/ant-builder-characters-building-anthill-grass-straw-twigs-vector-cartoon-funny-insect-ants-workers-builders-house-home-333928352.jpg",
+          "alt": "建筑蚂蚁在工作",
+          "caption": "建筑蚂蚁在工作"
+        }
+      },
+      {
+        "id": "ants_architecture_kids_1",
+        "type": "markdown",
+        "order": 2,
+        "data": "蚂蚁建造巨大的地下[家园](/search/ants_habitat)，有专门的房间用于小蚂蚁、[食物](/search/ants_diet)和蚁后。隧道连接所有房间，让蚂蚁可以快速移动。一些隧道甚至像天然空调一样保持家园凉爽或温暖。"
+      },
+      {
+        "id": "ants_architecture_kids_2",
+        "type": "text",
+        "order": 3,
+        "data": "每只蚂蚁遵循简单的规则，但它们一起创造出超级聪明的设计。它们堆土挖隧道，编织树叶和丝建造树上的家，在洪水中，一些蚂蚁甚至连在一起做成漂浮的木筏，让每个人都安全。"
+      }
+    ]
+  },
+  {
+    "id": "ants_formic_acid",
+    "title": "蚁酸",
+    "content": [
+      {
+        "id": "ants_formic_acid_1",
+        "type": "text",
+        "order": 1,
+        "data": "蚁酸代表自然界最有效的化学防御系统之一，由许多蚂蚁物种在专门的腺体中产生，用于保护和进攻。这种简单的有机酸可以直接喷向威胁，通过刺针注射，或作为挥发性威慑物释放。除了防御应用外，蚁酸还在巢穴卫生中发挥重要作用，帮助预防可能威胁蚁群健康的感染。"
+      }
+    ]
+  },
+  {
+    "id": "ants_cuticular_hydrocarbons",
+    "title": "表皮碳氢化合物",
+    "content": [
+      {
+        "id": "ants_cuticular_hydrocarbons_1",
+        "type": "text",
+        "order": 1,
+        "data": "表皮碳氢化合物形成了一个复杂的化学识别系统，作为蚂蚁社会组织和蚁群识别的分子基础。这些蜡状化合物创造了独特的化学特征，在物种、蚁群和个体等级之间各不相同。碳氢化合物特征就像化学护照，使蚂蚁能够立即区分同巢成员和外来个体，同时协调合作行为。"
+      }
+    ]
+  },
+  {
+    "id": "chemistry_of_ants",
+    "title": "蚂蚁的化学",
+    "content": [
+      {
+        "id": "chemistry_of_ants_1",
+        "type": "markdown",
+        "order": 1,
+        "data": "蚂蚁使用多样化的化学工具包来生存和繁衍。许多物种产生[蚁酸](/search/ants_formic_acid)，而其他物种合成生物碱、萜类或基于蛋白质的毒素。这些化合物在防御、捕获猎物或领土争端中发挥作用，并从专门的腺体分泌。根据物种的不同，它们可能通过刺针、喷雾或涂抹来传递。"
+      },
+      {
+        "id": "chemistry_of_ants_2",
+        "type": "markdown",
+        "order": 2,
+        "data": "覆盖外骨骼的[表皮碳氢化合物](/search/ants_cuticular_hydrocarbons)充当蚁群特定的身份标签，使蚂蚁能够区分同巢成员和外来者。一些蚂蚁还携带共生微生物，产生抗生素化合物，保护蚁群免受病原体和真菌感染。"
+      },
+      {
+        "id": "chemistry_of_ants_3",
+        "type": "markdown",
+        "order": 3,
+        "data": "[饮食](/search/ants_diet)也塑造了蚂蚁的化学。许多物种依靠花蜜或蜜露中的糖来满足能量需求，而来自猎物或种子的[蛋白质](/search/diet_protein)则提供生长所需的构建块。这些营养物质不仅维持蚁群，还影响信息素和防御化合物的产生，将食物摄入与化学通信和防御直接联系起来。"
+      }
+    ]
+  },
+  {
+    "id": "chemistry_of_ants_kids",
+    "title": "蚂蚁与化学",
+    "content": [
+      {
+        "id": "chemistry_of_ants_kids_1",
+        "type": "text",
+        "order": 1,
+        "data": "蚂蚁身体里有特殊的化学物质，帮助它们战斗、捕猎和保护家园。有些蚂蚁有喷酸的刺针，而其他蚂蚁制造微小的毒药或粘性喷雾来捕获猎物或吓跑敌人。"
+      },
+      {
+        "id": "chemistry_of_ants_kids_2",
+        "type": "text",
+        "order": 2,
+        "data": "蚂蚁的外表就像戴着用化学物质制成的秘密名牌。这帮助蚂蚁知道哪些朋友属于它们的巢穴，哪些蚂蚁是陌生者。有些蚂蚁甚至携带有用的细菌，制造药物来保持蚁群健康。"
+      },
+      {
+        "id": "chemistry_of_ants_kids_3",
+        "type": "markdown",
+        "order": 3,
+        "data": "蚂蚁吃的东西也会影响它们的化学物质！像花蜜这样的[含糖食物](/search/diet_sugars)给它们能量，而来自虫子和种子的[蛋白质](/search/diet_protein)帮助它们成长。这些食物还帮助蚂蚁制造特殊的信号和防御化学物质，所以吃东西是蚂蚁交流和保持安全的一部分。"
+      }
+    ]
+  },
+  {
+    "id": "pheromone_communication",
+    "title": "信息素通信",
+    "content": [
+      {
+        "id": "pheromone_communication_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://cdn.shopify.com/s/files/1/0081/8928/0333/files/The-location-of-the-most-commonly-occurring-exocrine-glands-in-ants-Glands-indicated-in_W640_480x480.jpg?v=1731197141",
+          "alt": "蚂蚁各种产生信息素腺体的图示和位置",
+          "caption": "蚂蚁各种产生信息素腺体的图示和位置"
+        }
+      },
+      {
+        "id": "pheromone_communication_1",
+        "type": "markdown",
+        "order": 2,
+        "data": "信息素通信是蚂蚁社会组织的核心。工蚁铺设路径信息素来引导觅食者，警报信息素触发快速防御反应，蚁后信息素调节[繁殖](/search/ants_reproduction)并抑制工蚁的生育能力。这种化学语言使蚁群能够在成千上万甚至数百万个体之间协调复杂的行为。"
+      },
+      {
+        "id": "pheromone_communication_2",
+        "type": "text",
+        "order": 3,
+        "data": "不同的化合物针对不同的目的进行调整：挥发性分子快速传播以传递紧急警报，而更稳定的物质为巢穴入口或领土边界提供长期标记。这些化学混合物的复杂性使蚂蚁信息素系统成为动物王国中最复杂的系统之一。"
+      },
+      {
+        "id": "pheremone_communication_video_1",
+        "type": "video",
+        "order": 4,
+        "data": {
+          "url": "https://www.youtube.com/watch?v=0FZLPbBDYAA",
+          "title": "蚂蚁 - 它们通信的秘密揭晓"
+        }
+      }
+    ]
+  },
+  {
+    "id": "pheromone_communication_kids",
+    "title": "蚂蚁用化学物质交流",
+    "content": [
+      {
+        "id": "pheromone_communication_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://www.researchgate.net/profile/Tomas-Krajnik/publication/308814353/figure/fig2/AS:419283550130199@1476976396854/Trajectory-of-ants-for-following-the-pheromone-trail.png",
+          "alt": "蚂蚁为朋友留下看不见的痕迹！",
+          "caption": "蚂蚁为朋友留下看不见的痕迹！"
+        }
+      },
+      {
+        "id": "pheromone_communication_kids_1",
+        "type": "text",
+        "order": 2,
+        "data": "蚂蚁有秘密的化学语言！它们留下看不见的痕迹，让朋友能找到食物，当危险临近时释放警报气味，蚁后发送特殊的气味告诉工蚁该做什么。这些化学信息帮助整个蚁群一起工作，即使有成千上万只蚂蚁。"
+      },
+      {
+        "id": "pheromone_communication_kids_2",
+        "type": "text",
+        "order": 3,
+        "data": "有些气味传播得很快，警告紧急情况，而其他气味会停留更长时间，标记家的入口或边界。蚂蚁以聪明的方式混合这些化学物质，使它们的化学语言成为动物世界中最神奇的语言之一！"
+      },
+      {
+        "id": "pheremone_communication_video_1",
+        "type": "video",
+        "order": 4,
+        "data": {
+          "url": "https://www.youtube.com/watch?v=7s16f2fmkEw",
+          "title": "蚂蚁通信：蚂蚁用气味交流吗？"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ants_diet_chemistry",
+    "title": "蚂蚁饮食的化学方面",
+    "content": [
+      {
+        "id": "diet_chemistry_1",
+        "type": "markdown",
+        "order": 1,
+        "data": "蚂蚁营养涉及复杂的化学检测系统，使它们能够根据分子组成识别和评估食物来源。它们的化学感受器可以区分不同类型的[糖](/search/diet_sugars)、[蛋白质](/search/diet_protein)和脂质，使它们能够做出最佳的觅食决策。这种化学分析在蚂蚁在环境中遇到潜在食物来源时实时进行。"
+      },
+      {
+        "id": "diet_chemistry_2",
+        "type": "text",
+        "order": 2,
+        "data": "蚂蚁的消化化学包括专门的酶，将复杂的有机分子分解成更简单、可吸收的化合物。不同的蚂蚁物种已经进化出与其饮食专门化相匹配的独特酶谱，从种植真菌物种的纤维素酶到肉食性蚂蚁的蛋白酶。这些生化适应使蚂蚁能够从多样化的食物来源中提取最大的营养价值。"
+      },
+      {
+        "id": "diet_chemistry_3",
+        "type": "text",
+        "order": 3,
+        "data": "化学通信在蚂蚁觅食行为中起着关键作用，成功的觅食者铺设包含有关食物质量和数量信息的信息素路径。这些路径信息素的化学组成可以根据发现的食物来源的营养价值而变化，创造了一个复杂的信息网络，优化整个蚁群的进食效率。"
+      }
+    ]
+  },
+
+  {
+    "id": "ants_diet_chemistry_kids",
+    "title": "蚂蚁与食物化学",
+    "content": [
+      {
+        "id": "ants_diet_chemistry_kids_1",
+        "type": "markdown",
+        "order": 1,
+        "data": "蚂蚁有微小的化学传感器，帮助它们弄清楚哪些食物美味又对它们有好处。它们可以区分[糖](/search/diet_sugars)、[蛋白质](/search/diet_protein)和脂肪，所以知道吃什么才能获得大量能量。"
+      },
+      {
+        "id": "ants_diet_chemistry_kids_2",
+        "type": "text",
+        "order": 2,
+        "data": "在它们的身体里，蚂蚁有称为酶的特殊帮手，将食物分解成能量和生长所需的构建块。不同的蚂蚁有不同的帮手，取决于它们喜欢吃什么，所以它们可以从每顿饭中获得最多的营养。"
+      },
+      {
+        "id": "ants_diet_chemistry_kids_3",
+        "type": "text",
+        "order": 3,
+        "data": "蚂蚁还用化学物质谈论食物！找到美味食物的蚂蚁会为朋友留下看不见的痕迹。这些痕迹告诉其他蚂蚁去哪里，哪些食物最好，所以整个蚁群可以一起吃得好。"
+      },
+      {
+        "id": "ants_diet_chemistry_kids_3",
+        "type": "video",
+        "order": 4,
+        "data": {
+          "url": "https://www.youtube.com/watch?v=kV_Gyc7WHi4",
+          "title": "蚂蚁如何找到食物？| 幼儿教育视频 | 持续学习"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ants_for_kids",
+    "title": "关于蚂蚁的酷事",
+    "content": [
+      {
+        "id": "ants_for_kids_1",
+        "type": "text",
+        "order": 1,
+        "data": "蚂蚁是非常强壮的小昆虫！尽管它们比你的指甲还小，但它们可以举起和搬运比自己重20倍的东西。这就像你举起并搬运一辆小汽车！"
+      },
+      {
+        "id": "ants_for_kids_2",
+        "type": "text",
+        "order": 2,
+        "data": "蚂蚁住在一起，组成叫做蚁群的大家庭，有点像你和你的家人住在一起。但蚂蚁家庭非常庞大——有时数百万只蚂蚁都住在同一个家里！它们在地下建造家园，有很多不同的房间用于睡觉、储存食物和照顾小蚂蚁。"
+      },
+      {
+        "id": "ants_for_kids_3",
+        "type": "text",
+        "order": 3,
+        "data": "蚂蚁是了不起的团队合作者！当一只蚂蚁找到食物时，它会为其他蚂蚁留下特殊的气味痕迹，就像留下看不见的面包屑。很快，你就会看到一整列蚂蚁行进去取食物，并把它带回家与大家分享。"
+      },
+      {
+        "id": "ants_for_kids_4",
+        "type": "text",
+        "order": 4,
+        "data": "世界各地有许多不同类型的蚂蚁——超过15,000种！有些蚂蚁喜欢甜食，如糖，其他的喜欢吃其他昆虫，有些甚至像小农民一样种植自己的食物。你几乎可以在地球上的任何地方找到蚂蚁，从炎热的沙漠到寒冷的山脉。"
+      }
+    ]
+  },
+  {
+    "id": "chemistry_of_ants_8_year_old",
+    "title": "蚂蚁的化学",
+    "content": [
+      {
+        "id": "chemistry_of_ants_8_year_old_1",
+        "type": "text",
+        "order": 1,
+        "data": "蚂蚁就像拥有自己特殊工具箱的小化学家！它们制造不同种类的虫子喷雾和特殊气味来保护家人并互相交流。有些蚂蚁制造蚁酸（那是它们的超级虫子喷雾！），而其他蚂蚁制造不同种类的化学物质。就像它们在身体里有自己的秘密实验室，混合所有这些酷炫的化学物质！"
+      },
+      {
+        "id": "chemistry_of_ants_8_year_old_2",
+        "type": "text",
+        "order": 2,
+        "data": "蚂蚁用称为信息素的特殊气味信息互相交流！这就像拥有一种由气味组成的秘密语言！当一只蚂蚁找到食物时，它会留下气味痕迹，说'嘿朋友们，跟着我去找美味的零食！'当有危险时，它们发送警报气味，说'小心，有可怕的东西来了！'这就像拥有一个超级智能的电话系统，但用气味代替文字！"
+      }
+    ]
+  },
+  {
+    "id": "painting_general",
+    "title": "绘画基本知识",
+    "content": [
+      {
+        "id": "painting_general_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/960px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+          "alt": "文森特·梵高的《星夜》",
+          "caption": "文森特·梵高的《星夜》（1889年），世界上最著名的画作之一。"
+        }
+      },
+      {
+        "id": "painting_general_1",
+        "type": "text",
+        "order": 2,
+        "data": "绘画是人类最古老的艺术形式之一，在史前洞穴中有超过30,000年的例子。早期绘画通常描绘动物、狩猎场景或反映古代人生活和信仰的象征性标记。"
+      },
+      {
+        "id": "painting_general_2",
+        "type": "markdown",
+        "order": 3,
+        "data": "有许多不同类型的[绘画风格](/search/painting_styles)。有些旨在现实地捕捉世界，如文艺复兴时期的肖像和风景画，而其他风格，如印象派和抽象艺术，则专注于情绪、色彩或想象，而不是精确的细节。"
+      },
+      {
+        "id": "painting_general_3",
+        "type": "markdown",
+        "order": 4,
+        "data": "画家使用各种各样的[材料](/search/painting_materials)和工具。常见的表面包括画布、纸张和木材，而颜料可能是油画、丙烯、水彩，甚至是木炭和矿物等天然[颜料](/search/pigments)。刷子、刀子，甚至手都可以用来涂抹颜料。"
+      },
+      {
+        "id": "painting_general_4",
+        "type": "text",
+        "order": 5,
+        "data": "纵观历史，绘画不仅作为装饰，还作为强有力的故事讲述形式、宗教奉献、政治表达和个人创造力。著名作品通常反映了创作时代的文化、价值观和斗争。"
+      },
+      {
+        "id": "painting_general_5",
+        "type": "text",
+        "order": 6,
+        "data": "一些最著名的画家包括莱昂纳多·达·芬奇，以《蒙娜丽莎》和《最后的晚餐》而闻名；文森特·梵高，以《星夜》而著称；巴勃罗·毕加索，立体主义的先驱；以及克劳德·莫奈，印象派大师。他们的作品继续影响和启发世界各地的艺术家。"
+      },
+      {
+        "id": "painting_general_video_1",
+        "type": "video",
+        "order": 7,
+        "data": {
+          "url": "https://www.youtube.com/watch?v=NGsUFvwgvCo",
+          "title": "解码达芬奇 | 完整纪录片 | NOVA | PBS"
+        }
+      }
+    ]
+  },
+  {
+    "id": "chemistry_of_painting",
+    "title": "绘画的化学",
+    "content": [
+      {
+        "id": "chem_painting_1",
+        "type": "markdown",
+        "order": 1,
+        "data": "[颜料](/search/pigments)是吸收和反射光的分子或矿物，创造我们在画作中看到的颜色。"
+      },
+      {
+        "id": "chem_painting_2",
+        "type": "markdown",
+        "order": 2,
+        "data": "[粘合剂](/search/binders_and_solvents)将[颜料](/search/pigments)固定在一起并附着到表面上。常见的粘合剂包括蛋黄（蛋彩画）、亚麻籽油（油画）和丙烯聚合物（丙烯画）。"
+      },
+      {
+        "id": "chem_painting_3",
+        "type": "markdown",
+        "order": 3,
+        "data": "化学反应随着时间的推移导致[降解](/search/degradation_pathways)，如油的氧化导致变黄、颜料褪色和油漆膜开裂。"
+      },
+      {
+        "id": "chem_painting_4",
+        "type": "text",
+        "order": 4,
+        "data": "光线、湿度和污染等环境因素加速这些化学变化，使[保护](/search/conservation_chemistry)对于保存画作至关重要。"
+      },
+      {
+        "id": "chem_painting_5",
+        "type": "markdown",
+        "order": 5,
+        "data": "[保护](/search/conservation_chemistry)科学家使用化学来分析[颜料](/search/pigments)和[粘合剂](/search/binders_and_solvents)，了解[劣化](/search/degradation_pathways)，并设计安全的修复技术。"
+      }
+    ]
+  },
+  {
+    "id": "pigments_general",
+    "title": "颜料",
+    "content": [
+      {
+        "id": "pigments_1",
+        "type": "text",
+        "order": 1,
+        "data": "颜料是为油漆提供颜色的物质。它们通过吸收某些波长的光并反射其他波长来工作，从而创造我们看到的颜色。没有颜料，油漆将是无色或透明的。"
+      },
+      {
+        "id": "pigments_2",
+        "type": "text",
+        "order": 2,
+        "data": "颜料可以是天然的或合成的。天然颜料来自矿物、植物或昆虫，艺术家使用了数千年。合成颜料在实验室中制造，设计得明亮、一致，通常比天然颜料更耐用。"
+      },
+      {
+        "id": "pigments_3",
+        "type": "text",
+        "order": 3,
+        "data": "天然颜料包括群青，源自半宝石青金石，在文艺复兴绘画中非常珍贵。朱砂，由硫化汞制成，具有明亮的红色色调。胭脂红，由胭脂虫制成，产生用于纺织品和艺术品的丰富红色调。"
+      },
+      {
+        "id": "pigments_4",
+        "type": "text",
+        "order": 4,
+        "data": "许多现代颜料在实验室中创造，以获得稳定性、亮度和安全性。例子包括合成群青、镉红和镉黄，以及酞菁蓝。这些使艺术家能够实现不像某些天然颜料那样快速褪色的一致颜色。"
+      },
+      {
+        "id": "pigments_5",
+        "type": "text",
+        "order": 5,
+        "data": "颜料对艺术表达至关重要，在文化和历史艺术品中发挥了重要作用。它们的来源、颜色和化学性质影响了几个世纪以来的绘画技术、风格和艺术的持久性。"
+      }
+    ]
+  },
+  {
+    "id": "pigments_economics",
+    "title": "颜料与经济",
+    "content": [
+      {
+        "id": "pigments_economics_1",
+        "type": "text",
+        "order": 1,
+        "data": "颜料的价值历史上塑造了贸易网络并影响了艺术选择。因为某些颜料需要来自遥远土地的材料，它们的成本通常决定了谁能负担得起使用它们以及在什么情况下使用。"
+      },
+      {
+        "id": "pigments_economics_2",
+        "type": "text",
+        "order": 2,
+        "data": "赞助人经常通过委托使用昂贵颜料的作品来展示财富，如群青蓝，通常为宗教艺术中最重要的人物保留。通过这种方式，颜料的使用反映了社会和经济等级。"
+      },
+      {
+        "id": "pigments_economics_3",
+        "type": "text",
+        "order": 3,
+        "data": "工业革命通过引入更便宜、更广泛可用且更持久的合成替代品，改变了颜料市场。这使更广泛的调色板可供更多艺术家和行业使用，打破了稀有天然来源的垄断。"
+      },
+      {
+        "id": "pigments_economics_4",
+        "type": "text",
+        "order": 4,
+        "data": "今天，颜料不仅对美术至关重要，还推动了大型全球产业，包括纺织品、塑料、化妆品和建筑材料，展示了曾经稀有的奢侈品如何成为大规模生产的经济基础。"
+      }
+    ]
+  },
+  {
+    "id": "carmine_general",
+    "title": "关于胭脂红",
+    "content": [
+      {
+        "id": "carmine_general_video_1",
+        "type": "video",
+        "order": 1,
+        "data": {
+          "url": "https://www.youtube.com/watch?v=iBNySB2jpVg",
+          "title": "为什么红色食品染料中的微小仙人掌虫是350亿美元的产业 | 大生意 | 商业内幕"
+        }
+      },
+      {
+        "id": "carmine_1",
+        "type": "text",
+        "order": 2,
+        "data": "胭脂红是一种源自胭脂虫的红色颜料。胭脂红中的活性着色分子是胭脂红酸，赋予其鲜艳的红色色调。"
+      },
+      {
+        "id": "carmine_img_1",
+        "type": "image",
+        "order": 3,
+        "data": {
+          "url": "https://elmestenoranch.com/wp-content/uploads/2023/12/3-micrograph-of-cochineal-under-microscope-CMR-SharpenAI-Focus-scaled.jpg",
+          "alt": "胭脂虫的显微图像",
+          "caption": "胭脂虫的显微图像"
+        }
+      },
+      {
+        "id": "carmine_2",
+        "type": "markdown",
+        "order": 4,
+        "data": "为了生产[颜料](/search/pigments)，将昆虫干燥、压碎并用明矾处理，以提取胭脂红酸并稳定颜色。"
+      },
+
+      {
+        "id": "carmine_3",
+        "type": "text",
+        "order": 5,
+        "data": "胭脂红在16世纪从墨西哥带到欧洲，很快因其丰富、持久的红色而备受珍视。它被认为是财富的象征，用于绘画、纺织品和装饰艺术。"
+      },
+      {
+        "id": "carmine_img_2",
+        "type": "image",
+        "order": 6,
+        "data": {
+          "url": "https://cdn.kastatic.org/ka-perseus-images/949aeafad7d13392970b8535c20b60d5f27f3835.svg",
+          "alt": "非洲、新世界和欧洲之间的大西洋贸易路线。",
+          "caption": "非洲、新世界和欧洲之间的大西洋贸易路线。"
+        }
+      }
+    ]
+  },
+  {
+    "id": "carmine_ethics",
+    "title": "胭脂红伦理与保护",
+    "content": [
+      {
+        "id": "carmine_ethics_1",
+        "type": "text",
+        "order": 1,
+        "data": "胭脂红源自胭脂虫，这对那些避免动物产品的人来说引起了伦理关切。"
+      },
+      {
+        "id": "carmine_ethics_2",
+        "type": "text",
+        "order": 2,
+        "data": "今天，存在许多替代品，包括合成红色颜料和植物基染料，它们提供类似的鲜艳颜色，而不使用昆虫。"
+      },
+      {
+        "id": "carmine_ethics_3",
+        "type": "text",
+        "order": 3,
+        "data": "选择替代品可以帮助减少对动物来源颜料的依赖，同时仍然保持传统上与胭脂红相关的丰富红色。"
+      }
+    ]
+  },
+  {
+    "id": "carmine_history",
+    "title": "胭脂红的历史",
+    "content": [
+      {
+        "id": "carmine_history_1",
+        "type": "text",
+        "order": 1,
+        "data": "胭脂红最早由中美洲和南美洲的土著人民开发，他们发现胭脂虫可以产生强烈的红色染料。干燥、压碎和处理昆虫以提取胭脂红酸的技术经过几代人的完善，使其成为世界上最有价值的天然着色剂之一。"
+      },
+      {
+        "id": "carmine_history_2",
+        "type": "text",
+        "order": 2,
+        "data": "当西班牙殖民者在16世纪到达时，他们认识到胭脂红的价值，并迅速将其变成主要出口商品。它与白银一起运往欧洲，西班牙几个世纪以来对其生产和贸易保持严格控制。胭脂红变得如此珍贵，有时被称为'红金'。"
+      },
+      {
+        "id": "carmine_history_3",
+        "type": "text",
+        "order": 3,
+        "data": "这种颜料改变了欧洲的艺术和文化，出现在皇家服装、彩绘手稿和宗教画作中。其鲜艳的颜色象征着权力和财富，艺术家喜欢它，因为它比当时可用的其他红色更加明亮。"
+      },
+      {
+        "id": "carmine_history_4",
+        "type": "text",
+        "order": 4,
+        "data": "胭脂红的全球传播展示了单一颜料如何连接各大洲并塑造经济。即使在开发出合成替代品之后，其历史作用仍然是艺术、贸易和帝国如何交织在一起的鲜明例子。"
+      }
+    ]
+  },
+  {
+    "id": "malayan_tiger_general",
+    "title": "关于马来亚虎",
+    "content": [
+      {
+        "id": "malayan_tiger_general_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://www.mandai.com/content/dam/mandai/singapore-zoo/animals-zones/tigers/Masthead_220302SZG_E3A8327.jpg.transform/compress/resize1670/img.jpg",
+          "alt": "马来亚虎",
+          "caption": "马来亚虎（Panthera tigris jacksoni），原产于马来半岛。"
+        }
+      },
+      {
+        "id": "malayan_tiger_general_1",
+        "type": "text",
+        "order": 2,
+        "data": "马来亚虎极度濒危，野外剩余不到200只个体。它比孟加拉虎小，原产于马来半岛的热带森林。"
+      },
+      {
+        "id": "malayan_tiger_general_2",
+        "type": "text",
+        "order": 3,
+        "data": "这些老虎是独居的领地捕食者。它们的饮食主要包括鹿和野猪等有蹄类动物，但也可能捕猎较小的哺乳动物和鸟类。它们依靠隐蔽和力量来捕获猎物。"
+      },
+      {
+        "id": "malayan_tiger_general_3",
+        "type": "text",
+        "order": 4,
+        "data": "马来亚虎栖息在茂密的森林中，通常靠近河流和沼泽地区。森林砍伐和人类侵占造成的栖息地丧失是它们生存的主要威胁。"
+      },
+      {
+        "id": "malayan_tiger_general_4",
+        "type": "text",
+        "order": 5,
+        "data": "2004年被认定为独特的亚种，马来亚虎与其他老虎种群有遗传差异。保护工作侧重于反偷猎、栖息地保护和公众意识。"
+      },
+      {
+        "id": "malayan_tiger_general_5",
+        "type": "text",
+        "order": 6,
+        "data": "它们使用气味标记、发声和视觉信号进行通信。咆哮、咆哮和抓痕有助于建立领地、协调交配和警告对手。"
+      },
+
+      {
+        "id": "malayan_tiger_general_instagram_1",
+        "type": "instagram",
+        "order": 7,
+        "data": {
+          "url": "https://www.instagram.com/p/DMrXIW1PJxJ"
+        }
+      }
+    ]
+  },
+  {
+    "id": "malayan_tiger_general_kids",
+    "title": "马来亚虎事实！",
+    "content": [
+      {
+        "id": "malayan_tiger_general_kids_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://www.mandai.com/content/dam/mandai/singapore-zoo/animals-zones/tigers/Masthead_220302SZG_E3A8327.jpg.transform/compress/resize1670/img.jpg",
+          "alt": "马来亚虎",
+          "caption": "马来亚虎（Panthera tigris jacksoni），原产于马来半岛。"
+        }
+      },
+      {
+        "id": "malayan_tiger_general_kids_1",
+        "type": "text",
+        "order": 2,
+        "data": "马来亚虎非常稀有，野外剩余不到200只。它们比孟加拉虎小，生活在马来半岛的炎热绿色丛林中。"
+      },
+      {
+        "id": "malayan_tiger_general_kids_2",
+        "type": "text",
+        "order": 3,
+        "data": "这些老虎喜欢独自生活。它们吃鹿和野猪等动物，有时也吃较小的生物。它们是狡猾而强壮的猎手。"
+      },
+      {
+        "id": "malayan_tiger_general_kids_3",
+        "type": "text",
+        "order": 4,
+        "data": "马来亚虎生活在茂密的森林中，有时靠近河流。砍伐树木和人们搬进它们的家园使它们难以生存。"
+      },
+      {
+        "id": "malayan_tiger_general_kids_4",
+        "type": "text",
+        "order": 5,
+        "data": "科学家在2004年发现马来亚虎是一种特殊的老虎。人们通过阻止猎人、拯救森林和教育每个人来帮助保护它们这些了不起的动物。"
+      },
+      {
+        "id": "malayan_tiger_general_kids_5",
+        "type": "text",
+        "order": 6,
+        "data": "老虎以自己的方式互相交流。它们留下气味、咆哮、咆哮并抓挠地面来标记它们生活的地方，并警告其他老虎远离。"
+      },
+      {
+        "id": "malayan_tiger_general_kids_instagram_1",
+        "type": "instagram",
+        "order": 7,
+        "data": {
+          "url": "https://www.instagram.com/p/DMrXIW1PJxJ"
+        }
+      }
+    ]
+  },
+  {
+    "id": "malayan_tiger_story_birth",
+    "title": "老虎的诞生",
+    "content": [
+      {
+        "id": "malayan_tiger_story_birth_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvDWlkU8NJmviHAtI1ZQtHIJ-oq_MYO8A9Ng&s",
+          "alt": "马来亚虎幼崽",
+          "caption": "马来亚虎幼崽"
+        }
+      },
+      {
+        "id": "malayan_tiger_story_birth_1",
+        "type": "text",
+        "order": 2,
+        "data": "在马来半岛森林深处的一个安静的巢穴中，一只马来亚虎妈妈生下了她的幼崽。她通常一次生两到三只，尽管并非所有幼崽都能在野外的严酷现实中存活下来。"
+      },
+      {
+        "id": "malayan_tiger_story_birth_2",
+        "type": "text",
+        "order": 3,
+        "data": "出生时，幼崽是盲的，每只重约一公斤。它们完全依赖母亲的温暖和乳汁来度过生命最初脆弱的几周。"
+      },
+      {
+        "id": "malayan_tiger_story_birth_3",
+        "type": "text",
+        "order": 4,
+        "data": "巢穴精心选择在隐蔽的地方，如茂密的植被、洞穴或空心原木。在此期间，母亲很少离开，只有在绝对必要时才外出狩猎。"
+      },
+      {
+        "id": "malayan_tiger_story_birth_4",
+        "type": "text",
+        "order": 5,
+        "data": "到第二周，幼崽的眼睛睁开，第一次看到世界。它们每只都独特的条纹外套开始帮助它们融入森林阴影。"
+      },
+      {
+        "id": "malayan_tiger_story_birth_5",
+        "type": "text",
+        "order": 6,
+        "data": "玩耍成为它们早期生活的重要组成部分。与兄弟姐妹摔跤和练习微小的咆哮不仅仅是乐趣——它们是它们以后需要的技能的训练练习。"
+      },
+      {
+        "id": "malayan_tiger_story_birth_6",
+        "type": "text",
+        "order": 7,
+        "data": "生存是不确定的。有些幼崽可能因疾病、饥饿或捕食者而失去。但那些挺过最初几个月的幼崽有机会成长为丛林顶级捕食者之一。"
+      }
+    ]
+  },
+  {
+    "id": "malayan_tiger_story_learning",
+    "title": "学习狩猎",
+    "content": [
+      {
+        "id": "malayan_tiger_story_learning_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7EJ5HwCkweROXQ3KOMC8CUMG80Z0g1-dhqw&s",
+          "alt": "年轻的马来亚虎幼崽狩猎",
+          "caption": "年轻的马来亚虎幼崽狩猎"
+        }
+      },
+      {
+        "id": "malayan_tiger_story_learning_1",
+        "type": "text",
+        "order": 2,
+        "data": "到六个月大时，马来亚虎幼崽开始与母亲一起离开巢穴。拥有茂密树木、河流和灌木丛的森林成为它们的教室。"
+      },
+      {
+        "id": "malayan_tiger_story_learning_2",
+        "type": "text",
+        "order": 3,
+        "data": "幼崽通过观察学习。它们的母亲安静地潜行，以令人难以置信的耐心低伏在地上移动，等待合适的时机攻击鹿或野猪等猎物。"
+      },
+      {
+        "id": "malayan_tiger_story_learning_3",
+        "type": "text",
+        "order": 4,
+        "data": "玩耍变成练习。幼崽扑向树叶，互相摔跤，追逐影子——每项活动都在增强它们的肌肉并磨练它们的反射。"
+      },
+      {
+        "id": "malayan_tiger_story_learning_4",
+        "type": "text",
+        "order": 5,
+        "data": "它们的饮食开始改变。起初，它们继续哺乳，但随着牙齿的生长，母亲带回肉块，让它们品尝将来要自己捕猎的东西。"
+      },
+      {
+        "id": "malayan_tiger_story_learning_5",
+        "type": "text",
+        "order": 6,
+        "data": "失败是常见的。幼崽经常错过目标，过早惊动猎物。但每次失败的尝试都是关于沉默、耐心和时机的课程。"
+      },
+      {
+        "id": "malayan_tiger_story_learning_6",
+        "type": "text",
+        "order": 7,
+        "data": "到两岁时，幼崽已经发展出独自生存所需的敏捷、隐蔽和力量。在这个阶段，它们开始从顽皮的幼崽过渡到独立的猎手。"
+      }
+    ]
+  },
+  {
+    "id": "malayan_tiger_story_territory",
+    "title": "占领领地",
+    "content": [
+      {
+        "id": "malayan_tiger_story_territory_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10531-024-02799-9/MediaObjects/10531_2024_2799_Fig1_HTML.png?as=webp",
+          "alt": "野生动物走廊、主要道路和老虎样本位置。样本位置包括捐赠给本研究的旧样本和实地调查期间收集的新样本",
+          "caption": "野生动物走廊、主要道路和老虎样本位置。样本位置包括捐赠给本研究的旧样本和实地调查期间收集的新样本"
+        }
+      },
+      {
+        "id": "malayan_tiger_story_territory_1",
+        "type": "text",
+        "order": 2,
+        "data": "随着年轻的马来亚虎成长为独立，森林不再只是一个游乐场——它成为要占领的土地。每只老虎都必须找到一个领地才能生存。"
+      },
+      {
+        "id": "malayan_tiger_story_territory_2",
+        "type": "text",
+        "order": 3,
+        "data": "雄性通常需要比雌性更大的领地，有时延伸超过100平方公里。这些区域提供支持它们独居生活所需的空间和猎物。"
+      },
+      {
+        "id": "malayan_tiger_story_territory_3",
+        "type": "text",
+        "order": 4,
+        "data": "为了标记它们的领地，马来亚虎使用气味。它们喷洒尿液，抓挠树皮，并留下气味标记，告诉其他老虎，'这个空间已经被占用了。'"
+      },
+      {
+        "id": "malayan_tiger_story_territory_4",
+        "type": "text",
+        "order": 5,
+        "data": "冲突是危险的。当两只老虎相遇时，它们可能咆哮、咆哮或进行激烈的战斗来保卫它们的土地。"
+      },
+      {
+        "id": "malayan_tiger_story_territory_5",
+        "type": "text",
+        "order": 6,
+        "data": "领地不仅关乎空间——它关乎生存。健康的区域意味着有足够的鹿、野猪和水源来维持老虎。"
+      },
+      {
+        "id": "malayan_tiger_story_territory_6",
+        "type": "text",
+        "order": 7,
+        "data": "失去领地通常意味着饥饿，迫使一些老虎靠近村庄或农场徘徊——这是导致与人类冲突的危险道路。"
+      }
+    ]
+  },
+  {
+    "id": "malayan_tiger_story_survival",
+    "title": "野外生存",
+    "content": [
+      {
+        "id": "malayan_tiger_story_survival_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL2dldHR5aW1hZ2VzLTY2NzcyNjY1NC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIxMjAwIn19fQ==",
+          "alt": "一只马来亚虎在野外巡游",
+          "caption": "一只马来亚虎在野外巡游"
+        }
+      },
+      {
+        "id": "malayan_tiger_story_survival_1",
+        "type": "text",
+        "order": 2,
+        "data": "作为马来亚虎的生活从来都不容易。即使作为熟练的猎手，老虎在寻找食物和安全方面也面临持续的挑战。"
+      },
+      {
+        "id": "malayan_tiger_story_survival_2",
+        "type": "text",
+        "order": 3,
+        "data": "猎物动物机警且快速。老虎必须悄悄接近，利用丛林阴影和耐心来靠近攻击距离。"
+      },
+      {
+        "id": "malayan_tiger_story_survival_3",
+        "type": "text",
+        "order": 4,
+        "data": "狩猎经常失败——多达十次尝试中有九次没有捕获。一顿饭可能需要数天的努力。"
+      },
+      {
+        "id": "malayan_tiger_story_survival_4",
+        "type": "text",
+        "order": 5,
+        "data": "游泳过河是另一项技能。马来亚虎是强壮的游泳者，有时穿越水域追逐猎物或到达新的狩猎场。"
+      },
+      {
+        "id": "malayan_tiger_story_survival_5",
+        "type": "text",
+        "order": 6,
+        "data": "每个声音都很重要。树枝的咔嗒声、鸟的叫声或树叶的沙沙声都可能惊动鹿并结束狩猎。"
+      },
+      {
+        "id": "malayan_tiger_story_survival_6",
+        "type": "text",
+        "order": 7,
+        "data": "但成功时，老虎可以击倒比自己大很多倍的猎物，喂养数天并确保其在茂密的雨林中生存。"
+      }
+    ]
+  },
+  {
+    "id": "malayan_tiger_story_threats",
+    "title": "危险与威胁",
+    "content": [
+      {
+        "id": "malayan_tiger_story_threats_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx3l4PfA4zstWgxC2uIiK3WGAb6r-O-W8HLg&s",
+          "alt": "马来亚虎狩猎版画，1911年",
+          "caption": "马来亚虎狩猎版画，1911年"
+        }
+      },
+      {
+        "id": "malayan_tiger_story_threats_1",
+        "type": "text",
+        "order": 2,
+        "data": "对于马来亚虎来说，最大的危险不是来自大自然——而是来自人类。"
+      },
+      {
+        "id": "malayan_tiger_story_threats_2",
+        "type": "text",
+        "order": 3,
+        "data": "为农业和棕榈油种植园砍伐森林减少了它们赖以生存的森林家园，将它们的领地分割成更小、孤立的区域。"
+      },
+      {
+        "id": "malayan_tiger_story_threats_3",
+        "type": "text",
+        "order": 4,
+        "data": "偷猎者为了虎皮和身体部位而猎杀老虎，尽管有国际禁令，这些东西仍被非法出售。"
+      },
+      {
+        "id": "malayan_tiger_story_threats_4",
+        "type": "text",
+        "order": 5,
+        "data": "当猎物动物因狩猎或栖息地丧失而减少时，老虎可能被迫在村庄附近寻找食物，导致与人类的危险遭遇。"
+      },
+      {
+        "id": "malayan_tiger_story_threats_5",
+        "type": "text",
+        "order": 6,
+        "data": "每一只失去的老虎都削弱了生态系统，因为捕食者减少意味着鹿和野猪种群无节制地增长，损害了丛林的平衡。"
+      },
+      {
+        "id": "malayan_tiger_story_threats_6",
+        "type": "text",
+        "order": 7,
+        "data": "今天，估计野外剩余不到150只马来亚虎，使它们成为最濒危的老虎亚种之一。"
+      }
+    ]
+  },
+  {
+    "id": "malayan_tiger_story_future",
+    "title": "未来的希望",
+    "content": [
+      {
+        "id": "malayan_tiger_story_future_1",
+        "type": "text",
+        "order": 1,
+        "data": "尽管有危险，但正在进行努力来保护马来亚虎，给它们生存的机会。"
+      },
+      {
+        "id": "malayan_tiger_story_future_2",
+        "type": "text",
+        "order": 2,
+        "data": "马来西亚各地的保护区和国家公园提供了安全的空间，让老虎可以在没有偷猎威胁的情况下漫游。"
+      },
+      {
+        "id": "malayan_tiger_story_future_3",
+        "type": "markdown",
+        "order": 3,
+        "data": "[保护](/search/malayan_tiger_conservation)团体正在与当地社区合作，减少人类与野生动物的冲突，教授保护牲畜而不伤害老虎的方法。"
+      },
+      {
+        "id": "malayan_tiger_story_future_4",
+        "type": "text",
+        "order": 4,
+        "data": "反偷猎巡逻正在增加，护林员监控森林并清除可能困住老虎或其猎物的陷阱。"
+      },
+      {
+        "id": "malayan_tiger_story_future_5",
+        "type": "text",
+        "order": 5,
+        "data": "科学家使用相机陷阱和GPS项圈追踪老虎的移动，收集重要信息以指导保护策略。"
+      },
+      {
+        "id": "malayan_tiger_story_future_6",
+        "type": "text",
+        "order": 6,
+        "data": "马来亚虎的未来取决于人们——取决于法律、保护和对森林的关心。通过持续的努力，老虎的咆哮可能仍会在马来西亚的丛林中回荡，代代相传。"
+      }
+    ]
+  },
+  {
+    "id": "tiger_populations_general",
+    "title": "世界各地的老虎种群",
+    "content": [
+      {
+        "id": "tiger_populations_general_1",
+        "type": "text",
+        "order": 1,
+        "data": "一个世纪前，老虎生活在亚洲大部分地区，估计种群超过100,000只。今天，野外剩余不到4,000只。"
+      },
+      {
+        "id": "tiger_populations_general_2",
+        "type": "text",
+        "order": 2,
+        "data": "最大的剩余种群是孟加拉虎，分布在印度、尼泊尔、不丹和孟加拉国。这个亚种占今天所有野生老虎的一半以上。"
+      },
+      {
+        "id": "tiger_populations_general_3",
+        "type": "text",
+        "order": 3,
+        "data": "其他幸存的亚种包括俄罗斯和中国东北的阿穆尔虎（或西伯利亚虎）、东南亚的印度支那虎、马来半岛的马来亚虎和印度尼西亚的苏门答腊虎。"
+      },
+      {
+        "id": "tiger_populations_general_4",
+        "type": "text",
+        "order": 4,
+        "data": "三个亚种——里海虎、爪哇虎和巴厘虎——在20世纪因狩猎和栖息地破坏而灭绝。"
+      },
+      {
+        "id": "tiger_populations_general_5",
+        "type": "text",
+        "order": 5,
+        "data": "老虎现在仅分布在其历史范围的约5%，主要在保护区、国家公园和偏远森林地区。"
+      },
+      {
+        "id": "tiger_populations_general_6",
+        "type": "text",
+        "order": 6,
+        "data": "全球保护倡议，如全球老虎恢复计划，旨在通过创建安全栖息地、减少偷猎和支持当地社区，将野生老虎数量翻倍。"
+      },
+      {
+        "id": "tiger_populations_general_img_1",
+        "type": "image",
+        "order": 7,
+        "data": {
+          "url": "https://www.wildcatfamily.com/wp-content/uploads/2018/05/il_570xN.1362847858_8m241.jpg",
+          "alt": "世界上的老虎",
+          "caption": "世界上的老虎"
+        }
+      }
+    ]
+  },
+  {
+    "id": "malayan_tiger_conservation_habitat",
+    "title": "栖息地保护",
+    "content": [
+      {
+        "id": "malayan_tiger_conservation_habitat_1",
+        "type": "text",
+        "order": 1,
+        "data": "保护马来半岛的森林对马来亚虎的生存至关重要。健康的森林提供食物、庇护所和抚养幼崽的安全区域。"
+      },
+      {
+        "id": "malayan_tiger_conservation_habitat_2",
+        "type": "text",
+        "order": 2,
+        "data": "保护区和国家公园限制森林砍伐和开发，为老虎提供一个安全的家园，让它们可以狩猎和繁殖。"
+      },
+      {
+        "id": "malayan_tiger_conservation_habitat_3",
+        "type": "text",
+        "order": 3,
+        "data": "野生动物走廊连接孤立的森林区域，使老虎能够在领地之间安全移动并保持遗传多样性。"
+      },
+      {
+        "id": "malayan_tiger_conservation_habitat_4",
+        "type": "text",
+        "order": 4,
+        "data": "重新造林项目恢复退化的土地，为猎物物种创造新的栖息地，支持稳定的老虎种群。"
+      },
+      {
+        "id": "malayan_tiger_conservation_habitat_5",
+        "type": "text",
+        "order": 5,
+        "data": "科学家使用无人机和卫星成像监测森林健康，以便及早发现非法伐木或栖息地破坏。"
+      }
+    ]
+  },
+  {
+    "id": "malayan_tiger_conservation_anti_poaching",
+    "title": "反偷猎与研究",
+    "content": [
+      {
+        "id": "malayan_tiger_conservation_anti_poaching_1",
+        "type": "text",
+        "order": 1,
+        "data": "偷猎是对马来亚虎的主要威胁。护林员进行定期巡逻，清除陷阱并逮捕非法猎人。"
+      },
+      {
+        "id": "malayan_tiger_conservation_anti_poaching_2",
+        "type": "text",
+        "order": 2,
+        "data": "相机陷阱和GPS项圈帮助研究人员追踪老虎的移动，了解它们的行为，并识别有偷猎风险的区域。"
+      },
+      {
+        "id": "malayan_tiger_conservation_anti_poaching_3",
+        "type": "text",
+        "order": 3,
+        "data": "老虎的遗传研究帮助科学家保持遗传多样性并防止小种群中的近亲繁殖。"
+      },
+      {
+        "id": "malayan_tiger_conservation_anti_poaching_4",
+        "type": "text",
+        "order": 4,
+        "data": "社区参与计划教当地人如何减少与老虎的冲突并从保护工作中受益。"
+      },
+      {
+        "id": "malayan_tiger_conservation_anti_poaching_5",
+        "type": "text",
+        "order": 5,
+        "data": "国际合作确保资金、知识交流和协调行动，跨境保护马来亚虎。"
+      }
+    ]
+  },
+  {
+    "id": "malayan_tiger_conservation_awareness",
+    "title": "公众意识与教育",
+    "content": [
+      {
+        "id": "malayan_tiger_conservation_awareness_1",
+        "type": "text",
+        "order": 1,
+        "data": "提高对马来亚虎的认识有助于人们了解保护的重要性以及人类行为如何影响野生动物。"
+      },
+      {
+        "id": "malayan_tiger_conservation_awareness_2",
+        "type": "text",
+        "order": 2,
+        "data": "学校的教育计划向儿童传授老虎栖息地、行为和它们面临的威胁，激励未来的保护主义者。"
+      },
+      {
+        "id": "malayan_tiger_conservation_awareness_3",
+        "type": "text",
+        "order": 3,
+        "data": "使用社交媒体、视频和海报的媒体宣传活动突出马来亚虎的危急状况并鼓励公众支持。"
+      },
+      {
+        "id": "malayan_tiger_conservation_awareness_4",
+        "type": "text",
+        "order": 4,
+        "data": "动物园和野生动物公园的项目允许人们安全地观察马来亚虎，帮助他们与这个物种建立情感联系并关心其生存。"
+      },
+      {
+        "id": "malayan_tiger_conservation_awareness_5",
+        "type": "text",
+        "order": 5,
+        "data": "研讨会和社区讲座教育当地居民如何减少与老虎的冲突并参与保护活动。"
+      },
+      {
+        "id": "malayan_tiger_conservation_awareness_6",
+        "type": "text",
+        "order": 6,
+        "data": "与影响者和环保组织合作，将保护信息传递给更广泛的受众。"
+      }
+    ]
+  },
+  {
+    "id": "ants_sugars_factsheet",
+    "title": "蚂蚁饮食中的糖和花蜜",
+    "content": [
+      {
+        "id": "sugars_factsheet_img_1",
+        "type": "image",
+        "order": 1,
+        "data": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Nectar.jpg",
+          "alt": "花朵中的花蜜",
+          "caption": "花朵中的花蜜"
+        }
+      },
+      {
+        "id": "sugars_factsheet_1",
+        "type": "text",
+        "order": 2,
+        "data": "花蜜是许多蚂蚁的主要碳水化合物来源，通常使用专门的口器直接从花朵中采集。糖浓度可能因植物物种、一天中的时间和环境条件而异。"
+      },
+      {
+        "id": "sugars_factsheet_2",
+        "type": "text",
+        "order": 3,
+        "data": "蜜露是蚜虫和其他半翅目昆虫产生的含糖分泌物。蚂蚁通常保护这些昆虫，以换取稳定的蜜露供应，形成互利共生关系。"
+      },
+      {
+        "id": "sugars_factsheet_3",
+        "type": "text",
+        "order": 4,
+        "data": "富含碳水化合物的食物不仅对个体能量至关重要，对整个蚁群的任务也至关重要，如育雏、巢穴维护和长距离觅食。"
+      },
+      {
+        "id": "sugars_factsheet_4",
+        "type": "text",
+        "order": 5,
+        "data": "蚂蚁可能形成高度组织化的觅食路线，以最大化含糖食物的收集效率，通常使用信息素标记来引导同巢成员到达丰富的来源。"
+      }
+    ]
+  }
+]
+

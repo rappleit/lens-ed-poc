@@ -1,0 +1,227 @@
+[
+  {
+    "id": "ants_diet",
+    "title": "蚂蚁饮食",
+    "summary": "蚂蚁依赖各种各样的食物来为蚁群提供能量，从甜液体到富含蛋白质的食物。它们的进食受本能和化学信号的引导，使它们能够检测到营养来源并将其位置传达给其他蚁群成员。不同的物种已经进化出独特的获取和处理食物的策略，从单独或团队觅食到培育真菌园。蚂蚁的饮食不仅支持它们的能量需求，还支持信息素、酶和其他化学物质的产生，使蚁群保持健康和协调。",
+    "parentTopic": "ants",
+    "subtopics": [
+      { "id": "diet_sugars", "order": 1 },
+      { "id": "diet_protein", "order": 2 },
+      { "id": "diet_fungi", "order": 3 },
+      { "id": "diet_special", "order": 4 }
+    ],
+    "factsheets": [{ "id": "ants_diet_overview", "order": 1 }],
+    "questions": [
+      { "id": "how_do_ants_find_food", "order": 1 },
+      { "id": "why_do_ants_farm_fungi", "order": 2 }
+    ]
+  },
+  {
+    "id": "tiger_populations",
+    "title": "老虎种群",
+    "summary": "老虎曾经在亚洲大部分地区游荡，从土耳其到俄罗斯东海岸，一直到印度尼西亚。在过去的一个世纪里，它们的分布范围和数量急剧下降。今天，野生老虎仅在小而分散的栖息地中发现，全球剩余不到4,000只。不同的亚种生活在不同的地区，每个亚种都适应自己的环境，但都面临偷猎和栖息地丧失的类似威胁。",
+    "parentTopic": "malayan_tiger",
+    "subtopics": [],
+    "factsheets": [{ "id": "tiger_populations_general", "order": 1 }],
+    "questions": [
+      { "id": "tiger_populations_q1", "order": 1 },
+      { "id": "tiger_populations_q2", "order": 2 },
+      { "id": "tiger_populations_q3", "order": 3 },
+      { "id": "tiger_populations_q4", "order": 4 },
+      { "id": "tiger_populations_q5", "order": 5 }
+    ]
+  },
+  {
+    "id": "malayan_tiger_conservation",
+    "title": "马来亚虎保护",
+    "partner": {
+      "name": "新加坡万态保育集团动物园",
+      "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1LKmX5NoHJJcQGf14Vbnn_UN9YQ3dOK-eTQ&s",
+      "url": "https://www.mandai.com/singapore-zoo"
+    },
+    "summary": "马来亚虎极度濒危，野外剩余不到200只。保护工作侧重于保护森林、制止偷猎和减少人类与野生动物的冲突。巡逻、研究和野生动物走廊有助于保护老虎，而公众意识则鼓励支持它们的生存。",
+    "parentTopic": "malayan_tiger",
+    "subtopics": [],
+    "factsheets": [
+      { "id": "malayan_tiger_conservation_habitat", "order": 1 },
+      { "id": "malayan_tiger_conservation_anti_poaching", "order": 2 },
+      { "id": "malayan_tiger_conservation_awareness", "order": 3 }
+    ],
+    "questions": []
+  },
+  {
+    "id": "ants_habitat",
+    "title": "蚂蚁栖息地",
+    "summary": "蚂蚁在地下、树上以及有时在人类建筑内的蚁群中生活。",
+    "parentTopic": "ants",
+    "subtopics": [],
+    "factsheets": [{ "id": "ants_habitat", "order": 1 }],
+    "questions": [{ "id": "where_do_ants_build_nests", "order": 1 }]
+  },
+  {
+    "id": "ants_formic_acid",
+    "title": "蚁酸",
+    "summary": "蚁酸是蚂蚁产生的用于防御的化学物质。",
+    "parentTopic": "ants",
+    "subtopics": [],
+    "factsheets": [{ "id": "ants_formic_acid", "order": 1 }],
+    "questions": [{ "id": "what_is_formic_acid", "order": 1 }]
+  },
+  {
+    "id": "ants_cuticular_hydrocarbons",
+    "title": "表皮碳氢化合物",
+    "summary": "蚂蚁使用表皮碳氢化合物进行通信和识别蚁群成员。",
+    "parentTopic": "ants",
+    "subtopics": [],
+    "factsheets": [{ "id": "ants_cuticular_hydrocarbons", "order": 1 }],
+    "questions": [{ "id": "how_do_ants_recognize_each_other", "order": 1 }]
+  },
+  {
+    "id": "diet_sugars",
+    "title": "糖和花蜜",
+    "summary": "许多蚂蚁物种严重依赖含糖食物来为其高能量的生活方式提供燃料。来自花朵的花蜜、蚜虫和其他吸食树汁的昆虫分泌的蜜露，以及植物渗出物提供了蚂蚁用于即时能量和蚁群维护的必需碳水化合物。这些含糖资源通常由觅食工蚁收集，并通过口对口喂养的过程在同巢成员之间共享。这些甜食的可用性影响蚂蚁的觅食模式、路径形成，甚至蚁群扩张。",
+    "parentTopic": "ants_diet",
+    "subtopics": [],
+    "factsheets": [
+      { "id": "ants_sugars_factsheet", "order": 1 }
+    ],
+    "questions": []
+  },
+  {
+    "id": "diet_protein",
+    "title": "蛋白质来源",
+    "summary": "蚂蚁还摄取蛋白质来源，如昆虫、小型无脊椎动物和残渣食物。",
+    "parentTopic": "ants_diet",
+    "subtopics": [],
+    "factsheets": [],
+    "questions": []
+  },
+  {
+    "id": "diet_fungi",
+    "title": "真菌种植",
+    "summary": "一些蚂蚁物种，如切叶蚁，在巢穴中培育真菌作为主要食物来源。",
+    "parentTopic": "ants_diet",
+    "subtopics": [],
+    "factsheets": [],
+    "questions": []
+  },
+  {
+    "id": "diet_special",
+    "title": "特殊饮食",
+    "summary": "某些蚂蚁物种具有高度专门化的饮食，例如专门以种子或活昆虫为食。",
+    "parentTopic": "ants_diet",
+    "subtopics": [],
+    "factsheets": [],
+    "questions": []
+  },
+  {
+    "id": "ants_social_structure",
+    "title": "社会结构",
+    "summary": "蚁群被组织成复杂的社会等级制度，具有不同的等级，包括蚁后、工蚁和兵蚁，各自具有专门的角色和职责。",
+    "parentTopic": "ants",
+    "subtopics": [],
+    "factsheets": [],
+    "questions": []
+  },
+  {
+    "id": "ants_reproduction",
+    "title": "繁殖",
+    "summary": "蚂蚁繁殖涉及复杂的交配飞行、蚁后建立蚁群以及通过环境和遗传因素发展不同等级。",
+    "parentTopic": "ants",
+    "subtopics": [],
+    "factsheets": [],
+    "questions": []
+  },
+  {
+    "id": "painting_styles",
+    "title": "绘画风格",
+    "summary": "常见风格概述，如写实主义、印象派、抽象等。",
+    "parentTopic": "painting",
+    "subtopics": [],
+    "factsheets": [],
+    "questions": []
+  },
+  {
+    "id": "painting_materials",
+    "title": "绘画材料",
+    "summary": "常见材料和工具：颜料、溶剂、画笔、表面和介质。",
+    "parentTopic": "painting",
+    "subtopics": [],
+    "factsheets": [],
+    "questions": []
+  },
+  {
+    "id": "painting_purposes",
+    "title": "绘画目的",
+    "summary": "人们绘画的原因：表达、记录、装饰、仪式和交流。",
+    "parentTopic": "painting",
+    "subtopics": [],
+    "factsheets": [],
+    "questions": []
+  },
+  {
+    "id": "pigments",
+    "title": "颜料",
+    "summary": "颜料是油漆中的有色颗粒，吸收和反射光以产生可见的颜色。它们可以来自天然矿物、植物或合成化合物。纵观历史，群青、赭石和朱砂等颜料因其美丽和稀有而备受珍视。现代颜料通常是为稳定性、亮度和抗褪色而设计的，使它们对艺术表达和画作的持久性都至关重要。",
+    "parentTopic": "painting",
+    "subtopics": [{ "id": "carmine", "order": 1 }],
+    "factsheets": [
+      {
+        "id": "pigments_general",
+        "order": 1
+      }
+    ],
+    "questions": [
+      "why_pigments_expensive",
+      "which_pigments_toxic",
+      "which_pigments_from_insects"
+    ]
+  },
+  {
+    "id": "binders_and_solvents",
+    "title": "粘合剂和溶剂",
+    "summary": "粘合剂形成油漆膜；溶剂调节粘度并在干燥过程中蒸发。",
+    "parentTopic": "painting",
+    "subtopics": [],
+    "factsheets": [],
+    "questions": []
+  },
+  {
+    "id": "conservation_chemistry",
+    "title": "保护化学",
+    "summary": "用于保存和修复画作的分析方法和处理。",
+    "parentTopic": "painting",
+    "subtopics": [],
+    "factsheets": [],
+    "questions": []
+  },
+  {
+    "id": "degradation_pathways",
+    "title": "降解途径",
+    "summary": "油漆如何老化：氧化、水解、光降解和机械失效。",
+    "parentTopic": "painting",
+    "subtopics": [],
+    "factsheets": [],
+    "questions": []
+  },
+  {
+    "id": "carmine",
+    "title": "胭脂红",
+    "summary": "胭脂红是一种深红色颜料，源自原产于中美洲和南美洲的胭脂虫。它是通过收获、干燥和处理昆虫来提取胭脂红酸制成的。历史上因其鲜艳的颜色而备受珍视，胭脂红用于绘画、手稿、纺织品和皇家装饰。今天，它也用于化妆品、食用色素和艺术用品。其独特的生物来源和持久的色调使其成为艺术、文化和化学之间联系的重要例子。",
+    "parentTopic": "pigments",
+    "subtopics": [],
+    "factsheets": [
+      {
+        "id": "carmine_general",
+        "order": 1
+      },
+      { "id": "carmine_ethics", "order": 2 }
+    ],
+    "questions": [
+      "why_carmine_dominated",
+      "what_makes_carmine_bright",
+      "how_synthetic_carmine_made"
+    ]
+  }
+]
+

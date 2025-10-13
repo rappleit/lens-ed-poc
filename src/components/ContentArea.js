@@ -6,7 +6,7 @@ import PartnershipBanner from "./PartnershipBanner";
 import TitleCard from "./TitleCard";
 import TTSButton from './TTSButton';
 
-const ContentArea = ({ currentContent, onNavigate }) => {
+const ContentArea = ({ currentContent, activeLensIds = [], onNavigate }) => {
   if (!currentContent) {
     return (
       <div className="h-full max-w-4xl mx-auto">
@@ -44,17 +44,19 @@ const ContentArea = ({ currentContent, onNavigate }) => {
 
       <div className="flex flex-col gap-10 md:gap-6 pb-10 mx-1">
         {currentContent.factsheets && currentContent.factsheets.length > 0 && (
-          <Factsheet factsheets={currentContent.factsheets} />
+          <Factsheet factsheets={currentContent.factsheets} lensIds={activeLensIds} />
         )}
         {currentContent.subtopics && currentContent.subtopics.length > 0 && (
           <SubtopicsSection
             subtopics={currentContent.subtopics}
+            lensIds={activeLensIds}
             onNavigate={onNavigate}
           />
         )}
         {currentContent.questions && currentContent.questions.length > 0 && (
           <QuestionsSection
             questions={currentContent.questions}
+            lensIds={activeLensIds}
             onNavigate={onNavigate}
           />
         )}

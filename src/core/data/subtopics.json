@@ -226,5 +226,50 @@
       "what_makes_carmine_bright",
       "how_synthetic_carmine_made"
     ]
+  },
+  {
+    "id": "ants_communication",
+    "title": "Ant Communication",
+    "summary": "Ant communication extends far beyond chemical signals to include a sophisticated repertoire of tactile, vibrational, and visual cues that coordinate colony activities. Antennation, the touching of antennae between individuals, transfers information about identity, task allocation, and food quality through both physical contact and exchange of chemical compounds. Some species produce substrate-borne vibrations by drumming body parts against nest walls or leaf surfaces, creating acoustic signals that recruit workers or warn of danger. Visual communication, though less common, occurs in species with well-developed eyes that use body postures and movements to convey information during recruitment or territorial disputes.",
+    "parentTopic": "ants",
+    "subtopics": [],
+    "factsheets": [{ "id": "ants_communication_methods", "order": 1 }],
+    "questions": []
+  },
+  {
+    "id": "ants_defense",
+    "title": "Ant Defense and Warfare",
+    "summary": "Ants have evolved remarkable defensive strategies to protect their colonies from predators, parasites, and rival ant colonies. Specialized soldier castes with enlarged heads and powerful mandibles guard nest entrances and engage in combat when threats arise. Chemical defenses include venoms, acids, and repellent secretions delivered through stings, sprays, or direct application. Some species employ living barricades where workers plug entrances with their heads, while others engage in coordinated mass attacks that overwhelm intruders through sheer numbers. Intercolony warfare can involve elaborate raiding strategies, with some species conducting slave raids to capture pupae from other colonies.",
+    "parentTopic": "ants",
+    "subtopics": [],
+    "factsheets": [{ "id": "ants_defense_strategies", "order": 1 }],
+    "questions": []
+  },
+  {
+    "id": "ants_symbiosis",
+    "title": "Symbiotic Relationships",
+    "summary": "Ants engage in diverse symbiotic relationships that range from mutually beneficial partnerships to exploitative interactions. Their farming of aphids and scale insects represents one of nature's most sophisticated animal husbandry systems, with ants tending these insects in exchange for honeydew while providing protection from predators and parasites. Fungus-growing ants cultivate specialized fungi in underground gardens, feeding them with fresh plant material and maintaining optimal growing conditions through temperature regulation and pest control. Plant-ant mutualisms create living fortresses where plants provide shelter and food rewards in exchange for aggressive defense against herbivores. Some ants harbor endosymbiotic bacteria that produce essential nutrients or antibiotics, while others exploit relationships as social parasites that infiltrate host colonies.",
+    "parentTopic": "ants",
+    "subtopics": [],
+    "factsheets": [{ "id": "ants_symbiotic_partnerships", "order": 1 }],
+    "questions": []
+  },
+  {
+    "id": "ants_navigation",
+    "title": "Navigation and Orientation",
+    "summary": "Ants navigate their environments using multiple complementary strategies that enable precise homing even across complex terrain. Path integration allows foragers to maintain a continuously updated mental vector pointing home by integrating information about distances traveled and directional changes relative to celestial or magnetic cues. Visual landmark learning supplements dead reckoning, with experienced ants developing detailed cognitive maps of their foraging areas based on panoramic snapshots of surrounding features. Olfactory landmarks, including pheromone trails laid by previous foragers, create chemical roadmaps that guide nestmates to resources. Some species use polarized light patterns in the sky as a compass, while others employ magnetic field detection or measure distance through step counting, demonstrating the remarkable navigational sophistication packed into tiny brains.",
+    "parentTopic": "ants",
+    "subtopics": [],
+    "factsheets": [{ "id": "ants_navigation_systems", "order": 1 }],
+    "questions": []
+  },
+  {
+    "id": "colony_lifecycle",
+    "title": "Colony Lifecycle and Founding",
+    "summary": "The lifecycle of an ant colony spans from founding by a single queen to maturity with thousands or millions of workers, following predictable developmental stages that shape colony structure and behavior. Colony founding typically begins with nuptial flights where winged males and virgin queens leave their natal nests to mate in the air, after which mated queens shed their wings and search for suitable nest sites. During the claustral founding phase, queens seal themselves in chambers and rely entirely on metabolized wing muscles and fat reserves to produce the first generation of workers without foraging. As worker numbers increase, colonies transition through growth phases with shifting investment in worker production, nest expansion, and eventually reproductive output. Mature colonies produce new queens and males in seasonal reproductive events, completing the cycle while the original colony may persist for decades through queen replacement or continue until the founding queen's death.",
+    "parentTopic": "ants",
+    "subtopics": [],
+    "factsheets": [{ "id": "colony_lifecycle_stages", "order": 1 }],
+    "questions": []
   }
 ]

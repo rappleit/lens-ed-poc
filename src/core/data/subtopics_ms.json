@@ -1,0 +1,217 @@
+[
+  {
+    "id": "ants_diet",
+    "title": "Diet Semut",
+    "summary": "Semut bergantung kepada pelbagai jenis makanan untuk menggerakkan koloni mereka, daripada cecair manis hingga makanan kaya protein. Pemakanan mereka dipandu oleh naluri dan isyarat kimia, membolehkan mereka mengesan sumber yang berkhasiat dan menyampaikan lokasi kepada ahli koloni yang lain. Spesies yang berbeza telah mengembangkan strategi unik untuk memperoleh dan memproses makanan, daripada mencari makanan secara individu atau dalam kumpulan hingga mengusahakan taman kulat. Diet semut menyokong bukan sahaja keperluan tenaga mereka tetapi juga penghasilan feromon, enzim, dan bahan kimia lain yang mengekalkan koloni sihat dan terkoordinasi.",
+    "parentTopic": "ants",
+    "subtopics": [
+      { "id": "diet_sugars", "order": 1 },
+      { "id": "diet_protein", "order": 2 },
+      { "id": "diet_fungi", "order": 3 },
+      { "id": "diet_special", "order": 4 }
+    ],
+    "factsheets": [{ "id": "ants_diet_overview", "order": 1 }],
+    "questions": [
+      { "id": "how_do_ants_find_food", "order": 1 },
+      { "id": "why_do_ants_farm_fungi", "order": 2 }
+    ]
+  },
+  {
+    "id": "tiger_populations",
+    "title": "Populasi Harimau",
+    "summary": "Harimau pernah berkeliaran di sebahagian besar Asia, dari Turki ke pantai timur Rusia dan ke Indonesia. Sepanjang abad yang lalu, julat dan bilangan mereka telah menurun dengan ketara. Hari ini, harimau liar hanya ditemui di habitat kecil yang berpecah-belah, dengan kurang daripada 4,000 yang tinggal di seluruh dunia. Subspesies yang berbeza hidup di kawasan yang berbeza, masing-masing disesuaikan dengan persekitarannya sendiri, tetapi semuanya menghadapi ancaman yang sama daripada pemburuan haram dan kehilangan habitat.",
+    "parentTopic": "malayan_tiger",
+    "subtopics": [],
+    "factsheets": [{ "id": "tiger_populations_general", "order": 1 }],
+    "questions": [
+      { "id": "tiger_populations_q1", "order": 1 },
+      { "id": "tiger_populations_q2", "order": 2 },
+      { "id": "tiger_populations_q3", "order": 3 },
+      { "id": "tiger_populations_q4", "order": 4 },
+      { "id": "tiger_populations_q5", "order": 5 }
+    ]
+  },
+  {
+    "id": "malayan_tiger_conservation",
+    "title": "Pemuliharaan Harimau Malaya",
+    "partner": {
+      "name": "Mandai Singapore Zoo",
+      "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1LKmX5NoHJJcQGf14Vbnn_UN9YQ3dOK-eTQ&s",
+      "url": "https://www.mandai.com/singapore-zoo"
+    },
+    "summary": "Harimau Malaya terancam kritikal, dengan kurang daripada 200 yang tinggal di alam liar. Pemuliharaan memberi tumpuan kepada melindungi hutan, menghentikan pemburuan haram, dan mengurangkan konflik manusia-hidupan liar. Rondaan, penyelidikan, dan koridor hidupan liar membantu melindungi harimau, manakala kesedaran awam menggalakkan sokongan untuk kelangsungan hidup mereka.",
+    "parentTopic": "malayan_tiger",
+    "subtopics": [],
+    "factsheets": [
+      { "id": "malayan_tiger_conservation_habitat", "order": 1 },
+      { "id": "malayan_tiger_conservation_anti_poaching", "order": 2 },
+      { "id": "malayan_tiger_conservation_awareness", "order": 3 }
+    ],
+    "questions": []
+  },
+  {
+    "id": "ants_habitat",
+    "title": "Habitat Semut",
+    "summary": "Semut hidup dalam koloni di bawah tanah, di pokok, dan kadang-kadang di dalam struktur manusia.",
+    "parentTopic": "ants",
+    "subtopics": [],
+    "factsheets": [{ "id": "ants_habitat", "order": 1 }],
+    "questions": [{ "id": "where_do_ants_build_nests", "order": 1 }]
+  },
+  {
+    "id": "ants_formic_acid",
+    "title": "Asid Formik",
+    "summary": "Asid formik adalah bahan kimia yang dihasilkan oleh semut untuk pertahanan.",
+    "parentTopic": "ants",
+    "subtopics": [],
+    "factsheets": [{ "id": "ants_formic_acid", "order": 1 }],
+    "questions": [{ "id": "what_is_formic_acid", "order": 1 }]
+  },
+  {
+    "id": "ants_cuticular_hydrocarbons",
+    "title": "Hidrokarbon Kutikular",
+    "summary": "Semut menggunakan hidrokarbon kutikular untuk berkomunikasi dan mengenali ahli koloni.",
+    "parentTopic": "ants",
+    "subtopics": [],
+    "factsheets": [{ "id": "ants_cuticular_hydrocarbons", "order": 1 }],
+    "questions": [{ "id": "how_do_ants_recognize_each_other", "order": 1 }]
+  },
+  {
+    "id": "diet_sugars",
+    "title": "Gula dan Nektar",
+    "summary": "Banyak spesies semut sangat bergantung kepada makanan manis untuk menggerakkan gaya hidup bertenaga tinggi mereka. Nektar daripada bunga, embun madu yang dirembeskan oleh aphid dan serangga penghisap getah lain, dan rembesan tumbuhan menyediakan karbohidrat penting yang digunakan semut untuk tenaga segera dan penyelenggaraan koloni. Sumber manis ini sering dikumpul oleh pekerja mencari makanan dan dikongsi antara ahli sarang melalui trophallaxis, proses pemberian makanan mulut ke mulut. Ketersediaan makanan manis ini mempengaruhi corak pencarian makanan semut, pembentukan jejak, dan juga pengembangan koloni.",
+    "parentTopic": "ants_diet",
+    "subtopics": [],
+    "factsheets": [{ "id": "ants_sugars_factsheet", "order": 1 }],
+    "questions": []
+  },
+  {
+    "id": "diet_protein",
+    "title": "Sumber Protein",
+    "summary": "Semut juga memakan sumber protein seperti serangga, invertebrata kecil, dan makanan sisa.",
+    "parentTopic": "ants_diet",
+    "subtopics": [],
+    "factsheets": [],
+    "questions": []
+  },
+  {
+    "id": "diet_fungi",
+    "title": "Penanaman Kulat",
+    "summary": "Beberapa spesies semut, seperti semut pemotong daun, mengusahakan kulat di sarang mereka sebagai sumber makanan utama.",
+    "parentTopic": "ants_diet",
+    "subtopics": [],
+    "factsheets": [],
+    "questions": []
+  },
+  {
+    "id": "diet_special",
+    "title": "Diet Khusus",
+    "summary": "Spesies semut tertentu mempunyai diet yang sangat khusus, seperti memakan benih atau serangga hidup secara eksklusif.",
+    "parentTopic": "ants_diet",
+    "subtopics": [],
+    "factsheets": [],
+    "questions": []
+  },
+  {
+    "id": "ants_social_structure",
+    "title": "Struktur Sosial",
+    "summary": "Koloni semut diatur ke dalam hierarki sosial yang canggih dengan kasta yang berbeza termasuk ratu, pekerja, dan tentera, masing-masing dengan peranan dan tanggungjawab khusus.",
+    "parentTopic": "ants",
+    "subtopics": [],
+    "factsheets": [],
+    "questions": []
+  },
+  {
+    "id": "ants_reproduction",
+    "title": "Pembiakan",
+    "summary": "Pembiakan semut melibatkan penerbangan mengawan yang kompleks, pengasasan koloni oleh ratu, dan perkembangan kasta yang berbeza melalui faktor persekitaran dan genetik.",
+    "parentTopic": "ants",
+    "subtopics": [],
+    "factsheets": [],
+    "questions": []
+  },
+  {
+    "id": "painting_styles",
+    "title": "Gaya Lukisan",
+    "summary": "Gambaran keseluruhan gaya biasa seperti realisme, impresionisme, abstrak, dan banyak lagi.",
+    "parentTopic": "painting",
+    "subtopics": [],
+    "factsheets": [],
+    "questions": []
+  },
+  {
+    "id": "painting_materials",
+    "title": "Bahan Lukisan",
+    "summary": "Bahan dan alatan biasa: cat, pelarut, berus, permukaan, dan medium.",
+    "parentTopic": "painting",
+    "subtopics": [],
+    "factsheets": [],
+    "questions": []
+  },
+  {
+    "id": "painting_purposes",
+    "title": "Tujuan Lukisan",
+    "summary": "Sebab orang melukis: ekspresi, dokumentasi, hiasan, ritual, dan komunikasi.",
+    "parentTopic": "painting",
+    "subtopics": [],
+    "factsheets": [],
+    "questions": []
+  },
+  {
+    "id": "pigments",
+    "title": "Pigmen",
+    "summary": "Pigmen adalah zarah berwarna dalam cat yang menyerap dan memantulkan cahaya untuk menghasilkan warna yang kelihatan. Mereka boleh berasal daripada mineral semula jadi, tumbuhan, atau sebatian kimia sintetik. Sepanjang sejarah, pigmen seperti ultramarine, oker, dan vermilion sangat dihargai untuk keindahan dan kejarangannya. Pigmen moden sering direkayasa untuk kestabilan, kecerahan, dan rintangan terhadap luntur, menjadikannya penting untuk ekspresi artistik dan jangka hayat lukisan.",
+    "parentTopic": "painting",
+    "subtopics": [{ "id": "carmine", "order": 1 }],
+    "factsheets": [{ "id": "pigments_general", "order": 1 }],
+    "questions": [
+      "why_pigments_expensive",
+      "which_pigments_toxic",
+      "which_pigments_from_insects"
+    ]
+  },
+  {
+    "id": "binders_and_solvents",
+    "title": "Pengikat & Pelarut",
+    "summary": "Pengikat membentuk filem cat; pelarut menyesuaikan kelikatan dan menyejat semasa pengeringan.",
+    "parentTopic": "painting",
+    "subtopics": [],
+    "factsheets": [],
+    "questions": []
+  },
+  {
+    "id": "conservation_chemistry",
+    "title": "Kimia Pemuliharaan",
+    "summary": "Kaedah analitik dan rawatan yang digunakan untuk memelihara dan memulihkan lukisan.",
+    "parentTopic": "painting",
+    "subtopics": [],
+    "factsheets": [],
+    "questions": []
+  },
+  {
+    "id": "degradation_pathways",
+    "title": "Laluan Degradasi",
+    "summary": "Bagaimana cat menua: pengoksidaan, hidrolisis, fotodegradasi, dan kegagalan mekanikal.",
+    "parentTopic": "painting",
+    "subtopics": [],
+    "factsheets": [],
+    "questions": []
+  },
+  {
+    "id": "carmine",
+    "title": "Karmin",
+    "summary": "Karmin adalah pigmen merah tua yang dihasilkan daripada serangga cochineal yang berasal dari Amerika Tengah dan Selatan. Ia dibuat dengan menuai, mengeringkan, dan memproses serangga untuk mengekstrak asid karminik. Dihargai secara sejarah untuk warnanya yang terang, karmin digunakan dalam lukisan, manuskrip, tekstil, dan hiasan diraja. Hari ini, ia juga digunakan dalam kosmetik, pewarna makanan, dan bekalan seni. Sumber biologinya yang unik dan warna yang tahan lama menjadikannya contoh penting hubungan antara seni, budaya, dan kimia.",
+    "parentTopic": "pigments",
+    "subtopics": [],
+    "factsheets": [
+      { "id": "carmine_general", "order": 1 },
+      { "id": "carmine_ethics", "order": 2 }
+    ],
+    "questions": [
+      "why_carmine_dominated",
+      "what_makes_carmine_bright",
+      "how_synthetic_carmine_made"
+    ]
+  }
+]
+

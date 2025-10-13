@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ants",
+    "title": "蚂蚁",
+    "summary": "蚂蚁是属于蚁科的社会性昆虫，以高度组织化的蚁群生活而闻名，蚁群中有蚁后、工蚁和兵蚁等专门角色。全球有超过15,000个物种，它们几乎在每个生态系统中繁衍生息，在那里作为分解者、种子传播者和生态工程师发挥着重要作用。它们的成功源于合作行为、复杂的通信以及建造地下和地上巢穴的能力。",
+    "subtopics": [
+      {"id": "ants_social_structure", "order": 1},
+      {"id": "ants_reproduction", "order": 2},
+      {"id": "ants_diet", "order": 3},
+      {"id": "ants_habitat", "order": 4}
+    ],
+    "factsheets": [
+      {"id": "ants_general", "order": 1}
+    ],
+    "questions": [
+      {"id": "why_do_ants_build_colonies", "order": 1},
+      {"id": "how_do_ants_find_food", "order": 2},
+      {"id": "where_do_ants_build_nests", "order": 3}
+    ]
+  },
+  {
+    "id": "painting",
+    "title": "绘画",
+    "titleBgUrl": "https://t4.ftcdn.net/jpg/04/02/30/49/360_F_402304964_lBkApbVhuhBwHuUPmKfJxi2ieO6cbGkD.jpg",
+    "summary": "绘画是通过在画布、纸张、墙壁或木材等表面涂抹颜色来创造图像、图案或表达的艺术。它是一种视觉叙事和个人表达的形式，在各种文化中已经实践了数千年。绘画可以是写实的、抽象的或想象的，艺术家使用各种材料、工具和技术来实现不同的效果。除了美学价值之外，绘画还是一种交流、文化记录和情感表达的手段。",
+    "subtopics": [
+      {"id": "painting_styles", "order": 1},
+      {"id": "painting_materials", "order": 2},
+      {"id": "painting_purposes", "order": 3}
+    ],
+    "factsheets": [
+      {"id": "painting_general", "order": 1}
+    ],
+    "questions": [
+      {"id": "how_do_paintings_last", "order": 1},
+      {"id": "what_materials_make_paint", "order": 2},
+      {"id": "why_do_colors_fade", "order": 3}
+    ]
+  },
+  {
+    "id": "malayan_tiger",
+    "title": "马来亚虎",
+    "titleBgUrl": "https://www.mandai.com/content/dam/mandai/singapore-zoo/animals-zones/tigers/Carousel_220302SZG_E3A8428.jpg.transform/compress/resize1000/img.jpg",
+    "partner": {
+      "name": "新加坡万态保育集团动物园",
+      "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1LKmX5NoHJJcQGf14Vbnn_UN9YQ3dOK-eTQ&s",
+      "url": "https://www.mandai.com/singapore-zoo"
+    },
+    "summary": "马来亚虎是在马来半岛热带森林中发现的极度濒危的老虎亚种。它比其他老虎亚种小，具有肌肉发达的体格、独特的橙色外套和黑色条纹，以及卓越的敏捷性，使其能够在茂密的丛林地形中有效狩猎。马来亚虎是独居的捕食者，以鹿、野猪和其他中型哺乳动物为食，它们在维持生态系统平衡方面发挥着关键作用。栖息地丧失、偷猎和人类与野生动物的冲突等威胁大大减少了它们的数量，使保护工作对确保它们的生存至关重要。",
+    "subtopics": [
+      {"id": "tiger_populations", "order": 1},
+      {"id": "malayan_tiger_conservation", "order": 2}
+    ],
+    "factsheets": [
+      {"id": "malayan_tiger_general", "order": 1}
+    ],
+    "questions": [
+      {"id": "where_do_malayan_tigers_live", "order": 1},
+      {"id": "what_do_malayan_tigers_eat", "order": 2},
+      {"id": "why_are_malayan_tigers_endangered", "order": 3},
+      {"id": "how_do_malayan_tigers_communicate", "order": 4}
+    ]
+  }
+]
+

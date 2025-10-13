@@ -7,7 +7,12 @@
         {"id": "ants_social_structure", "order": 1},
         {"id": "ants_reproduction", "order": 2},
         {"id": "ants_diet", "order": 3},
-        {"id": "ants_habitat", "order": 4}
+        {"id": "ants_habitat", "order": 4},
+        {"id": "ants_communication", "order": 5},
+        {"id": "ants_defense", "order": 6},
+        {"id": "ants_symbiosis", "order": 7},
+        {"id": "ants_navigation", "order": 8},
+        {"id": "colony_lifecycle", "order": 9}
       ],
       "factsheets": [
         {"id": "ants_general", "order": 1}

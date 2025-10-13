@@ -1,0 +1,93 @@
+[
+  {
+    "id": "chemistry_8yearold_combined",
+    "name": "儿童化学",
+    "requiresSequence": ["chemistry", "8_year_old"],
+    "rules": {
+      "ants": {
+        "overrides": {
+          "summary": "蚂蚁使用化学物质就像小小的看不见的工具来生活和一起工作。有些化学物质保护它们免受虫子和细菌侵害，有些帮助它们找到食物或警告朋友有危险，有些告诉其他蚂蚁谁属于它们的巢穴。这些看不见的"蚂蚁信号"帮助它们作为团队合作并保持安全。",
+          "factsheets": ["chemistry_of_ants_kids"],
+          "questions": [
+            "how_do_ants_use_chemical_signals",
+            "what_chemicals_do_ants_produce",
+            "why_is_formic_acid_effective"
+          ]
+        },
+        "filter": {
+          "excludeSubtopics": ["ants_habitat", "ants_reproduction"]
+        },
+        "augment": {
+          "factsheets": ["pheromone_communication_kids"]
+        }
+      },
+      "ants_diet": {
+        "overrides": {
+          "summary": "蚂蚁有微小的化学超能力，帮助它们吃东西并保持健康。它们可以使用特殊传感器"闻"出哪些食物是好的，它们的身体有叫做酶的小帮手，分解糖、蛋白质和脂肪，这样它们就可以使用能量。这意味着蚂蚁可以将许多不同的食物转化为燃料来奔跑、建造和照顾它们的蚁群。",
+          "factsheets": ["ants_diet_chemistry_kids"],
+          "questions": [
+            "how_do_ants_construct_buildings",
+            "what_engineering_principles_do_ants_use"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "engineering_8yearold_combined",
+    "name": "儿童工程",
+    "requiresSequence": ["engineering", "8_year_old"],
+    "rules": {
+      "ants": {
+        "overrides": {
+          "summary": "蚂蚁是小小的建造者！它们挖隧道，为小蚂蚁制作房间，甚至用自己的身体建造桥梁，让其他蚂蚁可以过河。它们的家有空气隧道保持巢穴舒适，就像建筑物使用通风口一样。",
+          "factsheets": ["ants_architecture_kids"],
+          "questions": [
+            "how_do_ants_construct_buildings",
+            "what_engineering_principles_do_ants_use"
+          ]
+        },
+        "filter": {
+          "excludeQuestions": ["how_do_ants_find_food"]
+        }
+      }
+    }
+  },
+  {
+    "id": "chemistry_agriculture_combined",
+    "name": "化学 x 农业",
+    "requiresSequence": ["chemistry", "agriculture"],
+    "rules": {
+      "ants": {
+        "overrides": {
+          "summary": "从化学和农业角度来看，蚂蚁是微小的农业化学家。它们使用化学物质种植和保护作物、管理牲畜并控制害虫。切叶蚁应用抗菌化合物来保持真菌园健康，而其他蚂蚁使用信息素放牧蚜虫并调节蜜露生产。化学物质还帮助蚂蚁保存种子、检测变质食物并协调农业任务，表明它们先进的农业系统依赖于复杂的化学工具包。",
+          "factsheets": [],
+          "questions": [
+            "how_do_ants_practice_agriculture",
+            "what_crops_do_ants_cultivate",
+            "how_do_ants_manage_livestock"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "chemistry_agriculture__8yearoldcombined",
+    "name": "化学 x 农业 x 8岁儿童",
+    "requiresSequence": ["chemistry", "agriculture", "8_year_old"],
+    "rules": {
+      "ants": {
+        "overrides": {
+          "summary": "蚂蚁是使用特殊化学物质帮助它们种植食物和照顾家园的小农民。切叶蚁使用天然药物保持真菌园健康。有些蚂蚁放牧叫做蚜虫的小虫子来获得甜蜜露，化学物质帮助它们知道哪些植物和种子适合吃或储存。它们的农场就像一个迷你科学实验室，化学物质帮助它们一起工作并保持一切顺利运行。",
+          "factsheets": [],
+          "questions": [
+            "how_do_ants_practice_agriculture",
+            "what_crops_do_ants_cultivate",
+            "how_do_ants_manage_livestock"
+          ]
+        }
+      }
+    }
+  }
+]
+
