@@ -35,7 +35,7 @@ const SubtopicsSection = ({ subtopics, lensIds = [], onNavigate }) => {
         <h2 className="m-0 text-xl font-semibold text-gray-600">Subtopics</h2>
       </div>
       
-      <div className="p-0 grid grid-cols-1 md:grid-cols-1 lg:grid-cols-2 xl:grid-cols-1 2xl:grid-cols-2 gap-5 auto-fit-[280px]">
+      <div className="p-0 grid grid-cols-1 lg:grid-cols-1 lg:grid-cols-2 xl:grid-cols-1 2xl:grid-cols-2 gap-5 auto-fit-[280px]">
         {subtopicData.map((subtopic) => (
           <SubtopicCard
             key={subtopic.id}

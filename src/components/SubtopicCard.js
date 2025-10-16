@@ -17,8 +17,8 @@ const SubtopicCard = ({ subtopic, onClick }) => {
       </div>
       
       <div className="flex-1">
-        <h3 className="m-0 mb-1 text-lg font-semibold text-gray-800">{subtopic.title}</h3>
-        <p className="m-0 text-sm text-gray-500 leading-snug line-clamp-2">{subtopic.description}</p>
+        <h3 className="m-0 mb-1 lg:text-lg text-base font-semibold text-gray-800">{subtopic.title}</h3>
+        <p className="m-0 lg:text-sm text-xs text-gray-500 leading-snug line-clamp-2">{subtopic.description}</p>
       </div>
       
       <div className="text-gray-500 text-xl opacity-60 transition-all duration-200 flex-shrink-0 group-hover:opacity-100 group-hover:text-blue-500 group-hover:translate-x-0.5">

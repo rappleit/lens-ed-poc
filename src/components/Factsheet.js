@@ -41,12 +41,12 @@ const Factsheet = ({ factsheets, lensIds = [] }) => {
             {factsheet.content.map((contentBlock) => (
               <div key={contentBlock.id} className="mb-3 last:mb-0">
                 {contentBlock.type === "text" && (
-                  <p className="m-0 text-base leading-relaxed text-gray-600">
+                  <p className="m-0 lg:text-base text-sm leading-relaxed text-gray-600">
                     {contentBlock.data}
                   </p>
                 )}
                 {contentBlock.type === "markdown" && (
-                  <div className="prose max-w-none">
+                  <div className="prose max-w-none lg:text-base text-sm">
                     <ReactMarkdown>{contentBlock.data}</ReactMarkdown>
                   </div>
                 )}
@@ -55,10 +55,10 @@ const Factsheet = ({ factsheets, lensIds = [] }) => {
                     <img
                       src={contentBlock.data.url}
                       alt={contentBlock.data.alt}
-                      className="max-w-[50%] h-auto rounded"
+                      className="md:max-w-[50%] max-w-full h-auto rounded"
                     />
                     {contentBlock.data.caption && (
-                      <p className="text-sm text-gray-500 mt-2 italic">
+                      <p className="lg:text-sm text-xs text-gray-500 mt-2 italic">
                         {contentBlock.data.caption}
                       </p>
                     )}

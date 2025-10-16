@@ -17,7 +17,7 @@ const QuestionCard = ({ question }) => {
         <div className="flex items-center justify-center w-6 h-6 text-blue-500 text-xl flex-shrink-0">
           {isExpanded ? <HiChevronDown /> : <HiChevronRight />}
         </div>
-        <h3 className="m-0 text-base font-semibold text-gray-800 flex-1">{question.question}</h3>
+        <h3 className="m-0 lg:text-base text-sm font-semibold text-gray-800 flex-1">{question.question}</h3>
       </div>
       
       {isExpanded && (
