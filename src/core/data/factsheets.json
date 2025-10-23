@@ -219,7 +219,7 @@
     "content": [
       {
         "id": "ants_cuticular_hydrocarbons_1",
-        "type": "text",
+        "type": "markdown",
         "order": 1,
         "data": "Cuticular hydrocarbons form a sophisticated chemical identification system that serves as the molecular basis for [ant social organization](/search/ants_social_structure) and colony recognition. These waxy compounds create unique chemical signatures that vary between species, colonies, and individual castes. The hydrocarbon profile acts like a chemical passport, allowing ants to instantly distinguish between nestmates and foreign individuals while coordinating [cooperative behaviors](/search/ants_communication)."
       }
@@ -326,7 +326,7 @@
       },
       {
         "id": "pheromone_communication_kids_1",
-        "type": "text",
+        "type": "markdown",
         "order": 2,
         "data": "Ants have a secret chemical language! They leave invisible trails so friends can find [food](/search/ants_diet), release alarm smells when danger is near, and the [queen](/search/ants_social_structure) sends special scents that tell workers what to do. These chemical messages help the whole colony work together, even if there are thousands of ants."
       },
@@ -365,7 +365,7 @@
       },
       {
         "id": "diet_chemistry_3",
-        "type": "text",
+        "type": "markdown",
         "order": 3,
         "data": "[Chemical communication](/search/ants_communication) plays a crucial role in ant foraging behavior, with successful foragers laying pheromone trails that contain information about food quality and quantity. The chemical composition of these trail pheromones can vary based on the nutritional value of discovered food sources, creating a sophisticated information network that optimizes colony-wide feeding efficiency."
       }
@@ -390,7 +390,7 @@
       },
       {
         "id": "ants_diet_chemistry_kids_3",
-        "type": "text",
+        "type": "markdown",
         "order": 3,
         "data": "Ants also use [chemicals to talk](/search/ants_communication) about food! The ones who find tasty treats leave invisible trails for their friends to follow. These trails tell other ants where to go and which foods are the best, so the whole colony can eat well together."
       },
